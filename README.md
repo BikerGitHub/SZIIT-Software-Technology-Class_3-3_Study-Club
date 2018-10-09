@@ -1,7 +1,7 @@
 # SZIIT-Software-Technology-Class_3-3_Study-Club
 该Github库用于学习心得交流与解惑,请勿发布无关信息或违反发布规则
 ## 加入Github组织
-- 如何使用GitHub请参见**如何学习.md**[如何学习](如何学习.md)
+- 如何使用GitHub请参见[如何学习](如何学习.md)
 - 在本库的issues里提交加入组织申请,需附带姓名学号
 - 收到邀请邮件后即可加入组织并对库进行编辑
 ## Branch分支
