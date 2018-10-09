@@ -1,0 +1,1 @@
+# SZIIT-Software-Technology-Class_3-3_Study-Club
