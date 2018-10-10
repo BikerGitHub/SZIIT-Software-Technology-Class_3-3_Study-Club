@@ -2,6 +2,8 @@
 - 该Github库用于学习心得交流与解惑
 - 勿发布无关信息或违反发布规则
 - 不建议使用手机端浏览
+## 如何使用Github
+- [Github Help 中文翻译版](https://github.com/waylau/github-help)
 ## 加入Github组织
 - 如何使用GitHub请参见[如何学习](如何学习.md)
 - 如果你对GitHub的英文界面感到不适应可以使用这个[Github汉化插件](https://github.com/52cik/github-hans)来将界面变成中文
