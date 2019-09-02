@@ -1,0 +1,14 @@
+img
+{
+    width:875px;
+    height:1240px;
+}
+.box
+{
+    margin: auto;
+    width:800px;
+    height:600px;
+    border:thin solid black;
+    overflow-x:auto;
+    overflow-y:auto;
+}

@@ -1,0 +1,31 @@
+.dimension
+{
+    animation:bigsmall 5s infinite alternate;
+    -moz-animation:bigsmall 5s infinite alternate; /* Firefox */
+    -webkit-animation:bigsmall 5s infinite alternate; /* Safari and Chrome */
+    -o-animation:bigsmall 5s infinite alternate; /* Opera */
+}
+
+@keyframes bigsmall
+{
+    0%{width:5%;}
+    100%{width:20%;}
+}
+
+@-moz-keyframes bigsmall /* Firefox */
+{
+    0%{width:5%;}
+    100%{width:20%;}
+}
+
+@-webkit-keyframes bigsmall /* Safari and Chrome */
+{
+    0%{width:5%;}
+    100%{width:20%;}
+}
+
+@-o-keyframes bigsmall /* Opera */
+{
+    0%{width:5%;}
+    100%{width:20%;}
+}

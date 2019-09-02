@@ -1,0 +1,32 @@
+.padding
+{
+    border:black solid 2px;
+    animation:paddingchange 5s infinite alternate;
+    -moz-animation:paddingchange 5s infinite alternate; /* Firefox */
+    -webkit-animation:paddingchange 5s infinite alternate; /* Safari and Chrome */
+    -o-animation:paddingchange 5s infinite alternate; /* Opera */
+}
+
+@keyframes paddingchange
+{
+    0%{padding:0px;}
+    100%{padding:50px;}
+}
+
+@-moz-keyframes paddingchange /* Firefox */
+{
+    0%{padding:0px;}
+    100%{padding:50px;}
+}
+
+@-webkit-keyframes paddingchange /* Safari and Chrome */
+{
+    0%{padding:0px;}
+    100%{padding:50px;}
+}
+
+@-o-keyframes paddingchange /* Opera */
+{
+    0%{padding:0px;}
+    100%{padding:50px;}
+}

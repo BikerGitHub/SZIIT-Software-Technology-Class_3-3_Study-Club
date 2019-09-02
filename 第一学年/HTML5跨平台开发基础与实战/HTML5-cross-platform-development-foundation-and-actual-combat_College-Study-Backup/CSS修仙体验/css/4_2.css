@@ -1,0 +1,8 @@
+.transition
+{
+    transition:padding 2s;
+}
+.transition:hover
+{
+    padding:32px 128px;
+}

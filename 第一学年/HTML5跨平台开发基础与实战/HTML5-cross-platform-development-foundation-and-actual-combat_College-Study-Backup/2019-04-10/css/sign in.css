@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body>div{
+    background-color:#ccc;
+    min-width: 360px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+#title{
+    background-color: #aaa;
+    text-align: center;
+}
+form{
+    width: 96%;
+    margin: 0 auto;
+}
+.item{
+    margin: 0px auto;
+    width: 96%;
+    border: 1px solid gray
+}
+input{
+    border: 0;
+    width: 80%;
+    height: 32px;
+}

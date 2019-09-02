@@ -1,0 +1,107 @@
+.font
+{
+    animation:fontchange 10s infinite alternate;
+    -moz-animation:fontchange 10s infinite alternate; /* Firefox */
+    -webkit-animation:fontchange 10s infinite alternate; /* Safari and Chrome */
+    -o-animation:fontchange 10s infinite alternate; /* Opera */
+}
+
+@keyframes fontchange
+{
+    0%
+    {
+        font-size:100%;
+        font-style:normal;
+        font-variant:normal;
+        font-weight:lighter;
+    }
+    50%
+    {
+        font-size:200%;
+        font-style:italic;
+        font-variant:small-caps;
+        font-weight:bold;
+    }
+    100%
+    {
+        font-size:50%;
+        font-style:oblique;
+        font-variant:normal;
+        font-weight:bolder;
+    }
+}
+
+@-moz-keyframes fontchange /* Firefox */
+{
+    0%
+    {
+        font-size:100%;
+        font-style:normal;
+        font-variant:normal;
+        font-weight:lighter;
+    }
+    50%
+    {
+        font-size:200%;
+        font-style:italic;
+        font-variant:small-caps;
+        font-weight:bold;
+    }
+    100%
+    {
+        font-size:50%;
+        font-style:oblique;
+        font-variant:normal;
+        font-weight:bolder;
+    }
+}
+
+@-webkit-keyframes fontchange /* Safari and Chrome */
+{
+    0%
+    {
+        font-size:100%;
+        font-style:normal;
+        font-variant:normal;
+        font-weight:lighter;
+    }
+    50%
+    {
+        font-size:200%;
+        font-style:italic;
+        font-variant:small-caps;
+        font-weight:bold;
+    }
+    100%
+    {
+        font-size:50%;
+        font-style:oblique;
+        font-variant:normal;
+        font-weight:bolder;
+    }
+}
+
+@-o-keyframes fontchange /* Opera */
+{
+    0%
+    {
+        font-size:100%;
+        font-style:normal;
+        font-variant:normal;
+        font-weight:lighter;
+    }
+    50%
+    {
+        font-size:200%;
+        font-style:italic;
+        font-variant:small-caps;
+        font-weight:bold;
+    }
+    100%
+    {
+        font-size:50%;
+        font-style:oblique;
+        font-variant:normal;
+        font-weight:bolder;
+    }
+}

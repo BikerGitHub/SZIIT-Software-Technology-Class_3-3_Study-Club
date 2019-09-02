@@ -1,0 +1,20 @@
+笔
+pen
+胶布
+tape
+资料夹
+folder
+图钉
+thumbtack
+美工刀
+cutter
+回形针
+paper clip
+尺子
+ruler
+订书机
+stapler
+圆规
+compasses
+剪刀
+scissors

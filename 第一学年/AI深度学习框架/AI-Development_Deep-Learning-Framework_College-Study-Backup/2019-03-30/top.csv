@@ -1,0 +1,2 @@
+poisson,categorical_accuracy,rmsprop,tanh,softmax
+poisson,binary_accuracy,rmsprop,tanh,softmax

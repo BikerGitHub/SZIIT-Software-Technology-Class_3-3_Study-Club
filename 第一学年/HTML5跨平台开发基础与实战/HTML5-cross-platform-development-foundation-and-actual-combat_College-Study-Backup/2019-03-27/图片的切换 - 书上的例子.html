@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <div id="img_box">
+        <text>now=</text>
+        <span id="now">0</span><br>
+        <text>total=</text>
+        <span id="total">0</span><br>
+        <button id='add'>添加</button>
+        <button id='del'>删除</button>
+        <div id='images'></div>
+        <!-- <img src="1.jpg" width="400" onclick="changeImg(0)" style="display:inline;" />
+        <img src="2.jpg" width="400" onclick="changeImg(1)" style="display:none;" />
+        <img src="3.jpg" width="400" onclick="changeImg(2)" style="display:none;" />
+        <img src="4.jpg" width="400" onclick="changeImg(3)" style="display:none;" /> -->
+    </div>
+    <script>
+        // /*1、把display属性为inline的图片修改为none属性；
+        // 2、把下一张要呈现的图片的display属性修改为none，其它不变。*/
+        // function changeImg(num) {
+        // var img = document.getElementById('img_box').getElementsByTagName('img');
+        //     for (i = 0; i < img.length; i++) { 
+        //     (function(){ 
+        //      if (i == num + 1) { img[i].style.display = "inline";}
+        //      //display:inline 设置对象做为行内元素显示 
+        //      else { img[i].style.display = "none"; } 
+        //     // display:none  对象在页面上消失着 
+        //      if (num == 3) { img[0].style.display = "inline"; }       
+        //      //这里的数字3需要与html中的最后一项保持一致                  
+        //     })();  
+        //     }             
+        // }
+        function image_change(){
+            var now_num=0,total_num=0,total_image_num=8;
+            var total_image_file=new Int8Array(total_image_num);
+            var images_div= document.getElementById('images');
+            var now_span=document.getElementById('now');
+            var total_span=document.getElementById('total');
+            function add_image(){
+                var add_num=parseInt(Math.random()*(total_image_num-total_num),10)%total_image_num+1;
+                while(add_num&&total_num<total_image_num){
+                    var now_add_num=parseInt(Math.random()*(total_image_num),10);
+                    if(!total_image_file[now_add_num]){
+                        var now_image=document.createElement('img');
+                        now_image.src=now_add_num+'.jpg';
+                        now_image.width='400';
+                        now_image.style.display='none';
+                        images_div.appendChild(now_image);
+                        total_image_file[now_add_num]=1;
+                        total_num++;
+                        add_num--;
+                    }
+                }
+                total_span.innerText=total_num;
+                change_now_image();
+            }
+
+            function del_image(){
+                if(total_num){
+                    var del_num=parseInt(Math.random()*(total_num),10)%total_num+1;
+                    images_div.childNodes[now_num].style.display='none';
+                    now_num=0
+                    while(del_num){
+                        var now_del_num=parseInt(Math.random()*(total_num),10)%total_num;
+                        var now_del_file_num=parseInt(document.getElementById('images').childNodes[now_del_num].src.match(/([0-9]).jpg/)[1]);
+                        images_div.removeChild(images_div.childNodes[now_del_num]);
+                        total_image_file[now_del_file_num]=0;
+                        total_num--;
+                        del_num--;
+                    }
+                    total_span.innerText=total_num;
+                    change_now_image();
+                }
+            }
+
+            function change_now_image(){
+                if(total_num){
+                    var last_num=now_num;
+                    now_num=parseInt(Math.random()*(total_num),10)%total_num;
+                    if(last_num==now_num)
+                        now_num=(now_num+1)%total_num;
+                    now_span.innerText=now_num;
+                    images_div.childNodes[last_num].style.display='none';
+                    images_div.childNodes[now_num].style.display='inline';
+                }
+                else{
+                    now_num=0;
+                    now_span.innerText=now_num;
+                }
+
+            }
+            document.getElementById('add').addEventListener('click',add_image);
+            document.getElementById('del').addEventListener('click',del_image);
+            document.getElementById('images').addEventListener('click',change_now_image);
+        }
+        image_change()
+        
+    </script>
+</body>
+</html>

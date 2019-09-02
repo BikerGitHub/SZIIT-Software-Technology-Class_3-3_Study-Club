@@ -1,0 +1,2160 @@
+categorical_crossentropy,categorical_accuracy,rmsprop,tanh,sigmoid,0.970583364,0.9766
+kullback_leibler_divergence,top_k_categorical_accuracy,nadam,softsign,softmax,0.999250116,0.9763
+categorical_crossentropy,categorical_accuracy,nadam,tanh,softplus,0.971250035,0.9761
+categorical_crossentropy,top_k_categorical_accuracy,nadam,softsign,softplus,0.999166764,0.9761
+categorical_crossentropy,binary_accuracy,nadam,softsign,softplus,0.923658515,0.9759
+categorical_crossentropy,acc,rmsprop,tanh,sigmoid,0.970833374,0.9757
+categorical_crossentropy,binary_accuracy,nadam,softsign,sigmoid,0.918358512,0.9757
+categorical_crossentropy,categorical_accuracy,nadam,softsign,softmax,0.969166711,0.9756
+categorical_crossentropy,top_k_categorical_accuracy,nadam,tanh,softplus,0.99908344,0.9754
+kullback_leibler_divergence,top_k_categorical_accuracy,nadam,softsign,softmax,0.99900011,0.9753
+binary_crossentropy,categorical_accuracy,nadam,tanh,softmax,0.971833378,0.9752
+categorical_crossentropy,top_k_categorical_accuracy,nadam,tanh,sigmoid,0.999166779,0.9747
+categorical_crossentropy,acc,nadam,tanh,softplus,0.97375004,0.9745
+binary_crossentropy,acc,nadam,softsign,softmax,0.99405848,0.9744
+poisson,acc,nadam,tanh,sigmoid,0.970666689,0.9743
+categorical_crossentropy,categorical_accuracy,nadam,softsign,softplus,0.971416729,0.9742
+kullback_leibler_divergence,acc,nadam,softsign,softmax,0.970166713,0.9742
+categorical_crossentropy,binary_accuracy,nadam,tanh,sigmoid,0.921566839,0.9742
+binary_crossentropy,acc,nadam,tanh,softmax,0.99435015,0.974
+binary_crossentropy,top_k_categorical_accuracy,nadam,softsign,sigmoid,0.998750101,0.974
+categorical_crossentropy,top_k_categorical_accuracy,nadam,softsign,sigmoid,0.999166787,0.9739
+categorical_crossentropy,binary_accuracy,nadam,tanh,softplus,0.921283503,0.9737
+kullback_leibler_divergence,categorical_accuracy,nadam,softsign,softmax,0.969750049,0.9737
+categorical_crossentropy,binary_accuracy,nadam,tanh,softplus,0.92100851,0.9736
+categorical_crossentropy,categorical_accuracy,adam,tanh,sigmoid,0.970083373,0.9735
+categorical_crossentropy,categorical_accuracy,nadam,softsign,sigmoid,0.970250028,0.9734
+categorical_crossentropy,acc,nadam,softsign,softmax,0.971250035,0.9733
+poisson,categorical_accuracy,nadam,tanh,sigmoid,0.970666714,0.9733
+poisson,categorical_accuracy,rmsprop,tanh,softmax,0.968000044,0.9732
+binary_crossentropy,binary_accuracy,nadam,softsign,sigmoid,0.993083487,0.9732
+binary_crossentropy,top_k_categorical_accuracy,nadam,tanh,softmax,0.998916768,0.9731
+kullback_leibler_divergence,top_k_categorical_accuracy,nadam,tanh,softmax,0.999166767,0.9731
+kullback_leibler_divergence,binary_accuracy,nadam,softsign,softmax,0.993975153,0.973
+poisson,binary_accuracy,nadam,softsign,softmax,0.994216832,0.9728
+categorical_crossentropy,binary_accuracy,nadam,tanh,softmax,0.994325156,0.9728
+categorical_crossentropy,top_k_categorical_accuracy,nadam,tanh,softmax,0.99908344,0.9728
+binary_crossentropy,acc,nadam,softsign,sigmoid,0.99285016,0.9728
+categorical_crossentropy,binary_accuracy,nadam,softsign,softmax,0.993966818,0.9727
+kullback_leibler_divergence,top_k_categorical_accuracy,nadam,softsign,softmax,0.999333439,0.9727
+categorical_crossentropy,categorical_accuracy,adam,softsign,softmax,0.967916707,0.9726
+categorical_crossentropy,categorical_accuracy,adam,softsign,sigmoid,0.968000039,0.9726
+binary_crossentropy,top_k_categorical_accuracy,nadam,softsign,sigmoid,0.998750103,0.9726
+poisson,top_k_categorical_accuracy,nadam,softsign,softmax,0.999083447,0.9725
+categorical_crossentropy,top_k_categorical_accuracy,nadam,softsign,softmax,0.999000107,0.9725
+categorical_crossentropy,top_k_categorical_accuracy,rmsprop,softsign,softmax,0.99891677,0.9724
+poisson,binary_accuracy,nadam,tanh,sigmoid,0.992591833,0.9724
+binary_crossentropy,acc,nadam,tanh,sigmoid,0.993475164,0.9724
+categorical_crossentropy,binary_accuracy,nadam,tanh,sigmoid,0.919566845,0.9724
+binary_crossentropy,binary_accuracy,nadam,softsign,sigmoid,0.993133488,0.9724
+binary_crossentropy,binary_accuracy,rmsprop,tanh,sigmoid,0.99299182,0.9722
+categorical_crossentropy,categorical_accuracy,nadam,tanh,softmax,0.97275004,0.9721
+categorical_crossentropy,categorical_accuracy,rmsprop,tanh,softplus,0.969083369,0.972
+poisson,binary_accuracy,nadam,tanh,softmax,0.994491823,0.972
+kullback_leibler_divergence,binary_accuracy,adam,softsign,softmax,0.993800173,0.972
+categorical_crossentropy,categorical_accuracy,nadam,tanh,sigmoid,0.97458337,0.972
+categorical_crossentropy,binary_accuracy,adam,tanh,softplus,0.917941836,0.9719
+categorical_crossentropy,top_k_categorical_accuracy,rmsprop,tanh,sigmoid,0.999083447,0.9719
+kullback_leibler_divergence,acc,nadam,tanh,softmax,0.971500032,0.9718
+kullback_leibler_divergence,top_k_categorical_accuracy,rmsprop,softsign,softmax,0.99900011,0.9718
+kullback_leibler_divergence,top_k_categorical_accuracy,rmsprop,softsign,softmax,0.998750096,0.9718
+poisson,categorical_accuracy,rmsprop,softsign,softmax,0.966416699,0.9717
+categorical_crossentropy,binary_accuracy,nadam,softsign,softmax,0.99404182,0.9717
+poisson,acc,nadam,softsign,sigmoid,0.968000037,0.9717
+kullback_leibler_divergence,categorical_accuracy,rmsprop,softsign,softmax,0.967333374,0.9716
+poisson,categorical_accuracy,adam,softsign,softmax,0.968333381,0.9715
+binary_crossentropy,binary_accuracy,nadam,tanh,softmax,0.99434183,0.9715
+categorical_crossentropy,acc,nadam,tanh,sigmoid,0.973583375,0.9715
+categorical_hinge,binary_accuracy,nadam,softsign,softplus,0.79200012,0.9714
+binary_crossentropy,categorical_accuracy,nadam,softsign,sigmoid,0.970750046,0.9714
+categorical_crossentropy,categorical_accuracy,adam,tanh,softplus,0.970000041,0.9713
+categorical_crossentropy,acc,rmsprop,softsign,softmax,0.967500026,0.9713
+binary_crossentropy,binary_accuracy,rmsprop,softsign,softmax,0.9932835,0.9713
+kullback_leibler_divergence,binary_accuracy,rmsprop,softsign,softmax,0.993333509,0.9713
+kullback_leibler_divergence,binary_accuracy,nadam,tanh,softmax,0.994150164,0.9713
+kullback_leibler_divergence,top_k_categorical_accuracy,nadam,softsign,softmax,0.998916777,0.9713
+categorical_crossentropy,categorical_accuracy,adam,tanh,sigmoid,0.971083365,0.9712
+categorical_crossentropy,categorical_accuracy,adam,tanh,softplus,0.969416708,0.9711
+poisson,binary_accuracy,nadam,softsign,sigmoid,0.992500151,0.9711
+poisson,categorical_accuracy,nadam,softsign,sigmoid,0.968833372,0.9711
+poisson,top_k_categorical_accuracy,rmsprop,softsign,softmax,0.998916768,0.971
+binary_crossentropy,categorical_accuracy,nadam,tanh,softmax,0.970166706,0.971
+poisson,top_k_categorical_accuracy,nadam,tanh,sigmoid,0.999000115,0.971
+poisson,acc,nadam,softsign,softmax,0.968500045,0.9709
+binary_crossentropy,acc,rmsprop,tanh,sigmoid,0.992566819,0.9709
+categorical_crossentropy,acc,adam,tanh,sigmoid,0.971583384,0.9708
+poisson,acc,adam,tanh,softmax,0.966333379,0.9707
+categorical_crossentropy,binary_accuracy,rmsprop,tanh,softplus,0.923083509,0.9706
+poisson,binary_accuracy,rmsprop,softsign,softmax,0.993108508,0.9706
+binary_crossentropy,binary_accuracy,rmsprop,tanh,softmax,0.993691822,0.9706
+binary_crossentropy,top_k_categorical_accuracy,nadam,softplus,softmax,0.998916763,0.9706
+poisson,top_k_categorical_accuracy,adam,softsign,softmax,0.999000105,0.9705
+categorical_crossentropy,categorical_accuracy,adam,softsign,softmax,0.968333376,0.9705
+categorical_crossentropy,top_k_categorical_accuracy,rmsprop,tanh,softmax,0.998666768,0.9705
+categorical_crossentropy,binary_accuracy,adam,tanh,sigmoid,0.911041846,0.9704
+categorical_crossentropy,top_k_categorical_accuracy,rmsprop,softsign,sigmoid,0.998750103,0.9704
+categorical_crossentropy,top_k_categorical_accuracy,adam,softsign,sigmoid,0.998916768,0.9704
+categorical_crossentropy,top_k_categorical_accuracy,adam,softsign,softplus,0.998666756,0.9703
+poisson,categorical_accuracy,nadam,softsign,softmax,0.968750045,0.9702
+categorical_crossentropy,categorical_accuracy,rmsprop,softsign,softmax,0.968916712,0.9702
+kullback_leibler_divergence,top_k_categorical_accuracy,nadam,tanh,softmax,0.999333444,0.9702
+categorical_crossentropy,categorical_accuracy,adam,tanh,softmax,0.967333374,0.9701
+binary_crossentropy,categorical_accuracy,rmsprop,tanh,softmax,0.967500048,0.9701
+kullback_leibler_divergence,categorical_accuracy,adam,softsign,softmax,0.966583361,0.9701
+poisson,categorical_accuracy,rmsprop,tanh,sigmoid,0.965833358,0.9701
+categorical_crossentropy,top_k_categorical_accuracy,adam,tanh,sigmoid,0.999000102,0.9701
+categorical_hinge,categorical_accuracy,nadam,softsign,softplus,0.965916701,0.97
+categorical_crossentropy,binary_accuracy,adam,tanh,softplus,0.919625183,0.97
+categorical_crossentropy,top_k_categorical_accuracy,adam,tanh,softmax,0.9990001,0.9699
+categorical_crossentropy,categorical_accuracy,rmsprop,tanh,sigmoid,0.967916712,0.9699
+categorical_crossentropy,categorical_accuracy,rmsprop,softsign,softplus,0.969500042,0.9698
+categorical_crossentropy,binary_accuracy,adam,tanh,sigmoid,0.91198352,0.9698
+categorical_crossentropy,top_k_categorical_accuracy,adam,tanh,softplus,0.999083435,0.9697
+categorical_crossentropy,top_k_categorical_accuracy,adam,softsign,softmax,0.998750103,0.9697
+binary_crossentropy,binary_accuracy,adam,tanh,softmax,0.99396683,0.9697
+poisson,acc,nadam,tanh,softmax,0.970250025,0.9695
+poisson,categorical_accuracy,nadam,tanh,softmax,0.969083366,0.9695
+kullback_leibler_divergence,categorical_accuracy,nadam,softplus,softmax,0.96683337,0.9695
+kullback_leibler_divergence,categorical_accuracy,nadam,tanh,softmax,0.971583366,0.9694
+kullback_leibler_divergence,categorical_accuracy,rmsprop,tanh,softmax,0.966583384,0.9694
+poisson,acc,rmsprop,softplus,softmax,0.964583372,0.9693
+binary_crossentropy,categorical_accuracy,nadam,softplus,softmax,0.96783337,0.9693
+kullback_leibler_divergence,acc,nadam,tanh,softmax,0.96950002,0.9692
+binary_crossentropy,top_k_categorical_accuracy,nadam,softplus,softmax,0.998750113,0.9691
+kullback_leibler_divergence,categorical_accuracy,rmsprop,tanh,softmax,0.967500053,0.9691
+kullback_leibler_divergence,categorical_accuracy,adam,tanh,softmax,0.967583373,0.9691
+categorical_hinge,categorical_accuracy,nadam,softsign,softplus,0.965500042,0.969
+poisson,top_k_categorical_accuracy,rmsprop,tanh,softmax,0.999083437,0.9689
+binary_crossentropy,binary_accuracy,nadam,tanh,softmax,0.99427517,0.9689
+kullback_leibler_divergence,binary_accuracy,adam,tanh,softmax,0.99352517,0.9687
+kullback_leibler_divergence,top_k_categorical_accuracy,nadam,softplus,softmax,0.998833445,0.9687
+poisson,top_k_categorical_accuracy,rmsprop,tanh,sigmoid,0.998833435,0.9687
+binary_crossentropy,categorical_accuracy,nadam,softsign,sigmoid,0.96775005,0.9687
+categorical_crossentropy,categorical_accuracy,adam,softsign,softplus,0.967416696,0.9686
+kullback_leibler_divergence,binary_accuracy,nadam,tanh,softmax,0.993791831,0.9686
+categorical_crossentropy,categorical_accuracy,rmsprop,softsign,sigmoid,0.968250049,0.9686
+categorical_crossentropy,acc,adam,tanh,softplus,0.970750044,0.9685
+binary_crossentropy,categorical_accuracy,adam,tanh,softmax,0.968500043,0.9685
+categorical_hinge,categorical_accuracy,adam,softsign,softplus,0.968250036,0.9684
+poisson,binary_accuracy,adam,tanh,softmax,0.993525177,0.9684
+kullback_leibler_divergence,acc,rmsprop,tanh,softmax,0.96616671,0.9684
+poisson,acc,rmsprop,tanh,softmax,0.963833377,0.9683
+binary_crossentropy,categorical_accuracy,adam,tanh,softmax,0.967416704,0.9683
+poisson,binary_accuracy,nadam,softsign,softplus,0.979725185,0.9682
+categorical_crossentropy,acc,adam,softsign,softmax,0.966750048,0.9682
+binary_crossentropy,top_k_categorical_accuracy,adam,tanh,softmax,0.998916777,0.9682
+binary_crossentropy,top_k_categorical_accuracy,adam,tanh,softmax,0.998583434,0.9682
+categorical_hinge,binary_accuracy,nadam,softsign,softplus,0.788466764,0.9681
+categorical_crossentropy,categorical_accuracy,nadam,softplus,softmax,0.965750034,0.9681
+categorical_crossentropy,top_k_categorical_accuracy,adamax,tanh,softplus,0.998500086,0.968
+binary_crossentropy,top_k_categorical_accuracy,rmsprop,tanh,softmax,0.998666766,0.9679
+categorical_hinge,top_k_categorical_accuracy,rmsprop,softsign,softplus,0.997583429,0.9678
+binary_crossentropy,acc,adam,softsign,softmax,0.993500163,0.9678
+binary_crossentropy,acc,rmsprop,tanh,softmax,0.993325171,0.9678
+binary_crossentropy,binary_accuracy,nadam,softplus,softmax,0.993516823,0.9677
+categorical_hinge,acc,nadam,softsign,softplus,0.96625004,0.9676
+categorical_crossentropy,binary_accuracy,adam,softsign,softmax,0.993383495,0.9676
+poisson,binary_accuracy,rmsprop,tanh,softmax,0.99321682,0.9675
+binary_crossentropy,binary_accuracy,adam,tanh,softmax,0.993591828,0.9675
+binary_crossentropy,categorical_accuracy,rmsprop,tanh,softmax,0.963416698,0.9674
+poisson,binary_accuracy,rmsprop,softsign,sigmoid,0.990900154,0.9674
+categorical_crossentropy,categorical_accuracy,rmsprop,tanh,softmax,0.967250034,0.9673
+kullback_leibler_divergence,binary_accuracy,nadam,softplus,softmax,0.993758502,0.9673
+kullback_leibler_divergence,top_k_categorical_accuracy,adam,softsign,softmax,0.998833443,0.9673
+binary_crossentropy,top_k_categorical_accuracy,rmsprop,softsign,sigmoid,0.998333422,0.9673
+categorical_crossentropy,binary_accuracy,adamax,softsign,softmax,0.99208351,0.9672
+kullback_leibler_divergence,acc,adam,tanh,softmax,0.967166709,0.9672
+categorical_hinge,binary_accuracy,adam,softsign,softplus,0.679241742,0.9671
+categorical_crossentropy,binary_accuracy,adam,softsign,softmax,0.993566828,0.9671
+binary_crossentropy,acc,rmsprop,softsign,softmax,0.993466837,0.9671
+binary_crossentropy,acc,nadam,softplus,softmax,0.993466839,0.9671
+kullback_leibler_divergence,top_k_categorical_accuracy,adam,softsign,softmax,0.998750098,0.967
+poisson,categorical_accuracy,nadam,softsign,softplus,0.967166695,0.9669
+poisson,binary_accuracy,adam,softsign,softmax,0.993625167,0.9669
+kullback_leibler_divergence,top_k_categorical_accuracy,rmsprop,tanh,softmax,0.99883344,0.9669
+categorical_crossentropy,categorical_accuracy,adamax,tanh,sigmoid,0.964250036,0.9669
+binary_crossentropy,acc,adamax,softsign,softmax,0.992666846,0.9668
+kullback_leibler_divergence,binary_accuracy,rmsprop,tanh,softmax,0.993608492,0.9668
+categorical_hinge,acc,rmsprop,softsign,softplus,0.958916694,0.9667
+kullback_leibler_divergence,acc,rmsprop,tanh,softmax,0.965583377,0.9667
+kullback_leibler_divergence,acc,adam,softplus,softmax,0.962083367,0.9667
+kullback_leibler_divergence,binary_accuracy,rmsprop,softplus,softmax,0.993025186,0.9667
+kullback_leibler_divergence,top_k_categorical_accuracy,adam,tanh,softmax,0.99883343,0.9667
+kullback_leibler_divergence,acc,adam,tanh,softmax,0.96625004,0.9666
+categorical_crossentropy,top_k_categorical_accuracy,adamax,softsign,softplus,0.998666768,0.9665
+poisson,acc,nadam,softsign,softplus,0.964000039,0.9664
+categorical_crossentropy,categorical_accuracy,rmsprop,tanh,softplus,0.969166711,0.9664
+binary_crossentropy,acc,adam,tanh,softmax,0.993816843,0.9664
+kullback_leibler_divergence,acc,rmsprop,softplus,softmax,0.963916709,0.9664
+categorical_crossentropy,top_k_categorical_accuracy,nadam,sigmoid,sigmoid,0.998666766,0.9663
+poisson,top_k_categorical_accuracy,nadam,tanh,softplus,0.998583431,0.9662
+categorical_crossentropy,categorical_accuracy,rmsprop,softsign,softmax,0.961416716,0.9661
+poisson,acc,rmsprop,softsign,sigmoid,0.967250034,0.9661
+categorical_crossentropy,categorical_accuracy,adamax,softsign,sigmoid,0.96375003,0.9661
+poisson,acc,nadam,tanh,softplus,0.964833379,0.966
+categorical_crossentropy,binary_accuracy,adamax,tanh,softplus,0.922116846,0.9659
+categorical_crossentropy,top_k_categorical_accuracy,rmsprop,softsign,softplus,0.99891677,0.9659
+binary_crossentropy,top_k_categorical_accuracy,rmsprop,tanh,softmax,0.998833435,0.9659
+categorical_hinge,binary_accuracy,rmsprop,softsign,softplus,0.821283447,0.9658
+categorical_hinge,top_k_categorical_accuracy,nadam,softsign,softplus,0.997916766,0.9658
+categorical_crossentropy,binary_accuracy,nadam,sigmoid,sigmoid,0.908991851,0.9657
+binary_crossentropy,categorical_accuracy,rmsprop,softplus,softmax,0.965583372,0.9656
+binary_crossentropy,categorical_accuracy,nadam,softplus,softmax,0.966916708,0.9656
+kullback_leibler_divergence,categorical_accuracy,rmsprop,softplus,softmax,0.96458337,0.9656
+binary_crossentropy,top_k_categorical_accuracy,nadam,tanh,softmax,0.999166774,0.9655
+binary_crossentropy,acc,adam,softplus,softmax,0.992408492,0.9654
+categorical_crossentropy,binary_accuracy,adagrad,tanh,sigmoid,0.920433491,0.9654
+kullback_leibler_divergence,binary_accuracy,adam,tanh,softmax,0.993475166,0.9652
+categorical_crossentropy,acc,rmsprop,tanh,softplus,0.9636667,0.9651
+categorical_crossentropy,categorical_accuracy,nadam,sigmoid,softplus,0.962333369,0.9651
+binary_crossentropy,categorical_accuracy,rmsprop,softplus,softmax,0.961750028,0.9651
+binary_crossentropy,categorical_accuracy,rmsprop,softsign,sigmoid,0.967166712,0.9651
+poisson,categorical_accuracy,adamax,softsign,softmax,0.959166716,0.965
+binary_crossentropy,top_k_categorical_accuracy,rmsprop,softplus,softmax,0.998583446,0.965
+kullback_leibler_divergence,categorical_accuracy,rmsprop,softplus,softmax,0.96458338,0.965
+kullback_leibler_divergence,top_k_categorical_accuracy,adam,tanh,softmax,0.998666756,0.965
+categorical_hinge,categorical_accuracy,adam,softsign,softplus,0.962416716,0.9649
+categorical_hinge,top_k_categorical_accuracy,rmsprop,softsign,softplus,0.997416737,0.9649
+categorical_crossentropy,binary_accuracy,adagrad,tanh,sigmoid,0.925466845,0.9649
+categorical_hinge,top_k_categorical_accuracy,adam,softsign,softplus,0.997916766,0.9648
+categorical_crossentropy,categorical_accuracy,adagrad,softsign,softplus,0.961583381,0.9648
+categorical_crossentropy,categorical_accuracy,rmsprop,softplus,softmax,0.963583373,0.9648
+binary_crossentropy,acc,nadam,sigmoid,softmax,0.992733496,0.9647
+categorical_crossentropy,acc,adamax,tanh,softplus,0.963333373,0.9646
+categorical_crossentropy,binary_accuracy,adamax,tanh,softplus,0.920375163,0.9646
+binary_crossentropy,top_k_categorical_accuracy,rmsprop,softplus,softmax,0.998333439,0.9646
+binary_crossentropy,acc,adam,tanh,sigmoid,0.991766843,0.9646
+binary_crossentropy,acc,rmsprop,softsign,sigmoid,0.991641822,0.9646
+binary_crossentropy,top_k_categorical_accuracy,rmsprop,softsign,sigmoid,0.998250109,0.9646
+categorical_hinge,categorical_accuracy,rmsprop,softsign,softplus,0.962583368,0.9645
+binary_crossentropy,binary_accuracy,nadam,softplus,softmax,0.99366683,0.9644
+kullback_leibler_divergence,acc,adamax,softsign,softmax,0.959916711,0.9644
+categorical_hinge,binary_accuracy,nadam,tanh,softplus,0.852966808,0.9643
+poisson,categorical_accuracy,rmsprop,softsign,sigmoid,0.96350004,0.9643
+categorical_crossentropy,top_k_categorical_accuracy,adamax,tanh,sigmoid,0.998416769,0.9643
+categorical_hinge,categorical_accuracy,nadam,tanh,softmax,0.962250039,0.9642
+categorical_crossentropy,acc,adagrad,softsign,softmax,0.956583373,0.9642
+kullback_leibler_divergence,top_k_categorical_accuracy,rmsprop,softplus,softmax,0.999083437,0.9642
+poisson,top_k_categorical_accuracy,adam,tanh,sigmoid,0.998500104,0.9642
+poisson,categorical_accuracy,rmsprop,softsign,softplus,0.959583367,0.9641
+categorical_crossentropy,acc,adagrad,tanh,softplus,0.962083367,0.9641
+categorical_hinge,top_k_categorical_accuracy,nadam,softplus,softmax,0.997250095,0.9641
+kullback_leibler_divergence,binary_accuracy,nadam,sigmoid,softmax,0.992358508,0.9641
+poisson,top_k_categorical_accuracy,rmsprop,softsign,sigmoid,0.998416759,0.9641
+categorical_crossentropy,binary_accuracy,adamax,tanh,sigmoid,0.912216867,0.9641
+categorical_hinge,acc,adam,softsign,softplus,0.965750031,0.964
+poisson,binary_accuracy,nadam,tanh,softplus,0.981441841,0.964
+poisson,binary_accuracy,nadam,softplus,softmax,0.993583498,0.964
+kullback_leibler_divergence,top_k_categorical_accuracy,nadam,sigmoid,softmax,0.998583431,0.964
+categorical_crossentropy,binary_accuracy,adamax,tanh,sigmoid,0.912616859,0.964
+poisson,categorical_accuracy,rmsprop,softplus,softmax,0.96258338,0.9639
+poisson,top_k_categorical_accuracy,rmsprop,softplus,softmax,0.998666776,0.9639
+binary_crossentropy,categorical_accuracy,adam,softplus,softmax,0.961500044,0.9639
+kullback_leibler_divergence,acc,rmsprop,softplus,softmax,0.964083381,0.9639
+kullback_leibler_divergence,acc,adam,softplus,softmax,0.960500042,0.9639
+poisson,categorical_accuracy,adam,tanh,sigmoid,0.963833377,0.9639
+categorical_hinge,categorical_accuracy,rmsprop,softsign,softplus,0.95925005,0.9638
+poisson,categorical_accuracy,adam,softsign,softplus,0.961583381,0.9638
+kullback_leibler_divergence,top_k_categorical_accuracy,nadam,sigmoid,softmax,0.998500101,0.9638
+poisson,binary_accuracy,rmsprop,tanh,sigmoid,0.991458493,0.9638
+poisson,binary_accuracy,adam,softsign,softplus,0.983950183,0.9637
+categorical_crossentropy,top_k_categorical_accuracy,nadam,sigmoid,softplus,0.998583431,0.9637
+poisson,categorical_accuracy,nadam,softplus,softmax,0.964916711,0.9637
+categorical_crossentropy,categorical_accuracy,adamax,softsign,softmax,0.961416704,0.9637
+binary_crossentropy,binary_accuracy,adam,softplus,softmax,0.992258504,0.9637
+kullback_leibler_divergence,binary_accuracy,adamax,softsign,softmax,0.992100182,0.9637
+binary_crossentropy,categorical_accuracy,adam,softplus,softmax,0.961666701,0.9635
+binary_crossentropy,binary_accuracy,rmsprop,softsign,sigmoid,0.991750153,0.9635
+binary_crossentropy,binary_accuracy,adam,softsign,sigmoid,0.991358499,0.9635
+categorical_hinge,binary_accuracy,nadam,softsign,softmax,0.992600158,0.9634
+binary_crossentropy,top_k_categorical_accuracy,adam,softplus,softmax,0.99825009,0.9634
+kullback_leibler_divergence,top_k_categorical_accuracy,nadam,softplus,softmax,0.998833435,0.9634
+categorical_hinge,binary_accuracy,nadam,tanh,sigmoid,0.992208483,0.9634
+categorical_crossentropy,categorical_accuracy,adamax,tanh,softplus,0.964583375,0.9633
+poisson,binary_accuracy,adam,softplus,softmax,0.992025169,0.9633
+poisson,top_k_categorical_accuracy,adamax,softsign,softmax,0.998166772,0.9633
+kullback_leibler_divergence,top_k_categorical_accuracy,adamax,softsign,softmax,0.998083433,0.9633
+categorical_hinge,categorical_accuracy,nadam,softsign,sigmoid,0.961166715,0.9633
+categorical_crossentropy,top_k_categorical_accuracy,rmsprop,tanh,softplus,0.998916775,0.9632
+poisson,binary_accuracy,rmsprop,softplus,softmax,0.992866839,0.9632
+categorical_hinge,binary_accuracy,nadam,softsign,sigmoid,0.991508491,0.9631
+poisson,top_k_categorical_accuracy,adam,tanh,softplus,0.998666771,0.963
+categorical_crossentropy,top_k_categorical_accuracy,adamax,softsign,softmax,0.998166765,0.963
+categorical_crossentropy,binary_accuracy,adamax,softsign,softmax,0.992333504,0.963
+categorical_crossentropy,binary_accuracy,adagrad,tanh,softplus,0.923583505,0.9629
+kullback_leibler_divergence,binary_accuracy,nadam,softplus,softmax,0.993200156,0.9629
+kullback_leibler_divergence,top_k_categorical_accuracy,nadam,sigmoid,softmax,0.998583438,0.9629
+poisson,acc,nadam,sigmoid,softmax,0.958500035,0.9628
+kullback_leibler_divergence,acc,nadam,softplus,softmax,0.965250038,0.9628
+categorical_hinge,binary_accuracy,rmsprop,tanh,softmax,0.991866834,0.9627
+poisson,categorical_accuracy,adam,softplus,softmax,0.960500047,0.9627
+categorical_crossentropy,categorical_accuracy,adagrad,softsign,sigmoid,0.960000046,0.9627
+binary_crossentropy,acc,adam,softsign,sigmoid,0.991091835,0.9627
+poisson,categorical_accuracy,adam,tanh,softplus,0.963416708,0.9626
+kullback_leibler_divergence,categorical_accuracy,nadam,sigmoid,softmax,0.958833362,0.9626
+kullback_leibler_divergence,top_k_categorical_accuracy,adam,tanh,softmax,0.998750091,0.9626
+categorical_crossentropy,top_k_categorical_accuracy,adamax,softsign,sigmoid,0.998666771,0.9626
+poisson,binary_accuracy,rmsprop,softsign,softplus,0.972691839,0.9625
+categorical_crossentropy,binary_accuracy,nadam,sigmoid,softplus,0.918600182,0.9625
+binary_crossentropy,categorical_accuracy,rmsprop,softsign,sigmoid,0.963000044,0.9625
+categorical_crossentropy,categorical_accuracy,adagrad,tanh,softplus,0.962250046,0.9624
+categorical_crossentropy,top_k_categorical_accuracy,adagrad,softsign,softplus,0.998333429,0.9624
+poisson,binary_accuracy,adam,tanh,sigmoid,0.990891854,0.9624
+poisson,acc,rmsprop,softsign,softplus,0.959333373,0.9623
+categorical_crossentropy,binary_accuracy,adagrad,softsign,softmax,0.991533508,0.9623
+categorical_crossentropy,categorical_accuracy,adam,softplus,softmax,0.960083388,0.9623
+binary_crossentropy,acc,rmsprop,softplus,softmax,0.992575176,0.9623
+poisson,top_k_categorical_accuracy,nadam,sigmoid,softmax,0.998500111,0.9622
+categorical_crossentropy,categorical_accuracy,adagrad,softsign,softmax,0.95525006,0.9622
+categorical_crossentropy,top_k_categorical_accuracy,rmsprop,softplus,softmax,0.999083442,0.962
+binary_crossentropy,binary_accuracy,rmsprop,softplus,softmax,0.992650174,0.962
+categorical_crossentropy,top_k_categorical_accuracy,adagrad,softsign,sigmoid,0.998500096,0.962
+categorical_crossentropy,top_k_categorical_accuracy,adagrad,tanh,softplus,0.998500096,0.9619
+kullback_leibler_divergence,binary_accuracy,adagrad,softsign,softmax,0.991541845,0.9619
+kullback_leibler_divergence,top_k_categorical_accuracy,nadam,sigmoid,softmax,0.998500089,0.9619
+categorical_crossentropy,top_k_categorical_accuracy,nadam,sigmoid,softmax,0.998333429,0.9618
+binary_crossentropy,binary_accuracy,adam,softsign,sigmoid,0.990850173,0.9618
+categorical_hinge,acc,nadam,tanh,softmax,0.961000045,0.9617
+poisson,categorical_accuracy,nadam,sigmoid,softmax,0.959500045,0.9617
+categorical_crossentropy,binary_accuracy,nadam,sigmoid,softmax,0.992225173,0.9617
+binary_crossentropy,categorical_accuracy,adamax,tanh,softmax,0.960916708,0.9617
+poisson,binary_accuracy,nadam,sigmoid,softmax,0.992183502,0.9616
+kullback_leibler_divergence,top_k_categorical_accuracy,adagrad,softsign,softmax,0.9980001,0.9615
+poisson,acc,adam,softsign,sigmoid,0.959666704,0.9615
+binary_crossentropy,binary_accuracy,rmsprop,tanh,softplus,0.928833497,0.9614
+categorical_crossentropy,top_k_categorical_accuracy,adam,softplus,softmax,0.998416759,0.9614
+kullback_leibler_divergence,binary_accuracy,adam,softplus,softmax,0.99231684,0.9614
+kullback_leibler_divergence,categorical_accuracy,adamax,softsign,softmax,0.959833376,0.9614
+kullback_leibler_divergence,top_k_categorical_accuracy,adamax,softsign,softmax,0.998250097,0.9614
+kullback_leibler_divergence,top_k_categorical_accuracy,nadam,sigmoid,softmax,0.998333429,0.9614
+categorical_crossentropy,categorical_accuracy,adamax,softsign,softplus,0.96350003,0.9613
+poisson,categorical_accuracy,adagrad,softsign,softmax,0.956083392,0.9613
+kullback_leibler_divergence,top_k_categorical_accuracy,adam,softplus,softmax,0.998583434,0.9613
+kullback_leibler_divergence,categorical_accuracy,adagrad,softsign,softmax,0.956250037,0.9612
+categorical_hinge,top_k_categorical_accuracy,nadam,softsign,sigmoid,0.995333413,0.9612
+categorical_crossentropy,categorical_accuracy,adagrad,tanh,sigmoid,0.961500034,0.9612
+categorical_crossentropy,categorical_accuracy,nadam,sigmoid,sigmoid,0.961750028,0.9612
+poisson,acc,adam,softsign,softplus,0.961250042,0.9611
+poisson,acc,nadam,softplus,softmax,0.964166708,0.9611
+categorical_crossentropy,acc,adagrad,tanh,sigmoid,0.962916709,0.9611
+categorical_hinge,binary_accuracy,nadam,softsign,sigmoid,0.991658506,0.961
+poisson,binary_accuracy,adamax,softsign,softmax,0.992358508,0.9609
+kullback_leibler_divergence,acc,nadam,softplus,softmax,0.965333367,0.9609
+categorical_crossentropy,acc,adamax,softsign,softmax,0.961166725,0.9608
+categorical_hinge,top_k_categorical_accuracy,adamax,softsign,softplus,0.997166758,0.9607
+categorical_crossentropy,top_k_categorical_accuracy,nadam,softplus,softmax,0.998916765,0.9607
+binary_crossentropy,top_k_categorical_accuracy,adamax,tanh,softmax,0.998166767,0.9607
+poisson,binary_accuracy,adam,softsign,sigmoid,0.990141836,0.9607
+poisson,acc,adam,softplus,softmax,0.959833369,0.9606
+poisson,categorical_accuracy,adam,tanh,softmax,0.965750034,0.9606
+categorical_crossentropy,categorical_accuracy,nadam,sigmoid,softmax,0.95841671,0.9606
+categorical_hinge,categorical_accuracy,adamax,softsign,softplus,0.959416697,0.9605
+categorical_crossentropy,acc,nadam,sigmoid,softmax,0.958750059,0.9605
+binary_crossentropy,binary_accuracy,adagrad,softsign,softmax,0.9914585,0.9605
+poisson,categorical_accuracy,adam,softsign,sigmoid,0.961000048,0.9605
+poisson,binary_accuracy,rmsprop,tanh,softplus,0.977666842,0.9604
+categorical_crossentropy,categorical_accuracy,adagrad,tanh,softplus,0.960916715,0.9604
+kullback_leibler_divergence,acc,nadam,sigmoid,softmax,0.960083378,0.9604
+binary_crossentropy,acc,nadam,sigmoid,sigmoid,0.990358502,0.9604
+binary_crossentropy,categorical_accuracy,adam,softsign,sigmoid,0.957916692,0.9604
+poisson,binary_accuracy,rmsprop,sigmoid,softmax,0.991725167,0.9603
+categorical_hinge,categorical_accuracy,rmsprop,softsign,softmax,0.958166706,0.9602
+categorical_crossentropy,binary_accuracy,nadam,sigmoid,softmax,0.991675158,0.9602
+categorical_crossentropy,categorical_accuracy,adagrad,softsign,softmax,0.956083375,0.9602
+binary_crossentropy,acc,adamax,tanh,softmax,0.992508491,0.9602
+categorical_hinge,categorical_accuracy,nadam,softsign,sigmoid,0.959083368,0.9601
+binary_crossentropy,top_k_categorical_accuracy,adam,softsign,sigmoid,0.997666764,0.9601
+categorical_crossentropy,binary_accuracy,adagrad,tanh,softplus,0.923900177,0.96
+categorical_crossentropy,acc,adamax,tanh,sigmoid,0.965333377,0.96
+categorical_hinge,categorical_accuracy,rmsprop,softplus,softmax,0.954416707,0.9599
+binary_crossentropy,top_k_categorical_accuracy,adam,softplus,softmax,0.998333427,0.9599
+categorical_hinge,categorical_accuracy,rmsprop,tanh,softmax,0.958250041,0.9598
+categorical_crossentropy,binary_accuracy,adagrad,softsign,softmax,0.991641837,0.9598
+kullback_leibler_divergence,top_k_categorical_accuracy,adam,softplus,softmax,0.998333422,0.9598
+categorical_hinge,acc,nadam,softsign,sigmoid,0.959583362,0.9598
+categorical_crossentropy,binary_accuracy,rmsprop,tanh,sigmoid,0.925850178,0.9598
+binary_crossentropy,categorical_accuracy,nadam,sigmoid,sigmoid,0.956666713,0.9598
+categorical_hinge,binary_accuracy,adamax,softsign,softplus,0.662666731,0.9597
+poisson,acc,adamax,tanh,softmax,0.960750048,0.9597
+categorical_crossentropy,categorical_accuracy,rmsprop,sigmoid,softmax,0.954333382,0.9597
+categorical_crossentropy,top_k_categorical_accuracy,adagrad,softsign,softmax,0.997750091,0.9597
+poisson,acc,nadam,sigmoid,sigmoid,0.955333374,0.9597
+categorical_crossentropy,binary_accuracy,rmsprop,sigmoid,softmax,0.991633512,0.9596
+categorical_hinge,categorical_accuracy,rmsprop,tanh,softmax,0.958666707,0.9595
+poisson,binary_accuracy,adagrad,softsign,softmax,0.991450176,0.9595
+categorical_crossentropy,acc,rmsprop,sigmoid,softmax,0.954916706,0.9595
+binary_crossentropy,categorical_accuracy,nadam,sigmoid,sigmoid,0.958500038,0.9595
+poisson,categorical_accuracy,rmsprop,sigmoid,softmax,0.957750027,0.9594
+poisson,top_k_categorical_accuracy,rmsprop,sigmoid,softmax,0.99808343,0.9593
+kullback_leibler_divergence,binary_accuracy,adam,softplus,softmax,0.992325152,0.9593
+poisson,categorical_accuracy,nadam,sigmoid,sigmoid,0.956166709,0.9593
+poisson,top_k_categorical_accuracy,adagrad,softsign,softmax,0.997916756,0.9592
+binary_crossentropy,binary_accuracy,adamax,tanh,softmax,0.992250172,0.9592
+kullback_leibler_divergence,categorical_accuracy,rmsprop,sigmoid,softmax,0.957916702,0.9591
+binary_crossentropy,categorical_accuracy,rmsprop,softsign,softplus,0.956500043,0.959
+binary_crossentropy,binary_accuracy,adam,softplus,softmax,0.992441828,0.959
+categorical_hinge,categorical_accuracy,adamax,softsign,softplus,0.959916706,0.9589
+poisson,acc,nadam,sigmoid,softplus,0.954833378,0.9589
+binary_crossentropy,categorical_accuracy,adam,softsign,sigmoid,0.960333387,0.9589
+categorical_hinge,top_k_categorical_accuracy,rmsprop,tanh,softmax,0.99566674,0.9587
+binary_crossentropy,top_k_categorical_accuracy,nadam,sigmoid,sigmoid,0.998000093,0.9587
+binary_crossentropy,categorical_accuracy,adamax,tanh,softmax,0.961083367,0.9586
+categorical_crossentropy,top_k_categorical_accuracy,adagrad,tanh,sigmoid,0.998416759,0.9586
+poisson,categorical_accuracy,rmsprop,tanh,softplus,0.957166702,0.9585
+kullback_leibler_divergence,top_k_categorical_accuracy,rmsprop,sigmoid,softmax,0.998166757,0.9585
+categorical_crossentropy,categorical_accuracy,adagrad,tanh,sigmoid,0.963000044,0.9585
+binary_crossentropy,top_k_categorical_accuracy,adam,softsign,sigmoid,0.997916763,0.9584
+categorical_hinge,binary_accuracy,adam,tanh,softmax,0.991658501,0.9582
+poisson,binary_accuracy,nadam,sigmoid,sigmoid,0.988766844,0.9582
+categorical_hinge,categorical_accuracy,rmsprop,tanh,softmax,0.957833362,0.9581
+categorical_crossentropy,binary_accuracy,rmsprop,softsign,softmax,0.9923835,0.9581
+kullback_leibler_divergence,binary_accuracy,rmsprop,sigmoid,softmax,0.991283501,0.9581
+categorical_hinge,acc,adamax,softsign,softplus,0.954666696,0.9579
+poisson,top_k_categorical_accuracy,rmsprop,softsign,softplus,0.998000095,0.9579
+kullback_leibler_divergence,categorical_accuracy,adam,softplus,softmax,0.959083386,0.9579
+binary_crossentropy,categorical_accuracy,rmsprop,sigmoid,sigmoid,0.955833366,0.9579
+categorical_crossentropy,top_k_categorical_accuracy,rmsprop,sigmoid,softplus,0.997833433,0.9578
+categorical_crossentropy,categorical_accuracy,adamax,tanh,softmax,0.959000044,0.9578
+binary_crossentropy,top_k_categorical_accuracy,adamax,tanh,softmax,0.997750096,0.9578
+kullback_leibler_divergence,categorical_accuracy,nadam,sigmoid,softmax,0.957416711,0.9577
+binary_crossentropy,binary_accuracy,nadam,sigmoid,sigmoid,0.990158491,0.9577
+categorical_hinge,categorical_accuracy,rmsprop,softplus,softplus,0.956416701,0.9576
+categorical_hinge,acc,rmsprop,softplus,softmax,0.951250029,0.9576
+poisson,binary_accuracy,adam,tanh,softplus,0.983666837,0.9575
+categorical_crossentropy,top_k_categorical_accuracy,nadam,hard_sigmoid,softplus,0.998500101,0.9575
+categorical_hinge,categorical_accuracy,adam,tanh,softmax,0.958166709,0.9575
+binary_crossentropy,top_k_categorical_accuracy,nadam,sigmoid,sigmoid,0.997916766,0.9575
+categorical_hinge,categorical_accuracy,adadelta,softsign,softplus,0.949750051,0.9574
+poisson,categorical_accuracy,nadam,sigmoid,softplus,0.954916706,0.9574
+kullback_leibler_divergence,top_k_categorical_accuracy,adagrad,softsign,softmax,0.99808343,0.9574
+categorical_hinge,binary_accuracy,rmsprop,softsign,sigmoid,0.990591841,0.9574
+categorical_crossentropy,binary_accuracy,nadam,hard_sigmoid,sigmoid,0.909175187,0.9574
+kullback_leibler_divergence,top_k_categorical_accuracy,rmsprop,sigmoid,softmax,0.99808342,0.9573
+binary_crossentropy,binary_accuracy,nadam,sigmoid,sigmoid,0.989900157,0.9573
+categorical_crossentropy,categorical_accuracy,nadam,hard_sigmoid,softplus,0.960333367,0.9572
+categorical_hinge,top_k_categorical_accuracy,rmsprop,tanh,softmax,0.995916752,0.9572
+poisson,top_k_categorical_accuracy,rmsprop,sigmoid,sigmoid,0.998000098,0.9572
+categorical_hinge,top_k_categorical_accuracy,adadelta,softsign,softplus,0.995750085,0.9569
+binary_crossentropy,acc,rmsprop,sigmoid,softmax,0.991566834,0.9569
+categorical_crossentropy,categorical_accuracy,nadam,hard_sigmoid,sigmoid,0.960500034,0.9569
+poisson,binary_accuracy,nadam,sigmoid,softplus,0.98070017,0.9568
+binary_crossentropy,acc,rmsprop,sigmoid,sigmoid,0.989900169,0.9568
+kullback_leibler_divergence,binary_accuracy,adamax,tanh,softmax,0.992041826,0.9566
+binary_crossentropy,categorical_accuracy,nadam,hard_sigmoid,softmax,0.960166703,0.9564
+categorical_crossentropy,top_k_categorical_accuracy,rmsprop,sigmoid,softmax,0.998250087,0.9563
+categorical_hinge,categorical_accuracy,rmsprop,softsign,sigmoid,0.958083349,0.9562
+categorical_hinge,categorical_accuracy,rmsprop,softsign,sigmoid,0.957500038,0.9561
+binary_crossentropy,top_k_categorical_accuracy,rmsprop,sigmoid,sigmoid,0.998083428,0.9561
+poisson,categorical_accuracy,nadam,hard_sigmoid,sigmoid,0.956333359,0.956
+categorical_crossentropy,binary_accuracy,nadam,hard_sigmoid,softplus,0.917450187,0.9559
+binary_crossentropy,top_k_categorical_accuracy,rmsprop,softsign,softplus,0.997083426,0.9559
+categorical_crossentropy,binary_accuracy,rmsprop,sigmoid,softmax,0.991491834,0.9559
+kullback_leibler_divergence,acc,adamax,tanh,softmax,0.960583366,0.9559
+categorical_crossentropy,acc,nadam,hard_sigmoid,sigmoid,0.962000042,0.9559
+poisson,top_k_categorical_accuracy,adagrad,tanh,softmax,0.998083433,0.9558
+categorical_crossentropy,categorical_accuracy,rmsprop,sigmoid,softmax,0.955583376,0.9558
+poisson,acc,rmsprop,sigmoid,sigmoid,0.954416697,0.9558
+categorical_hinge,acc,rmsprop,tanh,softmax,0.956166702,0.9557
+binary_crossentropy,binary_accuracy,nadam,hard_sigmoid,softmax,0.992258499,0.9557
+kullback_leibler_divergence,binary_accuracy,adamax,tanh,softmax,0.992266834,0.9557
+binary_crossentropy,binary_accuracy,rmsprop,softsign,softplus,0.93055849,0.9556
+categorical_hinge,binary_accuracy,adamax,softsign,softmax,0.990500167,0.9556
+poisson,acc,nadam,hard_sigmoid,sigmoid,0.955333367,0.9556
+categorical_crossentropy,top_k_categorical_accuracy,nadam,hard_sigmoid,sigmoid,0.998333432,0.9556
+categorical_crossentropy,binary_accuracy,nadam,hard_sigmoid,sigmoid,0.909508519,0.9556
+binary_crossentropy,binary_accuracy,rmsprop,sigmoid,sigmoid,0.989800165,0.9556
+kullback_leibler_divergence,categorical_accuracy,adamax,tanh,softmax,0.960500049,0.9555
+poisson,binary_accuracy,adagrad,tanh,softmax,0.991800174,0.9554
+categorical_crossentropy,top_k_categorical_accuracy,adamax,tanh,softmax,0.998166772,0.9554
+categorical_hinge,top_k_categorical_accuracy,rmsprop,softsign,sigmoid,0.994750078,0.9554
+categorical_crossentropy,top_k_categorical_accuracy,adam,sigmoid,softplus,0.997500089,0.9553
+binary_crossentropy,acc,nadam,hard_sigmoid,softmax,0.992383517,0.9553
+binary_crossentropy,categorical_accuracy,rmsprop,sigmoid,sigmoid,0.95600002,0.9553
+categorical_crossentropy,binary_accuracy,nadam,hard_sigmoid,softplus,0.916700177,0.9552
+binary_crossentropy,acc,adagrad,softsign,softmax,0.991083503,0.9552
+categorical_hinge,binary_accuracy,adagrad,softsign,softplus,0.851775142,0.9551
+binary_crossentropy,acc,rmsprop,softsign,softplus,0.931375153,0.9551
+poisson,categorical_accuracy,adamax,tanh,softmax,0.957500043,0.9551
+kullback_leibler_divergence,acc,adamax,tanh,softmax,0.960666709,0.9551
+kullback_leibler_divergence,categorical_accuracy,adagrad,tanh,softmax,0.957750035,0.9551
+categorical_hinge,top_k_categorical_accuracy,rmsprop,softplus,softmax,0.995750085,0.955
+poisson,categorical_accuracy,adagrad,tanh,softmax,0.957333371,0.955
+binary_crossentropy,binary_accuracy,rmsprop,sigmoid,softmax,0.991183504,0.955
+categorical_crossentropy,top_k_categorical_accuracy,rmsprop,sigmoid,sigmoid,0.998000098,0.955
+kullback_leibler_divergence,binary_accuracy,adagrad,tanh,softmax,0.991408507,0.9549
+poisson,acc,adagrad,tanh,softmax,0.957416706,0.9548
+poisson,top_k_categorical_accuracy,rmsprop,tanh,softplus,0.998500096,0.9547
+categorical_hinge,acc,adam,softsign,sigmoid,0.955583366,0.9547
+poisson,top_k_categorical_accuracy,nadam,hard_sigmoid,sigmoid,0.998166765,0.9546
+poisson,categorical_accuracy,nadam,tanh,softplus,0.958916699,0.9545
+binary_crossentropy,top_k_categorical_accuracy,rmsprop,softsign,softplus,0.997666751,0.9545
+categorical_hinge,acc,rmsprop,softsign,sigmoid,0.956500026,0.9545
+categorical_hinge,categorical_accuracy,rmsprop,softplus,softmax,0.954500062,0.9544
+binary_crossentropy,acc,nadam,hard_sigmoid,sigmoid,0.989950153,0.9544
+categorical_crossentropy,acc,nadam,hard_sigmoid,softplus,0.960250045,0.9543
+kullback_leibler_divergence,top_k_categorical_accuracy,adagrad,tanh,softmax,0.997916763,0.9542
+kullback_leibler_divergence,categorical_accuracy,adagrad,tanh,softmax,0.955916703,0.9542
+'categorical_hinge','categorical_accuracy','adam','softsign','sigmoid',0.955083383,0.9542
+'categorical_hinge','binary_accuracy','rmsprop','softplus','softmax',0.989908504,0.9541
+'binary_crossentropy','binary_accuracy','nadam','hard_sigmoid','softmax',0.992166835,0.9541
+'kullback_leibler_divergence','acc','adagrad','tanh','softmax',0.956333376,0.9541
+'binary_crossentropy','top_k_categorical_accuracy','rmsprop','sigmoid','sigmoid',0.997833423,0.9541
+'binary_crossentropy','categorical_accuracy','rmsprop','softsign','softplus',0.954000024,0.954
+'categorical_crossentropy','acc','adadelta','softsign','softmax',0.948916706,0.954
+'binary_crossentropy','top_k_categorical_accuracy','nadam','hard_sigmoid','softmax',0.998083425,0.954
+'poisson','binary_accuracy','nadam','hard_sigmoid','sigmoid',0.98889184,0.954
+'categorical_crossentropy','categorical_accuracy','adam','sigmoid','sigmoid',0.951666713,0.954
+'categorical_crossentropy','binary_accuracy','adadelta','softsign','softmax',0.989633493,0.9539
+'kullback_leibler_divergence','top_k_categorical_accuracy','adadelta','softsign','softmax',0.996833411,0.9539
+'categorical_hinge','acc','adadelta','softsign','softplus',0.954000053,0.9538
+'kullback_leibler_divergence','top_k_categorical_accuracy','nadam','hard_sigmoid','softmax',0.998166767,0.9538
+'categorical_hinge','binary_accuracy','adam','softsign','sigmoid',0.990216849,0.9538
+'binary_crossentropy','acc','rmsprop','tanh','softplus',0.919875175,0.9536
+'poisson','categorical_accuracy','rmsprop','sigmoid','sigmoid',0.952083377,0.9536
+'categorical_hinge','binary_accuracy','adamax','tanh','softmax',0.990341842,0.9534
+'binary_crossentropy','categorical_accuracy','adagrad','tanh','softmax',0.954666709,0.9534
+'poisson','categorical_accuracy','nadam','hard_sigmoid','softmax',0.957083374,0.9533
+'binary_crossentropy','top_k_categorical_accuracy','adamax','softplus','softmax',0.997416757,0.9533
+'kullback_leibler_divergence','top_k_categorical_accuracy','adadelta','softsign','softmax',0.996500082,0.9533
+'categorical_crossentropy','categorical_accuracy','adagrad','tanh','softmax',0.956666713,0.9532
+'poisson','binary_accuracy','adagrad','softsign','sigmoid',0.987125161,0.9532
+'categorical_crossentropy','categorical_accuracy','rmsprop','sigmoid','sigmoid',0.953666704,0.9532
+'categorical_crossentropy','categorical_accuracy','rmsprop','sigmoid','softplus',0.954416712,0.9531
+'categorical_hinge','acc','adam','tanh','softmax',0.956333381,0.9531
+'poisson','top_k_categorical_accuracy','adagrad','tanh','sigmoid',0.997916763,0.9531
+'categorical_crossentropy','categorical_accuracy','adam','sigmoid','softplus',0.948916696,0.953
+'categorical_hinge','top_k_categorical_accuracy','adam','softsign','sigmoid',0.993666736,0.953
+'poisson','top_k_categorical_accuracy','rmsprop','sigmoid','softplus',0.997583419,0.9528
+'poisson','acc','adagrad','softplus','softmax',0.954166695,0.9528
+'categorical_crossentropy','top_k_categorical_accuracy','adagrad','tanh','softmax',0.998083433,0.9528
+'binary_crossentropy','categorical_accuracy','adagrad','tanh','softmax',0.953000036,0.9528
+'kullback_leibler_divergence','binary_accuracy','adadelta','softsign','softmax',0.989808515,0.9527
+'binary_crossentropy','top_k_categorical_accuracy','nadam','hard_sigmoid','softmax',0.997916761,0.9526
+'categorical_hinge','binary_accuracy','adadelta','softsign','softplus',0.324758343,0.9524
+'categorical_hinge','top_k_categorical_accuracy','adamax','tanh','softmax',0.994250069,0.9524
+'binary_crossentropy','categorical_accuracy','nadam','hard_sigmoid','softmax',0.95933338,0.9524
+'kullback_leibler_divergence','binary_accuracy','nadam','hard_sigmoid','softmax',0.991600178,0.9522
+'binary_crossentropy','acc','adagrad','tanh','sigmoid',0.989083494,0.9522
+'binary_crossentropy','categorical_accuracy','adagrad','softsign','sigmoid',0.949750046,0.9522
+'categorical_crossentropy','binary_accuracy','adadelta','softsign','softmax',0.989866833,0.9521
+'categorical_crossentropy','top_k_categorical_accuracy','nadam','hard_sigmoid','softmax',0.998416767,0.9521
+'kullback_leibler_divergence','top_k_categorical_accuracy','adamax','tanh','softmax',0.998166762,0.9521
+'categorical_hinge','categorical_accuracy','adam','softsign','sigmoid',0.952750045,0.9521
+'categorical_hinge','acc','adagrad','softsign','softplus',0.953250038,0.952
+'binary_crossentropy','binary_accuracy','rmsprop','softplus','softplus',0.92586683,0.952
+'binary_crossentropy','acc','adam','sigmoid','softmax',0.990300161,0.952
+'binary_crossentropy','binary_accuracy','adamax','tanh','softmax',0.992200159,0.952
+'kullback_leibler_divergence','acc','nadam','hard_sigmoid','softmax',0.958250036,0.952
+'binary_crossentropy','categorical_accuracy','adamax','softplus','softmax',0.952750054,0.9518
+'binary_crossentropy','top_k_categorical_accuracy','adagrad','tanh','softmax',0.997083428,0.9517
+'kullback_leibler_divergence','binary_accuracy','adam','sigmoid','softmax',0.990041837,0.9517
+'categorical_crossentropy','categorical_accuracy','adadelta','softsign','softmax',0.946916702,0.9516
+'categorical_crossentropy','categorical_accuracy','nadam','hard_sigmoid','softmax',0.958833387,0.9516
+'kullback_leibler_divergence','categorical_accuracy','adagrad','softplus','softmax',0.953500035,0.9516
+'kullback_leibler_divergence','top_k_categorical_accuracy','adamax','tanh','softmax',0.998333427,0.9516
+'poisson','binary_accuracy','adagrad','tanh','sigmoid',0.988233507,0.9516
+'categorical_crossentropy','categorical_accuracy','adadelta','softsign','softmax',0.948166711,0.9515
+'kullback_leibler_divergence','top_k_categorical_accuracy','nadam','hard_sigmoid','softmax',0.998583431,0.9515
+'kullback_leibler_divergence','binary_accuracy','nadam','hard_sigmoid','softmax',0.991958489,0.9515
+'categorical_hinge','top_k_categorical_accuracy','rmsprop','softsign','sigmoid',0.994166739,0.9514
+'poisson','acc','nadam','hard_sigmoid','softmax',0.957250046,0.9513
+'kullback_leibler_divergence','categorical_accuracy','adadelta','softsign','softmax',0.948250033,0.9513
+'categorical_crossentropy','binary_accuracy','adam','sigmoid','softmax',0.989766826,0.9512
+'poisson','categorical_accuracy','adagrad','softsign','sigmoid',0.950000045,0.9512
+'binary_crossentropy','acc','nadam','softplus','sigmoid',0.99206682,0.9512
+'binary_crossentropy','top_k_categorical_accuracy','adagrad','softsign','sigmoid',0.997000078,0.9511
+'poisson','categorical_accuracy','adam','sigmoid','softmax',0.949750029,0.9507
+'categorical_crossentropy','binary_accuracy','nadam','hard_sigmoid','softmax',0.991450168,0.9507
+'binary_crossentropy','acc','adagrad','tanh','softmax',0.991091833,0.9507
+'binary_crossentropy','binary_accuracy','adagrad','tanh','softmax',0.991016847,0.9506
+'poisson','acc','nadam','softplus','sigmoid',0.96700004,0.9506
+'binary_crossentropy','top_k_categorical_accuracy','adagrad','softsign','sigmoid',0.99716676,0.9506
+'poisson','top_k_categorical_accuracy','rmsprop','softplus','softplus',0.99816677,0.9505
+'binary_crossentropy','binary_accuracy','adagrad','tanh','sigmoid',0.988825175,0.9505
+'binary_crossentropy','categorical_accuracy','adamax','softplus','softmax',0.952083354,0.9504
+'poisson','binary_accuracy','adamax','tanh','softmax',0.99194183,0.9503
+'poisson','categorical_accuracy','adagrad','tanh','sigmoid',0.95183338,0.9503
+'poisson','acc','rmsprop','sigmoid','softplus',0.953333373,0.9502
+'poisson','categorical_accuracy','rmsprop','sigmoid','softplus',0.950583383,0.9501
+'categorical_crossentropy','categorical_accuracy','adam','sigmoid','softmax',0.948666717,0.9501
+'poisson','binary_accuracy','rmsprop','sigmoid','sigmoid',0.988700171,0.9501
+'binary_crossentropy','acc','adagrad','softsign','sigmoid',0.988566823,0.9498
+'kullback_leibler_divergence','acc','adagrad','tanh','softmax',0.955583374,0.9497
+'kullback_leibler_divergence','categorical_accuracy','nadam','hard_sigmoid','softmax',0.960000036,0.9497
+'poisson','binary_accuracy','nadam','softplus','sigmoid',0.991416832,0.9497
+'categorical_hinge','categorical_accuracy','adagrad','softsign','softplus',0.951166719,0.9496
+'categorical_crossentropy','categorical_accuracy','adagrad','softplus','softmax',0.950500034,0.9496
+'categorical_crossentropy','top_k_categorical_accuracy','adam','sigmoid','sigmoid',0.997666764,0.9496
+'categorical_crossentropy','top_k_categorical_accuracy','adadelta','softsign','softmax',0.99650009,0.9495
+'poisson','top_k_categorical_accuracy','adagrad','softsign','sigmoid',0.997666746,0.9495
+'categorical_crossentropy','top_k_categorical_accuracy','adam','sigmoid','softmax',0.997750108,0.9494
+'categorical_crossentropy','categorical_accuracy','adadelta','softsign','softplus',0.949416712,0.9492
+'categorical_hinge','categorical_accuracy','adamax','tanh','softmax',0.947000042,0.9492
+'categorical_hinge','categorical_accuracy','nadam','sigmoid','softplus',0.949000033,0.9491
+'binary_crossentropy','categorical_accuracy','adagrad','softsign','sigmoid',0.950333379,0.949
+'categorical_hinge','top_k_categorical_accuracy','rmsprop','sigmoid','softplus',0.996166741,0.9489
+'poisson','top_k_categorical_accuracy','rmsprop','hard_sigmoid','softmax',0.997833416,0.9489
+'categorical_hinge','categorical_accuracy','rmsprop','sigmoid','softplus',0.952500033,0.9488
+'poisson','acc','adagrad','softsign','softplus',0.951666695,0.9488
+'categorical_crossentropy','binary_accuracy','adam','sigmoid','softmax',0.990108512,0.9488
+'poisson','binary_accuracy','adagrad','softsign','softplus',0.980691843,0.9487
+'poisson','top_k_categorical_accuracy','adagrad','tanh','softplus',0.997250095,0.9487
+'kullback_leibler_divergence','categorical_accuracy','adam','sigmoid','softmax',0.94841671,0.9487
+'poisson','top_k_categorical_accuracy','adam','sigmoid','softmax',0.997500082,0.9486
+'kullback_leibler_divergence','top_k_categorical_accuracy','nadam','hard_sigmoid','softmax',0.998166767,0.9486
+'binary_crossentropy','binary_accuracy','rmsprop','hard_sigmoid','sigmoid',0.989441827,0.9484
+'poisson','binary_accuracy','nadam','hard_sigmoid','softmax',0.991908493,0.9482
+'binary_crossentropy','binary_accuracy','adamax','softplus','softmax',0.990125182,0.9482
+'categorical_hinge','categorical_accuracy','nadam','sigmoid','sigmoid',0.946916714,0.9482
+'binary_crossentropy','acc','rmsprop','hard_sigmoid','sigmoid',0.989691866,0.9482
+'categorical_hinge','binary_accuracy','nadam','sigmoid','softplus',0.650725072,0.948
+'binary_crossentropy','acc','adamax','softplus','softmax',0.990133489,0.948
+'poisson','acc','adagrad','softsign','sigmoid',0.9494167,0.948
+'categorical_hinge','binary_accuracy','nadam','softplus','softplus',0.85191679,0.9479
+'categorical_crossentropy','acc','rmsprop','hard_sigmoid','softplus',0.952500038,0.9479
+'poisson','acc','adamax','softplus','softmax',0.943166713,0.9478
+'categorical_crossentropy','categorical_accuracy','adam','sigmoid','softmax',0.949833363,0.9478
+'categorical_hinge','acc','adamax','tanh','softmax',0.947916696,0.9477
+'poisson','top_k_categorical_accuracy','adagrad','softplus','softmax',0.997750096,0.9477
+'kullback_leibler_divergence','top_k_categorical_accuracy','adam','sigmoid','softmax',0.997166748,0.9477
+'binary_crossentropy','binary_accuracy','adamax','softplus','softmax',0.989983511,0.9476
+'kullback_leibler_divergence','acc','adadelta','tanh','softmax',0.945166717,0.9476
+'categorical_hinge','binary_accuracy','nadam','sigmoid','softplus',0.611633398,0.9474
+'poisson','categorical_accuracy','adagrad','softsign','softplus',0.952750054,0.9474
+'binary_crossentropy','top_k_categorical_accuracy','adagrad','tanh','softmax',0.996916741,0.9474
+'poisson','binary_accuracy','rmsprop','softplus','sigmoid',0.990950175,0.9474
+'categorical_crossentropy','top_k_categorical_accuracy','adadelta','softsign','sigmoid',0.996833411,0.9473
+'poisson','binary_accuracy','adamax','softsign','softplus',0.978183523,0.9472
+'categorical_hinge','top_k_categorical_accuracy','rmsprop','softplus','softmax',0.995416741,0.9471
+'categorical_hinge','binary_accuracy','nadam','sigmoid','sigmoid',0.988533507,0.9471
+'binary_crossentropy','acc','rmsprop','softplus','sigmoid',0.991083508,0.9471
+'poisson','top_k_categorical_accuracy','adagrad','softsign','softplus',0.997250085,0.947
+'poisson','binary_accuracy','rmsprop','hard_sigmoid','sigmoid',0.987850172,0.947
+'poisson','categorical_accuracy','rmsprop','hard_sigmoid','sigmoid',0.952833372,0.9469
+'binary_crossentropy','binary_accuracy','adagrad','softsign','sigmoid',0.988500178,0.9469
+'poisson','categorical_accuracy','adagrad','tanh','softplus',0.952166704,0.9468
+'kullback_leibler_divergence','top_k_categorical_accuracy','adam','sigmoid','softmax',0.997500082,0.9468
+'categorical_hinge','categorical_accuracy','nadam','sigmoid','sigmoid',0.945500039,0.9468
+'categorical_crossentropy','top_k_categorical_accuracy','adadelta','softsign','softplus',0.997000086,0.9467
+'categorical_hinge','top_k_categorical_accuracy','nadam','sigmoid','sigmoid',0.992666726,0.9467
+'binary_crossentropy','categorical_accuracy','adamax','softsign','sigmoid',0.945916717,0.9467
+'poisson','binary_accuracy','adamax','softplus','softmax',0.989850161,0.9466
+'categorical_hinge','categorical_accuracy','adagrad','softsign','softplus',0.948166706,0.9465
+'categorical_hinge','binary_accuracy','adam','softplus','softmax',0.989908511,0.9465
+'poisson','categorical_accuracy','nadam','softplus','sigmoid',0.96600004,0.9465
+'categorical_hinge','top_k_categorical_accuracy','adagrad','softsign','softplus',0.99475007,0.9464
+'categorical_hinge','top_k_categorical_accuracy','adagrad','softsign','sigmoid',0.992166735,0.9464
+'poisson','acc','adamax','softsign','sigmoid',0.945750033,0.9464
+'categorical_crossentropy','categorical_accuracy','adadelta','softsign','sigmoid',0.94991671,0.9464
+'kullback_leibler_divergence','binary_accuracy','adamax','softplus','softmax',0.989500177,0.9462
+'kullback_leibler_divergence','categorical_accuracy','rmsprop','hard_sigmoid','softmax',0.954833373,0.9462
+'binary_crossentropy','binary_accuracy','rmsprop','softplus','sigmoid',0.990608489,0.9462
+'categorical_crossentropy','acc','adam','sigmoid','softmax',0.94750003,0.9461
+'binary_crossentropy','categorical_accuracy','rmsprop','hard_sigmoid','softmax',0.951833372,0.9461
+'poisson','binary_accuracy','adagrad','tanh','softplus',0.979375186,0.946
+'kullback_leibler_divergence','binary_accuracy','adamax','softplus','softmax',0.989608496,0.946
+'categorical_hinge','categorical_accuracy','rmsprop','sigmoid','softplus',0.951583366,0.9459
+'categorical_crossentropy','categorical_accuracy','adadelta','tanh','sigmoid',0.94925003,0.9459
+'categorical_hinge','binary_accuracy','rmsprop','sigmoid','softplus',0.736741769,0.9458
+'binary_crossentropy','acc','rmsprop','hard_sigmoid','softmax',0.991125174,0.9458
+'kullback_leibler_divergence','categorical_accuracy','rmsprop','hard_sigmoid','softmax',0.955666699,0.9457
+'categorical_hinge','categorical_accuracy','adagrad','softsign','sigmoid',0.94600004,0.9457
+'kullback_leibler_divergence','acc','adamax','softplus','softmax',0.944000028,0.9456
+'categorical_hinge','binary_accuracy','adamax','tanh','sigmoid',0.987566811,0.9456
+'categorical_hinge','categorical_accuracy','rmsprop','sigmoid','softplus',0.951833382,0.9455
+'categorical_crossentropy','binary_accuracy','rmsprop','hard_sigmoid','softplus',0.918308519,0.9455
+'kullback_leibler_divergence','binary_accuracy','rmsprop','hard_sigmoid','softmax',0.990975164,0.9455
+'categorical_hinge','categorical_accuracy','adagrad','softsign','sigmoid',0.945500036,0.9455
+'categorical_crossentropy','binary_accuracy','adadelta','tanh','sigmoid',0.913591852,0.9454
+'poisson','categorical_accuracy','rmsprop','softplus','softplus',0.960166708,0.9453
+'poisson','acc','nadam','hard_sigmoid','softplus',0.954000024,0.9451
+'categorical_hinge','categorical_accuracy','adagrad','softsign','sigmoid',0.94575003,0.9451
+'poisson','categorical_accuracy','nadam','hard_sigmoid','softplus',0.954833371,0.945
+'poisson','categorical_accuracy','rmsprop','softplus','sigmoid',0.961666706,0.945
+'categorical_hinge','categorical_accuracy','adam','softplus','softmax',0.9484167,0.9449
+'categorical_hinge','binary_accuracy','nadam','sigmoid','sigmoid',0.98806685,0.9449
+'categorical_hinge','binary_accuracy','nadam','sigmoid','sigmoid',0.988516852,0.9449
+'poisson','top_k_categorical_accuracy','nadam','softplus','sigmoid',0.998666768,0.9449
+'poisson','categorical_accuracy','adamax','softsign','softplus',0.947416705,0.9448
+'binary_crossentropy','categorical_accuracy','rmsprop','hard_sigmoid','softmax',0.953916706,0.9448
+'kullback_leibler_divergence','top_k_categorical_accuracy','adamax','softplus','softmax',0.997666769,0.9448
+'categorical_hinge','acc','nadam','sigmoid','sigmoid',0.946583375,0.9447
+'poisson','categorical_accuracy','adamax','softsign','sigmoid',0.943333363,0.9447
+'categorical_crossentropy','binary_accuracy','rmsprop','hard_sigmoid','sigmoid',0.913391856,0.9447
+'categorical_crossentropy','top_k_categorical_accuracy','adadelta','tanh','sigmoid',0.996916754,0.9447
+'categorical_crossentropy','categorical_accuracy','adadelta','tanh','softplus',0.951333376,0.9446
+'binary_crossentropy','top_k_categorical_accuracy','rmsprop','hard_sigmoid','softmax',0.997583424,0.9446
+'kullback_leibler_divergence','acc','rmsprop','hard_sigmoid','softmax',0.953166703,0.9446
+'categorical_hinge','categorical_accuracy','rmsprop','softmax','sigmoid',0.947333373,0.9446
+'categorical_crossentropy','categorical_accuracy','adadelta','tanh','softmax',0.947750042,0.9445
+'categorical_hinge','categorical_accuracy','rmsprop','sigmoid','sigmoid',0.942750032,0.9445
+'categorical_hinge','categorical_accuracy','rmsprop','softmax','sigmoid',0.946500023,0.9445
+'categorical_hinge','top_k_categorical_accuracy','adagrad','softsign','sigmoid',0.992666721,0.9445
+'poisson','top_k_categorical_accuracy','adamax','tanh','sigmoid',0.997916761,0.9445
+'categorical_crossentropy','categorical_accuracy','adadelta','tanh','sigmoid',0.952083372,0.9445
+'categorical_hinge','categorical_accuracy','adadelta','softsign','softplus',0.952000032,0.9444
+'poisson','binary_accuracy','adam','sigmoid','softmax',0.989400183,0.9443
+'poisson','top_k_categorical_accuracy','rmsprop','softplus','sigmoid',0.998416771,0.9443
+'categorical_crossentropy','acc','rmsprop','hard_sigmoid','sigmoid',0.9534167,0.9443
+'binary_crossentropy','top_k_categorical_accuracy','adamax','softsign','sigmoid',0.996333418,0.9443
+'categorical_hinge','binary_accuracy','nadam','hard_sigmoid','sigmoid',0.98822515,0.9442
+'poisson','top_k_categorical_accuracy','rmsprop','hard_sigmoid','sigmoid',0.997500092,0.9441
+'poisson','categorical_accuracy','adamax','softplus','softmax',0.943583374,0.944
+'binary_crossentropy','top_k_categorical_accuracy','adamax','softplus','softmax',0.996916736,0.944
+'categorical_hinge','binary_accuracy','adamax','softsign','sigmoid',0.987450158,0.944
+'binary_crossentropy','acc','adamax','tanh','sigmoid',0.988483521,0.944
+'categorical_hinge','top_k_categorical_accuracy','nadam','sigmoid','softplus',0.996083419,0.9439
+'poisson','acc','rmsprop','hard_sigmoid','softmax',0.953500035,0.9439
+'poisson','categorical_accuracy','rmsprop','hard_sigmoid','softmax',0.952916712,0.9439
+'categorical_hinge','top_k_categorical_accuracy','adamax','softsign','sigmoid',0.9920834,0.9439
+'categorical_crossentropy','acc','adadelta','tanh','sigmoid',0.951250064,0.9439
+'categorical_crossentropy','top_k_categorical_accuracy','adamax','sigmoid','sigmoid',0.997166748,0.9439
+'categorical_hinge','binary_accuracy','nadam','sigmoid','softplus',0.661041737,0.9438
+'categorical_crossentropy','binary_accuracy','adadelta','tanh','sigmoid',0.911475164,0.9438
+'kullback_leibler_divergence','categorical_accuracy','adadelta','tanh','softmax',0.943500047,0.9437
+'categorical_hinge','acc','adagrad','softsign','sigmoid',0.945333369,0.9437
+'categorical_crossentropy','top_k_categorical_accuracy','rmsprop','hard_sigmoid','softplus',0.997750099,0.9436
+'binary_crossentropy','top_k_categorical_accuracy','adamax','softsign','sigmoid',0.996083409,0.9436
+'poisson','binary_accuracy','rmsprop','hard_sigmoid','softmax',0.991141846,0.9435
+'categorical_crossentropy','binary_accuracy','adadelta','tanh','softplus',0.931266832,0.9434
+'poisson','top_k_categorical_accuracy','nadam','hard_sigmoid','softplus',0.997750099,0.9433
+'categorical_crossentropy','top_k_categorical_accuracy','rmsprop','softplus','softplus',0.99875011,0.9432
+'kullback_leibler_divergence','categorical_accuracy','adamax','softplus','softmax',0.945666706,0.9432
+'poisson','binary_accuracy','adamax','tanh','sigmoid',0.986750185,0.943
+'kullback_leibler_divergence','acc','adamax','softplus','softmax',0.949000036,0.9429
+'categorical_hinge','categorical_accuracy','adamax','softsign','sigmoid',0.939916708,0.9429
+'categorical_hinge','categorical_accuracy','adamax','softsign','sigmoid',0.94333337,0.9429
+'poisson','binary_accuracy','adamax','tanh','softplus',0.978925176,0.9428
+'binary_crossentropy','acc','adamax','softsign','sigmoid',0.987066853,0.9428
+'categorical_hinge','acc','rmsprop','sigmoid','softplus',0.950916708,0.9426
+'categorical_hinge','top_k_categorical_accuracy','rmsprop','sigmoid','sigmoid',0.99225007,0.9426
+'categorical_hinge','top_k_categorical_accuracy','rmsprop','sigmoid','softplus',0.99641675,0.9425
+'binary_crossentropy','binary_accuracy','rmsprop','hard_sigmoid','softmax',0.991058504,0.9425
+'categorical_hinge','binary_accuracy','rmsprop','sigmoid','sigmoid',0.987475157,0.9425
+'categorical_hinge','categorical_accuracy','rmsprop','softmax','softplus',0.944666689,0.9424
+'poisson','categorical_accuracy','adamax','tanh','sigmoid',0.947833377,0.9424
+'categorical_crossentropy','top_k_categorical_accuracy','rmsprop','hard_sigmoid','softmax',0.997833426,0.9423
+'categorical_hinge','acc','rmsprop','softmax','sigmoid',0.947333366,0.9423
+'poisson','binary_accuracy','nadam','hard_sigmoid','softplus',0.981183514,0.9422
+'categorical_crossentropy','top_k_categorical_accuracy','adadelta','tanh','softplus',0.997500087,0.9422
+'categorical_crossentropy','top_k_categorical_accuracy','adadelta','tanh','softmax',0.996750074,0.9422
+'categorical_crossentropy','binary_accuracy','adadelta','tanh','softplus',0.928908502,0.9421
+'categorical_crossentropy','categorical_accuracy','rmsprop','hard_sigmoid','softplus',0.950500036,0.9421
+'categorical_crossentropy','categorical_accuracy','adamax','sigmoid','sigmoid',0.944750043,0.9421
+'kullback_leibler_divergence','top_k_categorical_accuracy','adamax','softplus','softmax',0.997583414,0.942
+'categorical_hinge','acc','rmsprop','sigmoid','sigmoid',0.942750044,0.942
+'categorical_hinge','acc','nadam','sigmoid','softplus',0.947416703,0.9419
+'categorical_crossentropy','categorical_accuracy','adamax','softplus','softmax',0.94416671,0.9419
+'binary_crossentropy','categorical_accuracy','adamax','softsign','sigmoid',0.945333364,0.9419
+'categorical_hinge','top_k_categorical_accuracy','adagrad','softsign','softplus',0.994500071,0.9418
+'categorical_crossentropy','categorical_accuracy','adamax','sigmoid','softplus',0.942250043,0.9418
+'kullback_leibler_divergence','top_k_categorical_accuracy','adadelta','tanh','softmax',0.997166753,0.9418
+'categorical_crossentropy','categorical_accuracy','rmsprop','hard_sigmoid','softmax',0.953750037,0.9417
+'binary_crossentropy','top_k_categorical_accuracy','rmsprop','hard_sigmoid','softmax',0.997416752,0.9417
+'kullback_leibler_divergence','top_k_categorical_accuracy','rmsprop','hard_sigmoid','softmax',0.997666756,0.9417
+'categorical_hinge','top_k_categorical_accuracy','rmsprop','softmax','sigmoid',0.991666719,0.9416
+'poisson','binary_accuracy','rmsprop','softplus','softplus',0.97350018,0.9415
+'categorical_hinge','categorical_accuracy','rmsprop','sigmoid','sigmoid',0.944416697,0.9414
+'binary_crossentropy','binary_accuracy','adamax','softsign','sigmoid',0.98713351,0.9414
+'categorical_hinge','acc','rmsprop','softmax','softplus',0.944750041,0.9412
+'binary_crossentropy','binary_accuracy','adamax','softsign','sigmoid',0.98714185,0.9412
+'kullback_leibler_divergence','binary_accuracy','adadelta','tanh','softmax',0.989675182,0.9411
+'categorical_hinge','top_k_categorical_accuracy','nadam','softmax','softplus',0.987833363,0.941
+'categorical_hinge','acc','adamax','softsign','sigmoid',0.942916711,0.941
+'categorical_hinge','categorical_accuracy','rmsprop','softmax','sigmoid',0.93983337,0.941
+'categorical_crossentropy','binary_accuracy','rmsprop','hard_sigmoid','sigmoid',0.915425181,0.941
+'categorical_hinge','binary_accuracy','adamax','tanh','softplus',0.857366813,0.9409
+'poisson','categorical_accuracy','adamax','tanh','softplus',0.949416695,0.9409
+'categorical_crossentropy','categorical_accuracy','rmsprop','hard_sigmoid','softplus',0.953166698,0.9409
+'categorical_hinge','categorical_accuracy','rmsprop','softmax','softmax',0.943166718,0.9409
+'categorical_crossentropy','top_k_categorical_accuracy','adamax','sigmoid','softplus',0.996750084,0.9408
+'poisson','binary_accuracy','rmsprop','sigmoid','softplus',0.975166827,0.9406
+'categorical_crossentropy','acc','adam','hard_sigmoid','sigmoid',0.952416688,0.9406
+'categorical_hinge','categorical_accuracy','rmsprop','softmax','softplus',0.941583383,0.9404
+'kullback_leibler_divergence','categorical_accuracy','adadelta','tanh','softmax',0.94600004,0.9404
+'categorical_hinge','categorical_accuracy','rmsprop','sigmoid','sigmoid',0.94241669,0.9402
+'poisson','binary_accuracy','adamax','softsign','sigmoid',0.986516836,0.9402
+'categorical_crossentropy','binary_accuracy','rmsprop','hard_sigmoid','softplus',0.923541836,0.9401
+'categorical_crossentropy','categorical_accuracy','adagrad','sigmoid','sigmoid',0.943166705,0.9398
+'poisson','top_k_categorical_accuracy','adamax','tanh','softplus',0.997083413,0.9395
+'categorical_crossentropy','acc','adadelta','tanh','softplus',0.95100004,0.9395
+'categorical_crossentropy','categorical_accuracy','rmsprop','softplus','softplus',0.962833385,0.9393
+'categorical_hinge','binary_accuracy','rmsprop','softmax','sigmoid',0.988175156,0.9392
+'poisson','binary_accuracy','adamax','softmax','softmax',0.929933496,0.9391
+'categorical_crossentropy','categorical_accuracy','rmsprop','hard_sigmoid','sigmoid',0.95100005,0.9391
+'categorical_crossentropy','top_k_categorical_accuracy','rmsprop','hard_sigmoid','sigmoid',0.998083437,0.9391
+'categorical_hinge','top_k_categorical_accuracy','adam','sigmoid','softplus',0.994416741,0.939
+'categorical_crossentropy','top_k_categorical_accuracy','adam','hard_sigmoid','sigmoid',0.997500087,0.9389
+'categorical_hinge','categorical_accuracy','nadam','softmax','softplus',0.941666705,0.9388
+'categorical_crossentropy','categorical_accuracy','adadelta','tanh','softplus',0.951416701,0.9388
+'categorical_hinge','top_k_categorical_accuracy','rmsprop','sigmoid','sigmoid',0.992750066,0.9388
+'categorical_crossentropy','categorical_accuracy','rmsprop','hard_sigmoid','sigmoid',0.950500036,0.9388
+'categorical_crossentropy','categorical_accuracy','adam','hard_sigmoid','sigmoid',0.948916694,0.9387
+'categorical_crossentropy','top_k_categorical_accuracy','adam','hard_sigmoid','softplus',0.99741675,0.9386
+'categorical_hinge','top_k_categorical_accuracy','rmsprop','softmax','sigmoid',0.991083379,0.9385
+'categorical_crossentropy','binary_accuracy','adam','hard_sigmoid','softplus',0.913866858,0.9384
+'categorical_hinge','top_k_categorical_accuracy','rmsprop','softmax','softplus',0.989166724,0.9382
+'categorical_hinge','binary_accuracy','rmsprop','softmax','softplus',0.100000009,0.9381
+'categorical_hinge','acc','adam','softmax','sigmoid',0.938916708,0.9381
+'categorical_hinge','categorical_accuracy','adam','softmax','sigmoid',0.937500025,0.9381
+'kullback_leibler_divergence','acc','rmsprop','hard_sigmoid','softmax',0.95083338,0.938
+'categorical_crossentropy','acc','adam','hard_sigmoid','softplus',0.952333363,0.9379
+'categorical_hinge','categorical_accuracy','nadam','sigmoid','softplus',0.947166699,0.9378
+'categorical_hinge','top_k_categorical_accuracy','rmsprop','softmax','softplus',0.990833394,0.9378
+'categorical_hinge','categorical_accuracy','adam','softmax','softplus',0.940083377,0.9377
+'categorical_crossentropy','top_k_categorical_accuracy','adagrad','sigmoid','softplus',0.996666749,0.9374
+'categorical_hinge','categorical_accuracy','adam','sigmoid','softplus',0.940583358,0.9373
+'poisson','acc','adamax','softsign','softplus',0.946666718,0.9373
+'categorical_hinge','acc','adam','softmax','softplus',0.938166703,0.937
+'categorical_hinge','categorical_accuracy','adam','softmax','softplus',0.937833379,0.937
+'categorical_crossentropy','binary_accuracy','adam','hard_sigmoid','sigmoid',0.90704185,0.9369
+'poisson','categorical_accuracy','adagrad','softplus','softmax',0.939416704,0.9368
+'categorical_crossentropy','top_k_categorical_accuracy','rmsprop','softmax','sigmoid',0.990250054,0.9368
+'categorical_hinge','binary_accuracy','nadam','softmax','sigmoid',0.987666833,0.9367
+'binary_crossentropy','acc','rmsprop','softplus','softplus',0.93065015,0.9365
+'categorical_crossentropy','categorical_accuracy','adagrad','sigmoid','softplus',0.943166708,0.9365
+'binary_crossentropy','binary_accuracy','adadelta','softsign','softmax',0.986366833,0.9365
+'binary_crossentropy','acc','adamax','sigmoid','softmax',0.987833505,0.9364
+'categorical_hinge','top_k_categorical_accuracy','adadelta','tanh','softmax',0.990750062,0.9363
+'categorical_crossentropy','categorical_accuracy','adam','hard_sigmoid','sigmoid',0.950333389,0.9363
+'categorical_crossentropy','binary_accuracy','nadam','softmax','softmax',0.986708522,0.9362
+'binary_crossentropy','acc','adam','sigmoid','sigmoid',0.985933512,0.9362
+'poisson','binary_accuracy','nadam','softmax','softmax',0.987475179,0.9361
+'categorical_hinge','binary_accuracy','adam','sigmoid','softplus',0.619333386,0.936
+'categorical_crossentropy','categorical_accuracy','adam','hard_sigmoid','softplus',0.947500043,0.936
+'binary_crossentropy','categorical_accuracy','adam','sigmoid','sigmoid',0.939333374,0.936
+'categorical_hinge','acc','adadelta','tanh','softmax',0.934000038,0.9359
+'categorical_crossentropy','top_k_categorical_accuracy','adamax','softplus','softmax',0.997083438,0.9356
+'categorical_hinge','categorical_accuracy','adam','sigmoid','softplus',0.93991669,0.9354
+'kullback_leibler_divergence','acc','adadelta','tanh','softmax',0.945416699,0.9354
+'binary_crossentropy','binary_accuracy','adam','hard_sigmoid','softmax',0.98980018,0.9354
+'kullback_leibler_divergence','binary_accuracy','adadelta','tanh','softmax',0.989516852,0.9354
+'categorical_hinge','acc','adam','sigmoid','softplus',0.940083357,0.9353
+'kullback_leibler_divergence','categorical_accuracy','nadam','softmax','softmax',0.937750022,0.9353
+'kullback_leibler_divergence','top_k_categorical_accuracy','nadam','softmax','softmax',0.990666725,0.9353
+'binary_crossentropy','binary_accuracy','adam','hard_sigmoid','softmax',0.989675167,0.9352
+'poisson','binary_accuracy','adam','sigmoid','softplus',0.975941854,0.9348
+'categorical_crossentropy','top_k_categorical_accuracy','adagrad','sigmoid','sigmoid',0.997000083,0.9348
+'categorical_hinge','binary_accuracy','nadam','softmax','softplus',0.100000009,0.9347
+'binary_crossentropy','top_k_categorical_accuracy','adam','hard_sigmoid','softmax',0.996250078,0.9347
+'categorical_hinge','acc','nadam','softmax','softplus',0.939750041,0.9346
+'categorical_hinge','top_k_categorical_accuracy','adam','softmax','softplus',0.988500049,0.9346
+'categorical_hinge','binary_accuracy','adadelta','tanh','softmax',0.986941832,0.9346
+'categorical_hinge','categorical_accuracy','adadelta','tanh','softmax',0.934000028,0.9345
+'categorical_crossentropy','binary_accuracy','adam','softmax','softmax',0.908500172,0.9345
+'kullback_leibler_divergence','top_k_categorical_accuracy','adamax','sigmoid','softmax',0.99633342,0.9344
+'categorical_crossentropy','categorical_accuracy','rmsprop','softmax','softmax',0.938666694,0.9343
+'binary_crossentropy','binary_accuracy','adam','sigmoid','sigmoid',0.985950192,0.9342
+'binary_crossentropy','acc','rmsprop','softmax','softmax',0.900000215,0.9341
+'kullback_leibler_divergence','top_k_categorical_accuracy','adam','softmax','softmax',0.990000059,0.9341
+'categorical_hinge','top_k_categorical_accuracy','nadam','softmax','sigmoid',0.987750031,0.9341
+'categorical_hinge','top_k_categorical_accuracy','adam','softmax','sigmoid',0.988916705,0.934
+'categorical_hinge','acc','rmsprop','hard_sigmoid','softmax',0.939083378,0.9339
+'poisson','binary_accuracy','adam','hard_sigmoid','softmax',0.989041818,0.9339
+'categorical_hinge','binary_accuracy','adam','softmax','sigmoid',0.987300172,0.9339
+'categorical_hinge','categorical_accuracy','nadam','softmax','softplus',0.9381667,0.9338
+'categorical_crossentropy','categorical_accuracy','nadam','softmax','sigmoid',0.934000028,0.9337
+'categorical_hinge','categorical_accuracy','nadam','softmax','sigmoid',0.935166692,0.9336
+'categorical_crossentropy','acc','rmsprop','softplus','softplus',0.961166702,0.9334
+'binary_crossentropy','acc','adam','hard_sigmoid','softmax',0.989700156,0.9334
+'categorical_hinge','acc','adam','sigmoid','sigmoid',0.932250035,0.9332
+'categorical_crossentropy','top_k_categorical_accuracy','nadam','softmax','softmax',0.990666712,0.9331
+'kullback_leibler_divergence','top_k_categorical_accuracy','nadam','softmax','softmax',0.989666728,0.9331
+'categorical_hinge','acc','nadam','softmax','sigmoid',0.936333363,0.9331
+'binary_crossentropy','binary_accuracy','adagrad','sigmoid','softmax',0.987908492,0.933
+'binary_crossentropy','top_k_categorical_accuracy','adam','hard_sigmoid','softmax',0.996833421,0.933
+'categorical_crossentropy','categorical_accuracy','rmsprop','softmax','softplus',0.938250042,0.9329
+'kullback_leibler_divergence','acc','adamax','sigmoid','softmax',0.936250048,0.9329
+'categorical_hinge','categorical_accuracy','adam','softmax','sigmoid',0.935583356,0.9329
+'poisson','binary_accuracy','adam','sigmoid','sigmoid',0.984741859,0.9329
+'poisson','categorical_accuracy','adam','sigmoid','sigmoid',0.939666708,0.9328
+'binary_crossentropy','categorical_accuracy','adam','sigmoid','sigmoid',0.937666704,0.9328
+'categorical_hinge','binary_accuracy','rmsprop','hard_sigmoid','softmax',0.987983488,0.9327
+'categorical_crossentropy','acc','adamax','softmax','softmax',0.93233337,0.9327
+'kullback_leibler_divergence','top_k_categorical_accuracy','adamax','softmax','softmax',0.990416718,0.9325
+'categorical_hinge','binary_accuracy','adam','softmax','softplus',0.100000009,0.9324
+'categorical_crossentropy','binary_accuracy','adam','hard_sigmoid','softplus',0.913908516,0.9324
+'categorical_crossentropy','categorical_accuracy','adamax','softmax','sigmoid',0.930500033,0.9324
+'categorical_crossentropy','top_k_categorical_accuracy','nadam','softmax','softplus',0.992083391,0.9322
+'categorical_hinge','categorical_accuracy','rmsprop','hard_sigmoid','softmax',0.938500034,0.9322
+'binary_crossentropy','acc','adadelta','softsign','softmax',0.986391842,0.9322
+'categorical_hinge','categorical_accuracy','nadam','softmax','sigmoid',0.93583337,0.9322
+'kullback_leibler_divergence','categorical_accuracy','adam','hard_sigmoid','softmax',0.944083368,0.932
+'categorical_crossentropy','acc','adam','softmax','softmax',0.932583372,0.9319
+'binary_crossentropy','acc','adagrad','softplus','softmax',0.989750167,0.9319
+'categorical_hinge','categorical_accuracy','adam','sigmoid','sigmoid',0.931750047,0.9319
+'categorical_crossentropy','categorical_accuracy','rmsprop','softmax','softmax',0.934750035,0.9318
+'binary_crossentropy','categorical_accuracy','adam','hard_sigmoid','softmax',0.947000022,0.9318
+'categorical_crossentropy','binary_accuracy','nadam','softmax','softmax',0.986200159,0.9317
+'categorical_hinge','categorical_accuracy','adamax','softmax','sigmoid',0.935333376,0.9317
+'binary_crossentropy','binary_accuracy','adam','sigmoid','sigmoid',0.985766858,0.9317
+'categorical_crossentropy','categorical_accuracy','nadam','softmax','softplus',0.936083359,0.9316
+'poisson','binary_accuracy','rmsprop','softmax','softmax',0.900000215,0.9315
+'kullback_leibler_divergence','binary_accuracy','rmsprop','softmax','softmax',0.900000215,0.9315
+'categorical_hinge','binary_accuracy','adamax','softmax','softmax',0.908358519,0.9314
+'binary_crossentropy','categorical_accuracy','adam','hard_sigmoid','softmax',0.946500043,0.9314
+'kullback_leibler_divergence','acc','nadam','softmax','softmax',0.935500028,0.9314
+'kullback_leibler_divergence','categorical_accuracy','adagrad','sigmoid','softmax',0.935416721,0.9314
+'categorical_hinge','top_k_categorical_accuracy','rmsprop','hard_sigmoid','softmax',0.993250067,0.9313
+'categorical_hinge','binary_accuracy','adam','sigmoid','sigmoid',0.985225196,0.9313
+'categorical_hinge','categorical_accuracy','rmsprop','hard_sigmoid','softmax',0.93758337,0.9312
+'kullback_leibler_divergence','binary_accuracy','adam','hard_sigmoid','softmax',0.989366844,0.9311
+'kullback_leibler_divergence','binary_accuracy','adamax','sigmoid','softmax',0.987716841,0.931
+'kullback_leibler_divergence','top_k_categorical_accuracy','nadam','softmax','softmax',0.988333379,0.931
+'categorical_hinge','categorical_accuracy','adadelta','tanh','softmax',0.932583367,0.9309
+'categorical_hinge','binary_accuracy','nadam','softmax','softmax',0.986933505,0.9308
+'categorical_crossentropy','categorical_accuracy','adamax','sigmoid','softmax',0.935666715,0.9308
+'binary_crossentropy','acc','adagrad','sigmoid','softmax',0.987725173,0.9307
+'kullback_leibler_divergence','top_k_categorical_accuracy','adamax','sigmoid','softmax',0.995833404,0.9306
+'categorical_hinge','binary_accuracy','adamax','softmax','softplus',0.100000009,0.9305
+'kullback_leibler_divergence','categorical_accuracy','rmsprop','softmax','softmax',0.934416699,0.9303
+'categorical_crossentropy','categorical_accuracy','adam','softmax','sigmoid',0.929583361,0.9303
+'categorical_hinge','categorical_accuracy','adamax','softmax','softplus',0.930666695,0.9302
+'poisson','top_k_categorical_accuracy','adamax','softmax','softmax',0.991083391,0.9301
+'categorical_crossentropy','binary_accuracy','rmsprop','softmax','softmax',0.900000215,0.9301
+'kullback_leibler_divergence','acc','adam','hard_sigmoid','softmax',0.944750046,0.9301
+'kullback_leibler_divergence','top_k_categorical_accuracy','adam','hard_sigmoid','softmax',0.997083413,0.9301
+'kullback_leibler_divergence','top_k_categorical_accuracy','rmsprop','softmax','softmax',0.988583393,0.9301
+'poisson','acc','adam','sigmoid','sigmoid',0.938500042,0.9301
+'categorical_hinge','top_k_categorical_accuracy','rmsprop','hard_sigmoid','softmax',0.99300007,0.93
+'poisson','categorical_accuracy','adagrad','sigmoid','softmax',0.93658338,0.9299
+'categorical_crossentropy','acc','adagrad','sigmoid','softmax',0.936166711,0.9299
+'categorical_crossentropy','categorical_accuracy','adagrad','sigmoid','softmax',0.934416716,0.9299
+'kullback_leibler_divergence','categorical_accuracy','adamax','softmax','softmax',0.93475004,0.9299
+'categorical_crossentropy','top_k_categorical_accuracy','adagrad','sigmoid','softmax',0.996250081,0.9298
+'poisson','categorical_accuracy','adamax','sigmoid','softmax',0.935166689,0.9297
+'binary_crossentropy','top_k_categorical_accuracy','adam','sigmoid','sigmoid',0.996166733,0.9297
+'categorical_crossentropy','categorical_accuracy','rmsprop','softplus','softplus',0.965666721,0.9296
+'poisson','categorical_accuracy','adamax','softmax','softmax',0.932000031,0.9296
+'categorical_crossentropy','categorical_accuracy','adam','softmax','softmax',0.932666684,0.9296
+'categorical_hinge','acc','adamax','softmax','softplus',0.929416709,0.9295
+'poisson','categorical_accuracy','adam','softmax','softmax',0.931416693,0.9295
+'categorical_crossentropy','top_k_categorical_accuracy','adamax','softmax','softmax',0.989916722,0.9295
+'categorical_hinge','categorical_accuracy','adamax','softmax','sigmoid',0.932083376,0.9295
+'poisson','top_k_categorical_accuracy','rmsprop','hard_sigmoid','softplus',0.997666766,0.9294
+'categorical_hinge','binary_accuracy','adamax','softmax','sigmoid',0.985108487,0.9294
+'categorical_crossentropy','binary_accuracy','adam','hard_sigmoid','sigmoid',0.907275168,0.9294
+'categorical_crossentropy','binary_accuracy','adamax','softmax','softmax',0.929075157,0.9293
+'categorical_crossentropy','binary_accuracy','adamax','hard_sigmoid','sigmoid',0.907316841,0.9292
+'poisson','categorical_accuracy','adam','sigmoid','softplus',0.938500034,0.929
+'categorical_hinge','categorical_accuracy','rmsprop','hard_sigmoid','softmax',0.937583372,0.929
+'categorical_crossentropy','binary_accuracy','adamax','sigmoid','softmax',0.987258496,0.929
+'categorical_crossentropy','top_k_categorical_accuracy','rmsprop','softmax','softmax',0.990166716,0.929
+'poisson','binary_accuracy','adam','softmax','softmax',0.900000215,0.9288
+'poisson','categorical_accuracy','adadelta','softsign','softmax',0.923500031,0.9288
+'kullback_leibler_divergence','categorical_accuracy','adadelta','softplus','softmax',0.9299167,0.9287
+'categorical_crossentropy','binary_accuracy','adam','softmax','softmax',0.900000215,0.9286
+'poisson','top_k_categorical_accuracy','adagrad','sigmoid','softmax',0.995916744,0.9285
+'kullback_leibler_divergence','categorical_accuracy','adam','softmax','softmax',0.932000031,0.9285
+'poisson','categorical_accuracy','rmsprop','hard_sigmoid','softplus',0.952250034,0.9284
+'categorical_crossentropy','top_k_categorical_accuracy','adamax','sigmoid','softmax',0.996166751,0.9284
+'kullback_leibler_divergence','binary_accuracy','adagrad','sigmoid','softmax',0.987575171,0.9284
+'categorical_crossentropy','binary_accuracy','rmsprop','softplus','softplus',0.927750163,0.9283
+'categorical_crossentropy','top_k_categorical_accuracy','adam','softmax','softplus',0.989500061,0.9283
+'binary_crossentropy','top_k_categorical_accuracy','adam','sigmoid','sigmoid',0.995166741,0.9283
+'categorical_hinge','acc','adagrad','softmax','softplus',0.928083375,0.9282
+'categorical_hinge','categorical_accuracy','adam','hard_sigmoid','softmax',0.934083377,0.9281
+'categorical_crossentropy','categorical_accuracy','adam','hard_sigmoid','softmax',0.943000033,0.9281
+'kullback_leibler_divergence','acc','adadelta','softplus','softmax',0.930416706,0.928
+'kullback_leibler_divergence','top_k_categorical_accuracy','rmsprop','softmax','softmax',0.988666716,0.928
+'kullback_leibler_divergence','top_k_categorical_accuracy','adam','hard_sigmoid','softmax',0.996916746,0.9279
+'categorical_hinge','binary_accuracy','adagrad','softmax','softplus',0.100000009,0.9276
+'categorical_crossentropy','top_k_categorical_accuracy','adamax','softmax','softplus',0.990916722,0.9276
+'categorical_crossentropy','binary_accuracy','adagrad','sigmoid','softmax',0.987158482,0.9275
+'categorical_hinge','categorical_accuracy','adamax','softmax','softplus',0.928416702,0.9274
+'poisson','acc','adam','sigmoid','softplus',0.940333366,0.9274
+'binary_crossentropy','categorical_accuracy','rmsprop','sigmoid','softplus',0.936666705,0.9274
+'binary_crossentropy','top_k_categorical_accuracy','rmsprop','sigmoid','softplus',0.995166741,0.9274
+'categorical_crossentropy','acc','nadam','softmax','softmax',0.931333351,0.9274
+'kullback_leibler_divergence','categorical_accuracy','adamax','sigmoid','softmax',0.933666704,0.9274
+'categorical_crossentropy','top_k_categorical_accuracy','adam','hard_sigmoid','softmax',0.99733342,0.9273
+'poisson','categorical_accuracy','rmsprop','softmax','softmax',0.93158336,0.9272
+'categorical_crossentropy','binary_accuracy','adamax','softmax','softmax',0.949750145,0.9272
+'categorical_hinge','acc','adamax','softmax','sigmoid',0.926833374,0.9272
+'categorical_hinge','binary_accuracy','adagrad','softmax','sigmoid',0.985208489,0.9272
+'categorical_crossentropy','binary_accuracy','adagrad','hard_sigmoid','sigmoid',0.908941855,0.9272
+'categorical_crossentropy','binary_accuracy','adagrad','softmax','softmax',0.900000215,0.9271
+'binary_crossentropy','acc','adam','softmax','softmax',0.918275192,0.9271
+'kullback_leibler_divergence','top_k_categorical_accuracy','adagrad','sigmoid','softmax',0.996000074,0.9271
+'kullback_leibler_divergence','top_k_categorical_accuracy','adam','softmax','softmax',0.986916711,0.9271
+'kullback_leibler_divergence','top_k_categorical_accuracy','adamax','sigmoid','softmax',0.995250071,0.927
+'categorical_hinge','top_k_categorical_accuracy','adamax','softmax','sigmoid',0.989500033,0.927
+'categorical_crossentropy','top_k_categorical_accuracy','adamax','softmax','sigmoid',0.991666719,0.927
+'categorical_crossentropy','binary_accuracy','adagrad','sigmoid','softmax',0.987158495,0.9268
+'binary_crossentropy','binary_accuracy','adadelta','tanh','softmax',0.986416834,0.9267
+'kullback_leibler_divergence','binary_accuracy','adam','softmax','softmax',0.907700186,0.9267
+'poisson','binary_accuracy','adamax','sigmoid','softmax',0.987008487,0.9266
+'categorical_hinge','acc','adagrad','sigmoid','softplus',0.937916708,0.9265
+'kullback_leibler_divergence','binary_accuracy','adam','hard_sigmoid','softmax',0.988825152,0.9265
+'categorical_hinge','categorical_accuracy','adam','sigmoid','sigmoid',0.927500029,0.9265
+'categorical_crossentropy','categorical_accuracy','adam','softmax','softplus',0.928666713,0.9264
+'kullback_leibler_divergence','top_k_categorical_accuracy','adam','softmax','softmax',0.98633338,0.9264
+'categorical_hinge','binary_accuracy','adadelta','softsign','sigmoid',0.983150189,0.9264
+'categorical_crossentropy','categorical_accuracy','adamax','hard_sigmoid','sigmoid',0.942500032,0.9264
+'categorical_hinge','acc','adagrad','softmax','sigmoid',0.926333368,0.9263
+'categorical_hinge','categorical_accuracy','adagrad','softmax','sigmoid',0.927583372,0.9263
+'categorical_hinge','top_k_categorical_accuracy','adagrad','softmax','softplus',0.988583369,0.9262
+'categorical_hinge','top_k_categorical_accuracy','adamax','softmax','softplus',0.989416701,0.9262
+'categorical_crossentropy','top_k_categorical_accuracy','adamax','hard_sigmoid','softplus',0.996416743,0.9262
+'poisson','top_k_categorical_accuracy','rmsprop','softmax','softmax',0.98816671,0.9262
+'poisson','categorical_accuracy','adam','softplus','sigmoid',0.954833366,0.9262
+'categorical_crossentropy','binary_accuracy','adagrad','hard_sigmoid','softplus',0.919383499,0.9261
+'categorical_crossentropy','top_k_categorical_accuracy','adagrad','hard_sigmoid','sigmoid',0.997166755,0.9261
+'categorical_crossentropy','top_k_categorical_accuracy','rmsprop','softmax','softplus',0.990083382,0.926
+'categorical_crossentropy','categorical_accuracy','adamax','softmax','softmax',0.928000033,0.926
+'categorical_hinge','acc','adadelta','softsign','sigmoid',0.9239167,0.926
+'categorical_crossentropy','acc','adamax','sigmoid','softmax',0.935416693,0.9259
+'kullback_leibler_divergence','categorical_accuracy','adadelta','softplus','softmax',0.930916714,0.9259
+'categorical_hinge','top_k_categorical_accuracy','adagrad','sigmoid','softplus',0.99300006,0.9258
+'categorical_crossentropy','binary_accuracy','adamax','hard_sigmoid','sigmoid',0.90675851,0.9258
+'categorical_hinge','top_k_categorical_accuracy','adagrad','softmax','softplus',0.989833387,0.9257
+'categorical_crossentropy','categorical_accuracy','adagrad','hard_sigmoid','softplus',0.937666704,0.9257
+'binary_crossentropy','binary_accuracy','rmsprop','sigmoid','softplus',0.939333486,0.9255
+'categorical_hinge','acc','adam','hard_sigmoid','softmax',0.933250042,0.9255
+'kullback_leibler_divergence','top_k_categorical_accuracy','adamax','softmax','softmax',0.988750038,0.9255
+'categorical_crossentropy','top_k_categorical_accuracy','adamax','hard_sigmoid','sigmoid',0.996333423,0.9254
+'categorical_crossentropy','acc','adagrad','hard_sigmoid','softplus',0.939750031,0.9253
+'categorical_hinge','categorical_accuracy','adadelta','softsign','sigmoid',0.923250034,0.9253
+'categorical_crossentropy','categorical_accuracy','adagrad','hard_sigmoid','sigmoid',0.942833366,0.9253
+'categorical_crossentropy','categorical_accuracy','adamax','hard_sigmoid','softplus',0.941333366,0.9252
+'binary_crossentropy','categorical_accuracy','rmsprop','sigmoid','softplus',0.938250038,0.9252
+'categorical_crossentropy','binary_accuracy','adamax','sigmoid','softmax',0.986933507,0.9251
+'categorical_crossentropy','categorical_accuracy','adadelta','softplus','softmax',0.929250034,0.9251
+'kullback_leibler_divergence','top_k_categorical_accuracy','adagrad','sigmoid','softmax',0.995833407,0.9251
+'categorical_hinge','categorical_accuracy','adagrad','softmax','sigmoid',0.926166706,0.9251
+'categorical_crossentropy','acc','adamax','hard_sigmoid','softplus',0.939250042,0.925
+'categorical_hinge','binary_accuracy','adam','hard_sigmoid','softmax',0.987133498,0.925
+'binary_crossentropy','acc','adagrad','softmax','softmax',0.900000215,0.925
+'binary_crossentropy','top_k_categorical_accuracy','adamax','hard_sigmoid','softmax',0.995083407,0.925
+'binary_crossentropy','top_k_categorical_accuracy','adagrad','sigmoid','sigmoid',0.994583393,0.925
+'poisson','acc','adam','hard_sigmoid','softmax',0.943666704,0.9249
+'categorical_hinge','categorical_accuracy','adadelta','softsign','sigmoid',0.923250054,0.9249
+'categorical_hinge','categorical_accuracy','adagrad','softmax','softplus',0.925833349,0.9248
+'kullback_leibler_divergence','acc','adam','hard_sigmoid','softmax',0.943666709,0.9248
+'kullback_leibler_divergence','binary_accuracy','adamax','softmax','softmax',0.94469181,0.9248
+'poisson','binary_accuracy','adadelta','softsign','softmax',0.985283504,0.9247
+'poisson','top_k_categorical_accuracy','adadelta','softsign','softmax',0.993333397,0.9247
+'categorical_crossentropy','acc','rmsprop','softmax','softmax',0.930416693,0.9247
+'binary_crossentropy','binary_accuracy','adadelta','tanh','softmax',0.98625018,0.9247
+'categorical_hinge','top_k_categorical_accuracy','adagrad','softmax','sigmoid',0.987833376,0.9247
+'categorical_crossentropy','categorical_accuracy','adagrad','hard_sigmoid','softplus',0.941000037,0.9246
+'binary_crossentropy','categorical_accuracy','adagrad','sigmoid','sigmoid',0.930083364,0.9246
+'binary_crossentropy','acc','adadelta','tanh','softmax',0.986266824,0.9245
+'binary_crossentropy','top_k_categorical_accuracy','adadelta','tanh','softmax',0.993416732,0.9245
+'categorical_hinge','top_k_categorical_accuracy','adagrad','softmax','sigmoid',0.989250022,0.9244
+'kullback_leibler_divergence','binary_accuracy','adadelta','softplus','softmax',0.986691835,0.9243
+'categorical_crossentropy','binary_accuracy','adagrad','hard_sigmoid','softplus',0.923641843,0.9241
+'categorical_hinge','categorical_accuracy','adam','hard_sigmoid','softmax',0.930333381,0.9241
+'poisson','top_k_categorical_accuracy','adamax','sigmoid','softmax',0.995666747,0.9241
+'categorical_hinge','categorical_accuracy','adagrad','softmax','softplus',0.926166693,0.924
+'categorical_hinge','top_k_categorical_accuracy','adadelta','softsign','sigmoid',0.987583367,0.924
+'categorical_hinge','categorical_accuracy','adagrad','softmax','sigmoid',0.92550003,0.9239
+'categorical_hinge','top_k_categorical_accuracy','adam','sigmoid','sigmoid',0.990750057,0.9238
+'poisson','binary_accuracy','adagrad','softmax','softmax',0.900000215,0.9237
+'binary_crossentropy','acc','adamax','softmax','softmax',0.946991814,0.9237
+'poisson','binary_accuracy','adagrad','sigmoid','softmax',0.987116834,0.9236
+'categorical_hinge','binary_accuracy','adagrad','sigmoid','sigmoid',0.984091836,0.9236
+'categorical_crossentropy','categorical_accuracy','adamax','softmax','softplus',0.927916703,0.9235
+'categorical_hinge','top_k_categorical_accuracy','adam','hard_sigmoid','softmax',0.991500047,0.9235
+'categorical_crossentropy','categorical_accuracy','adagrad','softmax','softmax',0.923833358,0.9235
+'kullback_leibler_divergence','top_k_categorical_accuracy','adagrad','softmax','softmax',0.983750038,0.9235
+'binary_crossentropy','acc','adamax','hard_sigmoid','softmax',0.987583511,0.9234
+'categorical_hinge','binary_accuracy','adagrad','sigmoid','softplus',0.395925038,0.9233
+'binary_crossentropy','acc','adam','hard_sigmoid','sigmoid',0.985758521,0.9231
+'kullback_leibler_divergence','acc','adadelta','softplus','softmax',0.933750031,0.923
+'poisson','binary_accuracy','rmsprop','hard_sigmoid','softplus',0.979258515,0.9229
+'categorical_hinge','top_k_categorical_accuracy','adagrad','sigmoid','sigmoid',0.990250061,0.9229
+'poisson','top_k_categorical_accuracy','adagrad','sigmoid','sigmoid',0.99566675,0.9228
+'poisson','top_k_categorical_accuracy','adam','hard_sigmoid','sigmoid',0.996750079,0.9228
+'categorical_crossentropy','categorical_accuracy','adagrad','sigmoid','softmax',0.933500044,0.9227
+'categorical_crossentropy','categorical_accuracy','adagrad','hard_sigmoid','sigmoid',0.940500041,0.9227
+'categorical_crossentropy','acc','adagrad','softmax','softmax',0.925750037,0.9226
+'categorical_hinge','categorical_accuracy','adagrad','softmax','softplus',0.924416703,0.9225
+'binary_crossentropy','acc','nadam','softmax','softmax',0.98457517,0.9225
+'categorical_crossentropy','binary_accuracy','adagrad','hard_sigmoid','sigmoid',0.907050175,0.9225
+'binary_crossentropy','acc','adagrad','softsign','softplus',0.935858476,0.9224
+'categorical_crossentropy','acc','adamax','hard_sigmoid','sigmoid',0.937750041,0.9223
+'categorical_crossentropy','categorical_accuracy','rmsprop','softmax','sigmoid',0.932083353,0.9222
+'categorical_crossentropy','categorical_accuracy','adagrad','softmax','sigmoid',0.926250048,0.9222
+'categorical_crossentropy','binary_accuracy','adamax','hard_sigmoid','softplus',0.914733509,0.9221
+'poisson','categorical_accuracy','adam','hard_sigmoid','softmax',0.940166702,0.9218
+'binary_crossentropy','top_k_categorical_accuracy','adagrad','sigmoid','sigmoid',0.994750078,0.9218
+'poisson','categorical_accuracy','adagrad','softmax','softmax',0.923583373,0.9217
+'categorical_crossentropy','top_k_categorical_accuracy','adagrad','softmax','softmax',0.986833389,0.9214
+'kullback_leibler_divergence','categorical_accuracy','adagrad','softmax','softmax',0.922083373,0.9214
+'categorical_crossentropy','top_k_categorical_accuracy','adadelta','softplus','softmax',0.995583398,0.9213
+'binary_crossentropy','binary_accuracy','adamax','softmax','sigmoid',0.933941824,0.9213
+'binary_crossentropy','top_k_categorical_accuracy','adadelta','tanh','softmax',0.993666728,0.9212
+'binary_crossentropy','binary_accuracy','rmsprop','hard_sigmoid','softplus',0.931358486,0.9211
+'poisson','binary_accuracy','adam','hard_sigmoid','sigmoid',0.98387517,0.9209
+'poisson','binary_accuracy','adagrad','sigmoid','sigmoid',0.982675195,0.9208
+'categorical_crossentropy','binary_accuracy','adamax','hard_sigmoid','softplus',0.912908519,0.9206
+'binary_crossentropy','categorical_accuracy','adamax','hard_sigmoid','softmax',0.936000034,0.9203
+'binary_crossentropy','categorical_accuracy','adadelta','tanh','softmax',0.927166695,0.9203
+'poisson','categorical_accuracy','nadam','softmax','softmax',0.923250034,0.9202
+'poisson','top_k_categorical_accuracy','adagrad','softmax','softmax',0.985833364,0.9202
+'binary_crossentropy','acc','adagrad','hard_sigmoid','softmax',0.987266819,0.9202
+'binary_crossentropy','categorical_accuracy','adagrad','sigmoid','sigmoid',0.929166694,0.9199
+'poisson','categorical_accuracy','adadelta','tanh','softmax',0.923500024,0.9198
+'categorical_crossentropy','top_k_categorical_accuracy','adam','softmax','softmax',0.988916708,0.9198
+'poisson','binary_accuracy','adamax','hard_sigmoid','softmax',0.986633492,0.9197
+'binary_crossentropy','top_k_categorical_accuracy','adamax','hard_sigmoid','softmax',0.994666728,0.9195
+'binary_crossentropy','acc','adam','softsign','softplus',0.939991817,0.9194
+'kullback_leibler_divergence','top_k_categorical_accuracy','adadelta','softplus','softmax',0.995500068,0.9194
+'categorical_hinge','top_k_categorical_accuracy','adamax','sigmoid','softplus',0.993083395,0.9193
+'poisson','top_k_categorical_accuracy','adam','softplus','sigmoid',0.99800009,0.9193
+'binary_crossentropy','acc','adam','softplus','sigmoid',0.98957516,0.9193
+'poisson','categorical_accuracy','adam','hard_sigmoid','sigmoid',0.936083354,0.9191
+'binary_crossentropy','acc','adagrad','sigmoid','sigmoid',0.983916861,0.9191
+'categorical_crossentropy','top_k_categorical_accuracy','adagrad','hard_sigmoid','softplus',0.996500075,0.919
+'binary_crossentropy','categorical_accuracy','adadelta','tanh','softmax',0.92883336,0.919
+'categorical_crossentropy','binary_accuracy','nadam','softplus','softplus',0.920633515,0.9189
+'poisson','binary_accuracy','adagrad','sigmoid','softplus',0.97305018,0.9188
+'binary_crossentropy','top_k_categorical_accuracy','adagrad','softsign','softplus',0.9923334,0.9188
+'binary_crossentropy','binary_accuracy','adamax','hard_sigmoid','softmax',0.987100191,0.9188
+'binary_crossentropy','binary_accuracy','adagrad','sigmoid','sigmoid',0.983666847,0.9188
+'categorical_hinge','categorical_accuracy','adagrad','sigmoid','sigmoid',0.922333357,0.9187
+'binary_crossentropy','binary_accuracy','adamax','hard_sigmoid','softmax',0.987283476,0.9185
+'categorical_crossentropy','acc','adagrad','hard_sigmoid','sigmoid',0.940833377,0.9184
+'categorical_crossentropy','categorical_accuracy','adagrad','softmax','softplus',0.920500023,0.9183
+'kullback_leibler_divergence','top_k_categorical_accuracy','adamax','hard_sigmoid','softmax',0.995583415,0.9182
+'categorical_hinge','acc','adagrad','sigmoid','sigmoid',0.921750031,0.9181
+'binary_crossentropy','top_k_categorical_accuracy','rmsprop','sigmoid','softplus',0.994500061,0.9178
+'categorical_hinge','categorical_accuracy','adagrad','sigmoid','sigmoid',0.921666699,0.9178
+'poisson','categorical_accuracy','adagrad','sigmoid','sigmoid',0.930250024,0.9178
+'kullback_leibler_divergence','binary_accuracy','adagrad','softmax','softmax',0.900000215,0.9175
+'binary_crossentropy','top_k_categorical_accuracy','adadelta','softsign','softplus',0.991583377,0.9174
+'categorical_hinge','acc','adamax','sigmoid','sigmoid',0.918333357,0.9173
+'poisson','categorical_accuracy','adamax','hard_sigmoid','softmax',0.930500043,0.9171
+'categorical_crossentropy','categorical_accuracy','nadam','softmax','softmax',0.925083379,0.9171
+'categorical_crossentropy','categorical_accuracy','adagrad','hard_sigmoid','softmax',0.933500044,0.917
+'categorical_hinge','binary_accuracy','adamax','sigmoid','softplus',0.147325007,0.9169
+'categorical_hinge','acc','adamax','sigmoid','softplus',0.928916695,0.9168
+'binary_crossentropy','categorical_accuracy','adamax','hard_sigmoid','softmax',0.932666689,0.9168
+'poisson','binary_accuracy','adadelta','tanh','softmax',0.985475158,0.9167
+'poisson','top_k_categorical_accuracy','adadelta','tanh','softmax',0.994166734,0.9167
+'kullback_leibler_divergence','top_k_categorical_accuracy','adagrad','hard_sigmoid','softmax',0.99575008,0.9166
+'categorical_hinge','binary_accuracy','adamax','sigmoid','sigmoid',0.982841847,0.9166
+'categorical_hinge','categorical_accuracy','adamax','sigmoid','softplus',0.928750028,0.9165
+'poisson','acc','adadelta','tanh','softmax',0.923583361,0.9165
+'categorical_crossentropy','top_k_categorical_accuracy','adamax','hard_sigmoid','softmax',0.995500073,0.9165
+'binary_crossentropy','acc','rmsprop','sigmoid','softplus',0.941350174,0.9164
+'categorical_hinge','binary_accuracy','nadam','hard_sigmoid','softplus',0.67457508,0.9163
+'kullback_leibler_divergence','categorical_accuracy','adagrad','hard_sigmoid','softmax',0.933166693,0.9163
+'binary_crossentropy','binary_accuracy','adagrad','hard_sigmoid','softmax',0.987325157,0.9159
+'kullback_leibler_divergence','acc','adagrad','hard_sigmoid','softmax',0.934750028,0.9158
+'categorical_hinge','categorical_accuracy','adagrad','sigmoid','softplus',0.93225003,0.9157
+'categorical_hinge', 'categorical_accuracy', 'adamax', 'sigmoid', 'softplus',0.926916691,0.9156
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'softplus', 'softmax',0.986400177,0.9155
+'categorical_hinge', 'top_k_categorical_accuracy', 'adamax', 'sigmoid', 'sigmoid',0.989000052,0.9155
+'binary_crossentropy', 'binary_accuracy', 'adam', 'softsign', 'softplus',0.942366814,0.9154
+'poisson', 'acc', 'adamax', 'hard_sigmoid', 'softmax',0.93075004,0.9154
+'kullback_leibler_divergence', 'acc', 'adamax', 'hard_sigmoid', 'softmax',0.931000041,0.9153
+'binary_crossentropy', 'acc', 'adadelta', 'softsign', 'sigmoid',0.980616833,0.9153
+'binary_crossentropy', 'binary_accuracy', 'adadelta', 'softsign', 'sigmoid',0.980958509,0.9152
+'kullback_leibler_divergence', 'categorical_accuracy', 'rmsprop', 'softmax', 'sigmoid',0.917416702,0.9152
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adagrad', 'hard_sigmoid', 'softmax',0.995333401,0.9148
+'categorical_crossentropy', 'binary_accuracy', 'nadam', 'softplus', 'softplus',0.923683512,0.9145
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'nadam', 'softplus', 'softplus',0.998833435,0.9142
+'binary_crossentropy', 'binary_accuracy', 'adadelta', 'softsign', 'softplus',0.950233484,0.9141
+'categorical_hinge', 'categorical_accuracy', 'adadelta', 'softplus', 'softmax',0.921666707,0.9139
+'poisson', 'categorical_accuracy', 'adagrad', 'hard_sigmoid', 'softmax',0.93316671,0.9139
+'categorical_crossentropy', 'categorical_accuracy', 'adamax', 'hard_sigmoid', 'softmax',0.931333351,0.9138
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'softsign', 'sigmoid',0.992583384,0.9138
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'softmax', 'softmax',0.984833367,0.9137
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'hard_sigmoid', 'softmax',0.995750075,0.9136
+'categorical_hinge', 'categorical_accuracy', 'rmsprop', 'softplus', 'sigmoid',0.948833374,0.9133
+'poisson', 'top_k_categorical_accuracy', 'adagrad', 'hard_sigmoid', 'softmax',0.995416746,0.9132
+'kullback_leibler_divergence', 'categorical_accuracy', 'rmsprop', 'softmax', 'sigmoid',0.921166698,0.9132
+'kullback_leibler_divergence', 'acc', 'rmsprop', 'softmax', 'sigmoid',0.917750031,0.913
+'poisson', 'top_k_categorical_accuracy', 'adagrad', 'sigmoid', 'softplus',0.995583413,0.9129
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adagrad', 'hard_sigmoid', 'softmax',0.995833419,0.9129
+'poisson', 'categorical_accuracy', 'adamax', 'sigmoid', 'sigmoid',0.923916705,0.9129
+'kullback_leibler_divergence', 'acc', 'adamax', 'hard_sigmoid', 'softmax',0.929583363,0.9128
+'kullback_leibler_divergence', 'categorical_accuracy', 'adamax', 'hard_sigmoid', 'softmax',0.931916696,0.9128
+'poisson', 'acc', 'adagrad', 'sigmoid', 'sigmoid',0.928666703,0.9128
+'categorical_hinge', 'categorical_accuracy', 'adamax', 'sigmoid', 'sigmoid',0.916500034,0.9127
+'binary_crossentropy', 'categorical_accuracy', 'adam', 'softsign', 'softplus',0.925583355,0.9126
+'binary_crossentropy', 'categorical_accuracy', 'adadelta', 'softsign', 'sigmoid',0.918416699,0.9124
+'categorical_hinge', 'acc', 'adadelta', 'softplus', 'softmax',0.922916695,0.9123
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adagrad', 'softmax', 'sigmoid',0.989916727,0.9123
+'binary_crossentropy', 'acc', 'adadelta', 'softsign', 'softplus',0.950958485,0.9122
+'binary_crossentropy', 'categorical_accuracy', 'adadelta', 'softsign', 'softplus',0.915916696,0.9122
+'binary_crossentropy', 'categorical_accuracy', 'nadam', 'softsign', 'softplus',0.910500027,0.9121
+'categorical_hinge', 'categorical_accuracy', 'adamax', 'sigmoid', 'sigmoid',0.917666694,0.912
+'binary_crossentropy', 'categorical_accuracy', 'adam', 'softsign', 'softplus',0.926250038,0.9119
+'binary_crossentropy', 'categorical_accuracy', 'adadelta', 'softsign', 'sigmoid',0.916833363,0.9119
+'binary_crossentropy', 'categorical_accuracy', 'adagrad', 'hard_sigmoid', 'softmax',0.931833364,0.9116
+'binary_crossentropy', 'categorical_accuracy', 'adagrad', 'hard_sigmoid', 'softmax',0.932750036,0.9116
+'binary_crossentropy', 'categorical_accuracy', 'adadelta', 'softsign', 'softplus',0.918666705,0.9115
+'poisson', 'acc', 'adagrad', 'hard_sigmoid', 'softmax',0.931333373,0.9114
+'binary_crossentropy', 'binary_accuracy', 'adamax', 'softsign', 'softplus',0.944316827,0.9112
+'categorical_hinge', 'acc', 'adadelta', 'sigmoid', 'softplus',0.920416698,0.9111
+'poisson', 'top_k_categorical_accuracy', 'adam', 'hard_sigmoid', 'softplus',0.995833419,0.9111
+'categorical_hinge', 'binary_accuracy', 'adadelta', 'sigmoid', 'softplus',0.041583335,0.911
+'categorical_hinge', 'binary_accuracy', 'adamax', 'sigmoid', 'softmax',0.984366839,0.911
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'softsign', 'sigmoid',0.992750054,0.911
+'poisson', 'binary_accuracy', 'adagrad', 'hard_sigmoid', 'softmax',0.986900168,0.9106
+'binary_crossentropy', 'binary_accuracy', 'rmsprop', 'softmax', 'softmax',0.900000215,0.9106
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'hard_sigmoid', 'softmax',0.932833364,0.9106
+'binary_crossentropy', 'binary_accuracy', 'adamax', 'sigmoid', 'sigmoid',0.982183511,0.9106
+'kullback_leibler_divergence', 'binary_accuracy', 'adagrad', 'hard_sigmoid', 'softmax',0.986841838,0.9103
+'binary_crossentropy', 'binary_accuracy', 'adadelta', 'tanh', 'sigmoid',0.981091835,0.9103
+'categorical_crossentropy', 'binary_accuracy', 'adam', 'softplus', 'softplus',0.914050189,0.9102
+'categorical_crossentropy', 'categorical_accuracy', 'nadam', 'softplus', 'softplus',0.968750022,0.9101
+'categorical_hinge', 'binary_accuracy', 'adam', 'hard_sigmoid', 'softplus',0.591900048,0.91
+'kullback_leibler_divergence', 'acc', 'adagrad', 'hard_sigmoid', 'softmax',0.932333375,0.91
+'poisson', 'binary_accuracy', 'adamax', 'sigmoid', 'sigmoid',0.980525181,0.91
+'kullback_leibler_divergence', 'binary_accuracy', 'adamax', 'softmax', 'sigmoid',0.100000009,0.91
+'binary_crossentropy', 'categorical_accuracy', 'adamax', 'sigmoid', 'sigmoid',0.923000045,0.9098
+'binary_crossentropy', 'categorical_accuracy', 'adamax', 'sigmoid', 'sigmoid',0.921166698,0.9097
+'binary_crossentropy', 'binary_accuracy', 'adagrad', 'hard_sigmoid', 'sigmoid',0.983775181,0.9096
+'kullback_leibler_divergence', 'acc', 'adamax', 'softmax', 'sigmoid',0.914916694,0.9096
+'categorical_hinge', 'top_k_categorical_accuracy', 'adadelta', 'softplus', 'softmax',0.990333383,0.9093
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'softsign', 'softplus',0.99133338,0.9089
+'binary_crossentropy', 'acc', 'adamax', 'sigmoid', 'sigmoid',0.982416841,0.9088
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'softmax', 'sigmoid',0.986833376,0.9088
+'categorical_hinge', 'categorical_accuracy', 'adagrad', 'sigmoid', 'softplus',0.93750005,0.9086
+'categorical_hinge', 'binary_accuracy', 'adadelta', 'softplus', 'softmax',0.984325148,0.9085
+'poisson', 'acc', 'adagrad', 'sigmoid', 'softplus',0.931583377,0.9082
+'binary_crossentropy', 'binary_accuracy', 'adamax', 'sigmoid', 'sigmoid',0.982108514,0.908
+'categorical_crossentropy', 'acc', 'nadam', 'softplus', 'softplus',0.966666728,0.9079
+'binary_crossentropy', 'acc', 'adam', 'softplus', 'softplus',0.939133485,0.9077
+'kullback_leibler_divergence', 'binary_accuracy', 'adagrad', 'hard_sigmoid', 'softmax',0.986825166,0.9076
+'categorical_hinge', 'categorical_accuracy', 'adadelta', 'softplus', 'softmax',0.923083362,0.9073
+'binary_crossentropy', 'acc', 'adagrad', 'hard_sigmoid', 'sigmoid',0.983625176,0.907
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'rmsprop', 'softmax', 'sigmoid',0.98625005,0.907
+'binary_crossentropy', 'acc', 'adadelta', 'tanh', 'sigmoid',0.98084186,0.9069
+'kullback_leibler_divergence', 'categorical_accuracy', 'adamax', 'softmax', 'sigmoid',0.914000042,0.9069
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adamax', 'sigmoid', 'sigmoid',0.993500059,0.9068
+'poisson', 'categorical_accuracy', 'adagrad', 'softplus', 'sigmoid',0.947833379,0.9067
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adamax', 'sigmoid', 'sigmoid',0.993500066,0.9067
+'categorical_hinge', 'categorical_accuracy', 'adadelta', 'sigmoid', 'softplus',0.921333368,0.9066
+'categorical_hinge', 'top_k_categorical_accuracy', 'adamax', 'hard_sigmoid', 'softmax',0.990333386,0.9065
+'binary_crossentropy', 'acc', 'adamax', 'softsign', 'softplus',0.947641802,0.9063
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'sigmoid', 'softplus',0.993916728,0.9047
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'sigmoid', 'softmax',0.983916832,0.9047
+'poisson', 'acc', 'adadelta', 'softsign', 'sigmoid',0.914666702,0.9046
+'poisson', 'top_k_categorical_accuracy', 'adadelta', 'softsign', 'sigmoid',0.99325005,0.9045
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adamax', 'softsign', 'softplus',0.992416737,0.9043
+'categorical_hinge', 'top_k_categorical_accuracy', 'adadelta', 'sigmoid', 'softplus',0.991916729,0.9042
+'categorical_hinge', 'categorical_accuracy', 'adadelta', 'sigmoid', 'softplus',0.919583365,0.9041
+'poisson', 'binary_accuracy', 'adadelta', 'softsign', 'sigmoid',0.977841834,0.9041
+'poisson', 'top_k_categorical_accuracy', 'adagrad', 'softplus', 'sigmoid',0.997666756,0.9041
+'categorical_crossentropy', 'categorical_accuracy', 'adadelta', 'sigmoid', 'softmax',0.916750039,0.9039
+'poisson', 'top_k_categorical_accuracy', 'nadam', 'softplus', 'softplus',0.998416759,0.9035
+'poisson', 'categorical_accuracy', 'adadelta', 'softsign', 'sigmoid',0.913250032,0.9034
+'poisson', 'binary_accuracy', 'adagrad', 'hard_sigmoid', 'sigmoid',0.982125173,0.9034
+'poisson', 'top_k_categorical_accuracy', 'adagrad', 'hard_sigmoid', 'sigmoid',0.995750072,0.9033
+'binary_crossentropy', 'acc', 'adadelta', 'tanh', 'softplus',0.946825159,0.9031
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adagrad', 'softsign', 'softplus',0.993416727,0.9031
+'poisson', 'categorical_accuracy', 'adadelta', 'softsign', 'softplus',0.920333368,0.9029
+'categorical_crossentropy', 'categorical_accuracy', 'adam', 'softplus', 'softplus',0.959583377,0.9029
+'kullback_leibler_divergence', 'binary_accuracy', 'adamax', 'hard_sigmoid', 'softmax',0.985983501,0.9029
+'categorical_crossentropy', 'categorical_accuracy', 'adadelta', 'sigmoid', 'sigmoid',0.917666701,0.9027
+'categorical_crossentropy', 'binary_accuracy', 'nadam', 'softplus', 'sigmoid',0.920675163,0.9024
+'categorical_hinge', 'binary_accuracy', 'adamax', 'hard_sigmoid', 'softplus',0.08611667,0.902
+'poisson', 'categorical_accuracy', 'adagrad', 'softplus', 'softplus',0.948666699,0.9018
+'poisson', 'binary_accuracy', 'adam', 'softplus', 'sigmoid',0.987983497,0.9018
+'poisson', 'categorical_accuracy', 'adagrad', 'sigmoid', 'softplus',0.930250034,0.9017
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adagrad', 'hard_sigmoid', 'softmax',0.994416736,0.901
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'sigmoid', 'softmax',0.993666723,0.9008
+'poisson', 'acc', 'adamax', 'sigmoid', 'sigmoid',0.922000028,0.9007
+'poisson', 'binary_accuracy', 'adagrad', 'softplus', 'softplus',0.973200175,0.9005
+'categorical_crossentropy', 'categorical_accuracy', 'adadelta', 'sigmoid', 'softplus',0.917500039,0.9001
+'categorical_hinge', 'binary_accuracy', 'adamax', 'hard_sigmoid', 'sigmoid',0.982166842,0.8999
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'softmax', 'sigmoid',0.987000043,0.8999
+'poisson', 'top_k_categorical_accuracy', 'adadelta', 'softsign', 'softplus',0.99308339,0.8997
+'poisson', 'binary_accuracy', 'adam', 'hard_sigmoid', 'softplus',0.976366835,0.8997
+'binary_crossentropy', 'acc', 'adagrad', 'tanh', 'softplus',0.932608513,0.8994
+'kullback_leibler_divergence', 'binary_accuracy', 'adamax', 'softmax', 'sigmoid',0.100000009,0.8994
+'categorical_crossentropy', 'acc', 'adadelta', 'sigmoid', 'softmax',0.917666703,0.8993
+'poisson', 'categorical_accuracy', 'adagrad', 'hard_sigmoid', 'sigmoid',0.927416705,0.8988
+'binary_crossentropy', 'binary_accuracy', 'adamax', 'softsign', 'softplus',0.944316824,0.8987
+'poisson', 'categorical_accuracy', 'nadam', 'softplus', 'softplus',0.964583382,0.8986
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adamax', 'softsign', 'softplus',0.991666722,0.8982
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adagrad', 'softplus', 'softplus',0.998083415,0.8981
+'binary_crossentropy', 'categorical_accuracy', 'adagrad', 'softsign', 'softplus',0.912083363,0.898
+'kullback_leibler_divergence', 'categorical_accuracy', 'adadelta', 'sigmoid', 'softmax',0.917583361,0.8977
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'sigmoid', 'sigmoid',0.993583399,0.8977
+'poisson', 'binary_accuracy', 'adadelta', 'softsign', 'softplus',0.967016846,0.8975
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'sigmoid', 'softmax',0.993666726,0.8972
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'rmsprop', 'softplus', 'sigmoid',0.998833435,0.8971
+'binary_crossentropy', 'categorical_accuracy', 'adamax', 'softsign', 'softplus',0.899916696,0.8968
+'categorical_crossentropy', 'binary_accuracy', 'adadelta', 'sigmoid', 'softmax',0.984000156,0.8967
+'poisson', 'acc', 'adadelta', 'softsign', 'softplus',0.91875004,0.8961
+'poisson', 'categorical_accuracy', 'adam', 'hard_sigmoid', 'softplus',0.938166723,0.8959
+'poisson', 'binary_accuracy', 'adamax', 'sigmoid', 'softplus',0.968825181,0.8958
+'categorical_crossentropy', 'binary_accuracy', 'adam', 'softplus', 'softplus',0.913575185,0.8953
+'binary_crossentropy', 'acc', 'adamax', 'hard_sigmoid', 'sigmoid',0.981633497,0.8953
+'binary_crossentropy', 'categorical_accuracy', 'adamax', 'softsign', 'softplus',0.893833352,0.8949
+'binary_crossentropy', 'binary_accuracy', 'adagrad', 'softplus', 'sigmoid',0.986300153,0.8949
+'poisson', 'top_k_categorical_accuracy', 'adagrad', 'hard_sigmoid', 'softplus',0.995666745,0.8947
+'categorical_crossentropy', 'categorical_accuracy', 'adadelta', 'sigmoid', 'softmax',0.917166705,0.8945
+'poisson', 'acc', 'adamax', 'hard_sigmoid', 'sigmoid',0.920750037,0.8938
+'categorical_crossentropy', 'binary_accuracy', 'adadelta', 'sigmoid', 'softmax',0.983841822,0.8937
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'sigmoid', 'softmax',0.993666721,0.8936
+'poisson', 'categorical_accuracy', 'adagrad', 'hard_sigmoid', 'softplus',0.928250022,0.8934
+'binary_crossentropy', 'categorical_accuracy', 'adadelta', 'softplus', 'softmax',0.916916701,0.8934
+'binary_crossentropy', 'acc', 'adagrad', 'softplus', 'sigmoid',0.986858507,0.8931
+'binary_crossentropy', 'binary_accuracy', 'adam', 'softsign', 'softplus',0.943741818,0.893
+'poisson', 'categorical_accuracy', 'adamax', 'hard_sigmoid', 'sigmoid',0.921500045,0.8929
+'categorical_crossentropy', 'categorical_accuracy', 'adadelta', 'hard_sigmoid', 'sigmoid',0.913166699,0.8925
+'categorical_crossentropy', 'categorical_accuracy', 'nadam', 'softplus', 'sigmoid',0.967750043,0.8922
+'binary_crossentropy', 'binary_accuracy', 'adadelta', 'softplus', 'softmax',0.984091836,0.892
+'poisson', 'categorical_accuracy', 'adamax', 'sigmoid', 'softplus',0.922000033,0.8916
+'categorical_crossentropy', 'binary_accuracy', 'adadelta', 'hard_sigmoid', 'sigmoid',0.904375178,0.8915
+'categorical_crossentropy', 'categorical_accuracy', 'rmsprop', 'softplus', 'sigmoid',0.959916711,0.8915
+'categorical_crossentropy', 'binary_accuracy', 'rmsprop', 'softplus', 'sigmoid',0.931275164,0.8907
+'categorical_crossentropy', 'categorical_accuracy', 'adam', 'softplus', 'softplus',0.961666703,0.8903
+'binary_crossentropy', 'binary_accuracy', 'adagrad', 'tanh', 'softplus',0.93396683,0.8902
+'categorical_crossentropy', 'binary_accuracy', 'adadelta', 'hard_sigmoid', 'sigmoid',0.90470018,0.8899
+'categorical_crossentropy', 'binary_accuracy', 'adagrad', 'softplus', 'softplus',0.927150172,0.8898
+'binary_crossentropy', 'categorical_accuracy', 'adadelta', 'softplus', 'softmax',0.915166708,0.8897
+'categorical_crossentropy', 'categorical_accuracy', 'adadelta', 'hard_sigmoid', 'sigmoid',0.91283337,0.8894
+'kullback_leibler_divergence', 'categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softmax',0.910750034,0.8893
+'poisson', 'binary_accuracy', 'adamax', 'softplus', 'softplus',0.970925165,0.8892
+'binary_crossentropy', 'acc', 'adadelta', 'softplus', 'softmax',0.98342518,0.8892
+'categorical_crossentropy', 'acc', 'rmsprop', 'softplus', 'sigmoid',0.958416708,0.8892
+'poisson', 'top_k_categorical_accuracy', 'adadelta', 'tanh', 'sigmoid',0.993666728,0.8891
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'hard_sigmoid', 'sigmoid',0.993833395,0.8887
+'poisson', 'binary_accuracy', 'adadelta', 'tanh', 'softplus',0.966441842,0.8885
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softmax',0.993750051,0.8885
+'poisson', 'top_k_categorical_accuracy', 'adamax', 'hard_sigmoid', 'sigmoid',0.994333409,0.8884
+'poisson', 'acc', 'adamax', 'sigmoid', 'softplus',0.925166709,0.8877
+'poisson', 'binary_accuracy', 'adagrad', 'softplus', 'sigmoid',0.986066868,0.8875
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'softplus', 'softmax',0.99300005,0.8873
+'categorical_crossentropy', 'categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softmax',0.914166691,0.8872
+'poisson', 'binary_accuracy', 'adagrad', 'hard_sigmoid', 'softplus',0.973691848,0.8867
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softplus',0.993583404,0.8864
+'poisson', 'binary_accuracy', 'adadelta', 'tanh', 'sigmoid',0.978441849,0.8864
+'categorical_crossentropy', 'binary_accuracy', 'nadam', 'softplus', 'sigmoid',0.922966845,0.886
+'poisson', 'top_k_categorical_accuracy', 'adadelta', 'tanh', 'softplus',0.994000067,0.8851
+'poisson', 'top_k_categorical_accuracy', 'adamax', 'softplus', 'softplus',0.99658342,0.8851
+'categorical_crossentropy', 'binary_accuracy', 'adadelta', 'hard_sigmoid', 'softplus',0.911466847,0.8851
+'categorical_crossentropy', 'categorical_accuracy', 'adam', 'softmax', 'softmax',0.89183334,0.8851
+'categorical_crossentropy', 'categorical_accuracy', 'adagrad', 'softplus', 'softplus',0.956250034,0.8849
+'binary_crossentropy', 'categorical_accuracy', 'adagrad', 'softsign', 'softplus',0.893000034,0.8847
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softmax',0.993500041,0.8847
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'hard_sigmoid', 'softmax',0.983541831,0.8846
+'categorical_crossentropy', 'categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softplus',0.912833348,0.8845
+'kullback_leibler_divergence', 'acc', 'adadelta', 'hard_sigmoid', 'softmax',0.914583373,0.8845
+'categorical_crossentropy', 'acc', 'adagrad', 'softplus', 'sigmoid',0.956750035,0.8845
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'softplus', 'softmax',0.992833391,0.8844
+'categorical_crossentropy', 'acc', 'adadelta', 'hard_sigmoid', 'sigmoid',0.914083367,0.8843
+'poisson', 'acc', 'nadam', 'softplus', 'softplus',0.963000029,0.8831
+'categorical_hinge', 'categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softmax',0.902583363,0.8831
+'poisson', 'categorical_accuracy', 'adadelta', 'tanh', 'sigmoid',0.913583368,0.8831
+'categorical_crossentropy', 'binary_accuracy', 'adadelta', 'hard_sigmoid', 'softplus',0.911175196,0.883
+'kullback_leibler_divergence', 'binary_accuracy', 'adamax', 'hard_sigmoid', 'softmax',0.986300163,0.8826
+'poisson', 'categorical_accuracy', 'adadelta', 'tanh', 'softplus',0.922500034,0.8821
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adam', 'sigmoid', 'softplus',0.991666709,0.8817
+'categorical_crossentropy', 'binary_accuracy', 'adam', 'softplus', 'sigmoid',0.913366832,0.8815
+'binary_crossentropy', 'binary_accuracy', 'nadam', 'softsign', 'softplus',0.932158495,0.8814
+'categorical_crossentropy', 'categorical_accuracy', 'adagrad', 'softplus', 'sigmoid',0.957083377,0.8814
+'poisson', 'binary_accuracy', 'adamax', 'hard_sigmoid', 'sigmoid',0.979891834,0.8808
+'categorical_hinge', 'top_k_categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softmax',0.988250044,0.8806
+'kullback_leibler_divergence', 'acc', 'adadelta', 'hard_sigmoid', 'softmax',0.910166698,0.8804
+'categorical_hinge', 'categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softmax',0.903750025,0.88
+'categorical_crossentropy', 'categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softplus',0.911916698,0.8793
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'hard_sigmoid', 'softmax',0.982925174,0.8792
+'poisson', 'acc', 'adadelta', 'softplus', 'softmax',0.910750027,0.8788
+'categorical_crossentropy', 'acc', 'nadam', 'softplus', 'sigmoid',0.969916701,0.8788
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adam', 'softmax', 'sigmoid',0.988583381,0.8787
+'poisson', 'binary_accuracy', 'adadelta', 'softplus', 'softmax',0.983008504,0.8785
+'categorical_crossentropy', 'binary_accuracy', 'adagrad', 'softplus', 'softplus',0.925283507,0.8777
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adam', 'softplus', 'sigmoid',0.998750096,0.8775
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adam', 'softplus', 'softplus',0.998916777,0.8773
+'poisson', 'binary_accuracy', 'adamax', 'hard_sigmoid', 'softplus',0.971025164,0.8771
+'poisson', 'categorical_accuracy', 'adadelta', 'softplus', 'softmax',0.913416704,0.8769
+'categorical_hinge', 'acc', 'adadelta', 'hard_sigmoid', 'softmax',0.902833365,0.8768
+'categorical_crossentropy', 'acc', 'adadelta', 'hard_sigmoid', 'softplus',0.912250032,0.8762
+'binary_crossentropy', 'acc', 'adamax', 'softplus', 'sigmoid',0.985166848,0.8762
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'nadam', 'softplus', 'sigmoid',0.998833438,0.8758
+'poisson', 'categorical_accuracy', 'adamax', 'hard_sigmoid', 'softplus',0.920333361,0.8751
+'binary_crossentropy', 'acc', 'adamax', 'tanh', 'softplus',0.941533486,0.8744
+'categorical_hinge', 'binary_accuracy', 'adadelta', 'hard_sigmoid', 'softmax',0.981575181,0.8738
+'categorical_crossentropy', 'categorical_accuracy', 'adam', 'softplus', 'sigmoid',0.963583363,0.8731
+'poisson', 'top_k_categorical_accuracy', 'adadelta', 'softplus', 'softmax',0.993500059,0.8723
+'poisson', 'binary_accuracy', 'adamax', 'softplus', 'sigmoid',0.983208507,0.8719
+'categorical_crossentropy', 'acc', 'adagrad', 'softplus', 'softplus',0.955583351,0.8709
+'categorical_hinge', 'binary_accuracy', 'nadam', 'softplus', 'softmax',0.983250186,0.8709
+'binary_crossentropy', 'categorical_accuracy', 'adagrad', 'sigmoid', 'softplus',0.906166705,0.8698
+'categorical_crossentropy', 'categorical_accuracy', 'adam', 'softplus', 'sigmoid',0.963250029,0.8697
+'categorical_hinge', 'acc', 'adadelta', 'sigmoid', 'sigmoid',0.889250033,0.8694
+'categorical_hinge', 'categorical_accuracy', 'nadam', 'softplus', 'softmax',0.86825001,0.8687
+'categorical_hinge', 'top_k_categorical_accuracy', 'adadelta', 'sigmoid', 'sigmoid',0.985583377,0.8687
+'categorical_hinge', 'binary_accuracy', 'adagrad', 'softsign', 'sigmoid',0.98023352,0.8681
+'categorical_hinge', 'categorical_accuracy', 'adadelta', 'sigmoid', 'sigmoid',0.889250023,0.8672
+'categorical_hinge', 'top_k_categorical_accuracy', 'adam', 'tanh', 'softmax',0.888833376,0.8664
+'categorical_crossentropy', 'categorical_accuracy', 'adagrad', 'softplus', 'softplus',0.955333369,0.8663
+'kullback_leibler_divergence', 'acc', 'rmsprop', 'softmax', 'sigmoid',0.876833347,0.8662
+'categorical_hinge', 'binary_accuracy', 'adadelta', 'sigmoid', 'sigmoid',0.97569184,0.866
+'categorical_crossentropy', 'categorical_accuracy', 'rmsprop', 'softplus', 'sigmoid',0.9609167,0.866
+'poisson', 'categorical_accuracy', 'adamax', 'softplus', 'softplus',0.941166704,0.8659
+'categorical_crossentropy', 'acc', 'adam', 'softplus', 'softplus',0.959666707,0.8659
+'kullback_leibler_divergence', 'acc', 'adamax', 'softmax', 'sigmoid',0.902750045,0.8659
+'poisson', 'top_k_categorical_accuracy', 'adamax', 'softplus', 'sigmoid',0.996166748,0.8658
+'categorical_hinge', 'categorical_accuracy', 'adam', 'tanh', 'softmax',0.867916686,0.8656
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adagrad', 'softplus', 'softmax',0.906166693,0.8654
+'poisson', 'top_k_categorical_accuracy', 'adamax', 'hard_sigmoid', 'softplus',0.994416729,0.865
+'binary_crossentropy', 'acc', 'adagrad', 'sigmoid', 'softplus',0.942341809,0.8642
+'categorical_hinge', 'acc', 'adam', 'softplus', 'softmax',0.86666669,0.8642
+'categorical_hinge', 'categorical_accuracy', 'adadelta', 'sigmoid', 'sigmoid',0.889916698,0.864
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adagrad', 'sigmoid', 'softplus',0.991500057,0.8635
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adagrad', 'softplus', 'softmax',0.898833364,0.8634
+'categorical_hinge', 'acc', 'nadam', 'softplus', 'softmax',0.865500023,0.8633
+'binary_crossentropy', 'categorical_accuracy', 'adamax', 'sigmoid', 'softplus',0.903000039,0.8631
+'categorical_crossentropy', 'acc', 'adam', 'softplus', 'sigmoid',0.963333383,0.863
+'binary_crossentropy', 'acc', 'adadelta', 'sigmoid', 'softmax',0.980100167,0.8625
+'kullback_leibler_divergence', 'acc', 'adagrad', 'softplus', 'softmax',0.862750029,0.8617
+'poisson', 'acc', 'adamax', 'hard_sigmoid', 'softplus',0.921000034,0.8611
+'categorical_crossentropy', 'binary_accuracy', 'adagrad', 'softplus', 'sigmoid',0.960866831,0.8611
+'categorical_hinge', 'categorical_accuracy', 'nadam', 'tanh', 'softmax',0.86500001,0.8604
+'categorical_crossentropy', 'binary_accuracy', 'adamax', 'softplus', 'softplus',0.910958504,0.8596
+'binary_crossentropy', 'categorical_accuracy', 'adam', 'sigmoid', 'softplus',0.905250023,0.8581
+'categorical_hinge', 'top_k_categorical_accuracy', 'adam', 'softplus', 'softmax',0.900250033,0.858
+'poisson', 'categorical_accuracy', 'adamax', 'softplus', 'sigmoid',0.937416703,0.8574
+'poisson', 'top_k_categorical_accuracy', 'adagrad', 'softplus', 'softplus',0.997250093,0.857
+'binary_crossentropy', 'categorical_accuracy', 'adagrad', 'sigmoid', 'softplus',0.906416689,0.8559
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adagrad', 'softplus', 'sigmoid',0.998416764,0.8558
+'categorical_hinge', 'categorical_accuracy', 'adamax', 'tanh', 'softmax',0.858750015,0.8557
+'categorical_crossentropy', 'acc', 'adamax', 'softplus', 'softplus',0.954416707,0.8554
+'categorical_hinge', 'categorical_accuracy', 'adam', 'softplus', 'softmax',0.857000026,0.8545
+'binary_crossentropy', 'categorical_accuracy', 'nadam', 'softsign', 'softplus',0.924916697,0.8534
+'poisson', 'binary_accuracy', 'nadam', 'softplus', 'softplus',0.97965017,0.8509
+'poisson', 'binary_accuracy', 'adagrad', 'softplus', 'softmax',0.972933474,0.8509
+'categorical_hinge', 'categorical_accuracy', 'nadam', 'hard_sigmoid', 'softmax',0.855500015,0.8503
+'kullback_leibler_divergence', 'binary_accuracy', 'adagrad', 'softplus', 'softmax',0.972975155,0.8498
+'categorical_crossentropy', 'binary_accuracy', 'adam', 'softplus', 'sigmoid',0.91205019,0.8497
+'poisson', 'binary_accuracy', 'adadelta', 'sigmoid', 'softmax',0.979308518,0.8496
+'categorical_hinge', 'top_k_categorical_accuracy', 'adagrad', 'sigmoid', 'sigmoid',0.987916718,0.8495
+'categorical_hinge', 'binary_accuracy', 'nadam', 'softplus', 'softmax',0.977483496,0.8491
+'categorical_crossentropy', 'binary_accuracy', 'adamax', 'softplus', 'softplus',0.911341848,0.8489
+'categorical_hinge', 'categorical_accuracy', 'nadam', 'softplus', 'softmax',0.853750028,0.8489
+'poisson', 'categorical_accuracy', 'adadelta', 'sigmoid', 'softmax',0.891250029,0.8475
+'categorical_hinge', 'binary_accuracy', 'adamax', 'softplus', 'softplus',0.812583442,0.8474
+'poisson', 'top_k_categorical_accuracy', 'adam', 'softmax', 'softmax',0.987000053,0.8465
+'poisson', 'top_k_categorical_accuracy', 'adadelta', 'sigmoid', 'softmax',0.991416713,0.8452
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softmax',0.990166721,0.8448
+'categorical_hinge', 'binary_accuracy', 'nadam', 'hard_sigmoid', 'softmax',0.974983484,0.8447
+'binary_crossentropy', 'categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softmax',0.894833359,0.8444
+'poisson', 'top_k_categorical_accuracy', 'nadam', 'softmax', 'softmax',0.988333387,0.8436
+'poisson', 'acc', 'nadam', 'softmax', 'softmax',0.857833371,0.8435
+'binary_crossentropy', 'acc', 'adamax', 'softmax', 'sigmoid',0.940100151,0.8434
+'binary_crossentropy', 'categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softmax',0.894000026,0.8426
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adamax', 'sigmoid', 'softplus',0.989500051,0.8424
+'categorical_hinge', 'binary_accuracy', 'adamax', 'softplus', 'sigmoid',0.980283521,0.8422
+'binary_crossentropy', 'binary_accuracy', 'adagrad', 'softplus', 'softplus',0.931741826,0.8421
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adamax', 'softmax', 'sigmoid',0.989666713,0.842
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'nadam', 'softmax', 'sigmoid',0.991250058,0.8414
+'categorical_hinge', 'binary_accuracy', 'adamax', 'softplus', 'softmax',0.974191822,0.8409
+'categorical_hinge', 'categorical_accuracy', 'nadam', 'hard_sigmoid', 'softmax',0.843250016,0.8404
+'categorical_hinge', 'acc', 'nadam', 'hard_sigmoid', 'softmax',0.852666671,0.84
+'binary_crossentropy', 'binary_accuracy', 'adagrad', 'softmax', 'softmax',0.900000215,0.8379
+'categorical_crossentropy', 'categorical_accuracy', 'adagrad', 'softmax', 'softmax',0.851333333,0.8377
+'binary_crossentropy', 'binary_accuracy', 'adadelta', 'hard_sigmoid', 'softmax',0.979208514,0.8373
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softmax',0.990583378,0.8371
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'sigmoid', 'sigmoid',0.989416701,0.8367
+'binary_crossentropy', 'binary_accuracy', 'adagrad', 'softsign', 'softplus',0.939783494,0.8366
+'categorical_hinge', 'categorical_accuracy', 'adamax', 'softplus', 'softmax',0.838416701,0.8366
+'binary_crossentropy', 'categorical_accuracy', 'adadelta', 'sigmoid', 'sigmoid',0.883083363,0.8366
+'categorical_hinge', 'top_k_categorical_accuracy', 'nadam', 'hard_sigmoid', 'softmax',0.88491669,0.8361
+'binary_crossentropy', 'binary_accuracy', 'adadelta', 'hard_sigmoid', 'softmax',0.979516837,0.8359
+'binary_crossentropy', 'binary_accuracy', 'adadelta', 'sigmoid', 'softplus',0.949500156,0.8353
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adamax', 'softplus', 'softplus',0.997916761,0.835
+'categorical_hinge', 'acc', 'adamax', 'softplus', 'softmax',0.841750043,0.835
+'poisson', 'categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softmax',0.886250027,0.835
+'binary_crossentropy', 'acc', 'adadelta', 'sigmoid', 'sigmoid',0.971108499,0.835
+'poisson', 'top_k_categorical_accuracy', 'adam', 'softplus', 'softplus',0.998083428,0.8345
+'binary_crossentropy', 'categorical_accuracy', 'adadelta', 'sigmoid', 'sigmoid',0.88425003,0.8334
+'binary_crossentropy', 'top_k_categorical_accuracy', 'nadam', 'sigmoid', 'softplus',0.991083386,0.8333
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'sigmoid', 'softplus',0.98900004,0.8333
+'categorical_hinge', 'binary_accuracy', 'adam', 'hard_sigmoid', 'softmax',0.9741835,0.8331
+'poisson', 'binary_accuracy', 'adamax', 'softmax', 'sigmoid',0.900150205,0.833
+'binary_crossentropy', 'acc', 'adadelta', 'hard_sigmoid', 'softmax',0.978900162,0.8329
+'poisson', 'categorical_accuracy', 'adadelta', 'softplus', 'softplus',0.906500034,0.8323
+'binary_crossentropy', 'binary_accuracy', 'adadelta', 'sigmoid', 'sigmoid',0.970900178,0.8323
+'categorical_crossentropy', 'binary_accuracy', 'adadelta', 'softplus', 'softplus',0.917725195,0.8319
+'binary_crossentropy', 'acc', 'adadelta', 'sigmoid', 'softplus',0.948650154,0.8312
+'binary_crossentropy', 'binary_accuracy', 'adadelta', 'sigmoid', 'sigmoid',0.970950174,0.83
+'poisson', 'top_k_categorical_accuracy', 'adadelta', 'softplus', 'softplus',0.992666724,0.8292
+'poisson', 'categorical_accuracy', 'adam', 'softplus', 'softplus',0.958250028,0.8282
+'binary_crossentropy', 'categorical_accuracy', 'nadam', 'sigmoid', 'softplus',0.877916696,0.8273
+'categorical_crossentropy', 'binary_accuracy', 'adamax', 'softplus', 'sigmoid',0.907300179,0.8272
+'binary_crossentropy', 'binary_accuracy', 'adam', 'sigmoid', 'softplus',0.850883454,0.827
+'poisson', 'binary_accuracy', 'adam', 'softplus', 'softplus',0.97818352,0.8255
+'categorical_crossentropy', 'binary_accuracy', 'adagrad', 'softmax', 'softmax',0.900000215,0.8255
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'sigmoid', 'softplus',0.98900004,0.8231
+'binary_crossentropy', 'categorical_accuracy', 'nadam', 'sigmoid', 'softplus',0.925083364,0.8226
+'binary_crossentropy', 'acc', 'adadelta', 'softplus', 'softplus',0.854858488,0.8224
+'categorical_hinge', 'categorical_accuracy', 'adamax', 'hard_sigmoid', 'softmax',0.830166683,0.8218
+'poisson', 'acc', 'adadelta', 'hard_sigmoid', 'softmax',0.889750014,0.8211
+'binary_crossentropy', 'categorical_accuracy', 'adadelta', 'sigmoid', 'softplus',0.885083377,0.8207
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'sigmoid', 'sigmoid',0.989416723,0.8205
+'categorical_hinge', 'categorical_accuracy', 'adamax', 'hard_sigmoid', 'softmax',0.829000016,0.8201
+'categorical_crossentropy', 'categorical_accuracy', 'adadelta', 'softplus', 'softplus',0.928583356,0.8198
+'binary_crossentropy', 'acc', 'adadelta', 'hard_sigmoid', 'sigmoid',0.967741815,0.819
+'kullback_leibler_divergence', 'binary_accuracy', 'rmsprop', 'softmax', 'sigmoid',0.100000009,0.819
+'categorical_hinge', 'acc', 'adamax', 'hard_sigmoid', 'softmax',0.823000014,0.8176
+'poisson', 'binary_accuracy', 'adadelta', 'hard_sigmoid', 'softmax',0.97706684,0.8175
+'binary_crossentropy', 'binary_accuracy', 'adagrad', 'hard_sigmoid', 'softplus',0.942166823,0.8173
+'poisson', 'binary_accuracy', 'adadelta', 'sigmoid', 'sigmoid',0.964175155,0.8166
+'categorical_hinge', 'binary_accuracy', 'adamax', 'hard_sigmoid', 'softmax',0.969875149,0.8162
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adam', 'softsign', 'softplus',0.991583375,0.8147
+'poisson', 'top_k_categorical_accuracy', 'adadelta', 'sigmoid', 'softplus',0.990500048,0.8145
+'poisson', 'top_k_categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softmax',0.990416713,0.8145
+'poisson', 'binary_accuracy', 'adadelta', 'softplus', 'softplus',0.958475155,0.813
+'categorical_crossentropy', 'categorical_accuracy', 'adamax', 'softplus', 'sigmoid',0.958250041,0.8122
+'categorical_crossentropy', 'acc', 'adamax', 'softplus', 'sigmoid',0.956500039,0.8118
+'poisson', 'categorical_accuracy', 'adadelta', 'sigmoid', 'sigmoid',0.884500022,0.8117
+'categorical_crossentropy', 'binary_accuracy', 'adamax', 'softplus', 'sigmoid',0.908500165,0.8112
+'poisson', 'acc', 'adadelta', 'sigmoid', 'sigmoid',0.881916687,0.8106
+'categorical_hinge', 'binary_accuracy', 'nadam', 'hard_sigmoid', 'softmax',0.976100177,0.8092
+'categorical_crossentropy', 'binary_accuracy', 'adagrad', 'softplus', 'sigmoid',0.946125157,0.8089
+'poisson', 'binary_accuracy', 'adadelta', 'sigmoid', 'softplus',0.955658493,0.8081
+'categorical_crossentropy', 'acc', 'adadelta', 'softplus', 'softplus',0.930416691,0.808
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'softplus', 'softplus',0.99566674,0.808
+'categorical_crossentropy', 'categorical_accuracy', 'adamax', 'softplus', 'softplus',0.955416704,0.8067
+'binary_crossentropy', 'acc', 'nadam', 'sigmoid', 'softplus',0.932316825,0.8061
+'poisson', 'top_k_categorical_accuracy', 'adadelta', 'sigmoid', 'sigmoid',0.98991671,0.8038
+'poisson', 'acc', 'adadelta', 'sigmoid', 'softplus',0.885500019,0.8037
+'binary_crossentropy', 'top_k_categorical_accuracy', 'nadam', 'softsign', 'softplus',0.988750043,0.8008
+'binary_crossentropy', 'binary_accuracy', 'nadam', 'sigmoid', 'softplus',0.852833462,0.7997
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adagrad', 'softmax', 'softplus',0.986166721,0.7972
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adamax', 'softplus', 'sigmoid',0.998000083,0.7961
+'poisson', 'categorical_accuracy', 'adadelta', 'sigmoid', 'softplus',0.890000013,0.7951
+'binary_crossentropy', 'binary_accuracy', 'adadelta', 'sigmoid', 'softplus',0.856283488,0.7938
+'poisson', 'top_k_categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softplus',0.989916705,0.7934
+'categorical_crossentropy', 'binary_accuracy', 'adadelta', 'softplus', 'sigmoid',0.908400178,0.7885
+'binary_crossentropy', 'acc', 'adadelta', 'hard_sigmoid', 'softplus',0.948200149,0.787
+'binary_crossentropy', 'binary_accuracy', 'adam', 'sigmoid', 'softplus',0.944808498,0.7844
+'poisson', 'categorical_accuracy', 'adadelta', 'hard_sigmoid', 'sigmoid',0.878166683,0.7843
+'poisson', 'categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softplus',0.881750027,0.7842
+'poisson', 'top_k_categorical_accuracy', 'adadelta', 'hard_sigmoid', 'sigmoid',0.990250049,0.7838
+'binary_crossentropy', 'acc', 'adamax', 'hard_sigmoid', 'softplus',0.945550151,0.7828
+'categorical_hinge', 'binary_accuracy', 'nadam', 'hard_sigmoid', 'softmax',0.966533475,0.7827
+'poisson', 'binary_accuracy', 'adadelta', 'hard_sigmoid', 'sigmoid',0.96069183,0.7815
+'categorical_crossentropy', 'binary_accuracy', 'adadelta', 'softplus', 'softplus',0.917900172,0.7797
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adam', 'sigmoid', 'softplus',0.987666709,0.7786
+'categorical_hinge', 'top_k_categorical_accuracy', 'nadam', 'tanh', 'softmax',0.790916669,0.778
+'categorical_hinge', 'binary_accuracy', 'nadam', 'tanh', 'softmax',0.969250167,0.7762
+'poisson', 'binary_accuracy', 'adadelta', 'hard_sigmoid', 'softplus',0.953575152,0.7761
+'binary_crossentropy', 'acc', 'adam', 'sigmoid', 'softplus',0.939500148,0.7753
+'binary_crossentropy', 'acc', 'adamax', 'softplus', 'softplus',0.847966795,0.7745
+'kullback_leibler_divergence', 'acc', 'adagrad', 'softplus', 'softmax',0.769249998,0.7718
+'binary_crossentropy', 'acc', 'adagrad', 'softplus', 'softplus',0.83880845,0.7717
+'categorical_hinge', 'binary_accuracy', 'nadam', 'tanh', 'softmax',0.971825175,0.771
+'binary_crossentropy', 'acc', 'adam', 'tanh', 'softplus',0.930308479,0.7669
+'categorical_crossentropy', 'acc', 'adadelta', 'softplus', 'sigmoid',0.9324167,0.7666
+'binary_crossentropy', 'acc', 'nadam', 'hard_sigmoid', 'softplus',0.938608495,0.7659
+'categorical_hinge', 'categorical_accuracy', 'adagrad', 'tanh', 'softmax',0.758416673,0.7644
+'categorical_hinge', 'top_k_categorical_accuracy', 'adamax', 'softplus', 'softmax',0.80075,0.764
+'categorical_hinge', 'binary_accuracy', 'nadam', 'softplus', 'sigmoid',0.973241848,0.7624
+'poisson', 'acc', 'adamax', 'softmax', 'sigmoid',0.758083344,0.7616
+'binary_crossentropy', 'categorical_accuracy', 'adamax', 'softmax', 'sigmoid',0.765750003,0.7589
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adam', 'softsign', 'softplus',0.993833395,0.7588
+'categorical_hinge', 'binary_accuracy', 'nadam', 'sigmoid', 'softmax',0.969041832,0.7551
+'binary_crossentropy', 'acc', 'rmsprop', 'hard_sigmoid', 'softplus',0.852233469,0.7543
+'categorical_crossentropy', 'categorical_accuracy', 'adadelta', 'softplus', 'sigmoid',0.928250047,0.7515
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'softplus', 'sigmoid',0.995750067,0.7499
+'categorical_crossentropy', 'categorical_accuracy', 'adadelta', 'softplus', 'sigmoid',0.93158337,0.7492
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adamax', 'softmax', 'sigmoid',0.98466671,0.7475
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adagrad', 'softplus', 'softmax',0.791583347,0.7473
+'categorical_crossentropy', 'binary_accuracy', 'adadelta', 'softplus', 'sigmoid',0.90764185,0.7457
+'categorical_hinge', 'categorical_accuracy', 'adamax', 'softplus', 'softmax',0.753500012,0.7444
+'binary_crossentropy', 'categorical_accuracy', 'adamax', 'softmax', 'sigmoid',0.738000003,0.7444
+'binary_crossentropy', 'acc', 'adadelta', 'softplus', 'sigmoid',0.977075187,0.7412
+'binary_crossentropy', 'acc', 'nadam', 'softsign', 'softplus',0.939366813,0.7401
+'categorical_crossentropy', 'categorical_accuracy', 'adadelta', 'softplus', 'softplus',0.93150004,0.7373
+'binary_crossentropy', 'binary_accuracy', 'adadelta', 'softplus', 'sigmoid',0.977008519,0.7318
+'binary_crossentropy', 'categorical_accuracy', 'adadelta', 'sigmoid', 'softplus',0.259750002,0.7279
+'kullback_leibler_divergence', 'binary_accuracy', 'adam', 'softmax', 'sigmoid',0.100000009,0.7252
+'poisson', 'top_k_categorical_accuracy', 'adadelta', 'softplus', 'sigmoid',0.992666716,0.7228
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adamax', 'sigmoid', 'softplus',0.986250038,0.7162
+'binary_crossentropy', 'binary_accuracy', 'nadam', 'softsign', 'softplus',0.929150154,0.7143
+'binary_crossentropy', 'binary_accuracy', 'adadelta', 'softplus', 'softplus',0.756016766,0.712
+'poisson', 'categorical_accuracy', 'adadelta', 'softplus', 'sigmoid',0.903916709,0.7075
+'poisson', 'binary_accuracy', 'adadelta', 'softplus', 'sigmoid',0.974566855,0.7069
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'hard_sigmoid', 'sigmoid',0.962916692,0.6977
+'kullback_leibler_divergence', 'binary_accuracy', 'adagrad', 'sigmoid', 'sigmoid',0.100000009,0.6937
+'binary_crossentropy', 'top_k_categorical_accuracy', 'nadam', 'sigmoid', 'softplus',0.991250053,0.6906
+'categorical_hinge', 'binary_accuracy', 'adagrad', 'tanh', 'softmax',0.963300173,0.685
+'binary_crossentropy', 'binary_accuracy', 'adagrad', 'softplus', 'softmax',0.956900155,0.6798
+'kullback_leibler_divergence', 'acc', 'adam', 'sigmoid', 'sigmoid',0.763499998,0.6776
+'categorical_hinge', 'categorical_accuracy', 'adagrad', 'tanh', 'softmax',0.678000006,0.6761
+'binary_crossentropy', 'binary_accuracy', 'adamax', 'softmax', 'sigmoid',0.924841849,0.6682
+'poisson', 'binary_accuracy', 'adamax', 'softmax', 'softplus',0.950825137,0.6668
+'binary_crossentropy', 'top_k_categorical_accuracy', 'nadam', 'softsign', 'softplus',0.991916714,0.6632
+'binary_crossentropy', 'categorical_accuracy', 'adagrad', 'softplus', 'softmax',0.655666664,0.6628
+'kullback_leibler_divergence', 'binary_accuracy', 'adam', 'sigmoid', 'sigmoid',0.100000009,0.6626
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'softplus', 'softmax',0.672416657,0.6592
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adamax', 'softmax', 'softplus',0.982500054,0.6579
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'softmax', 'sigmoid',0.660499995,0.6566
+'categorical_hinge', 'categorical_accuracy', 'adagrad', 'hard_sigmoid', 'softmax',0.66891665,0.6563
+'binary_crossentropy', 'categorical_accuracy', 'adamax', 'sigmoid', 'softplus',0.203916666,0.6535
+'categorical_hinge', 'top_k_categorical_accuracy', 'adagrad', 'tanh', 'softmax',0.697750005,0.653
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'softmax', 'sigmoid',0.985333378,0.6468
+'kullback_leibler_divergence', 'binary_accuracy', 'adagrad', 'softmax', 'sigmoid',0.100000009,0.6406
+'binary_crossentropy', 'acc', 'adamax', 'sigmoid', 'softplus',0.757183428,0.6374
+'binary_crossentropy', 'acc', 'nadam', 'softplus', 'softplus',0.916416844,0.6324
+'kullback_leibler_divergence', 'categorical_accuracy', 'adam', 'hard_sigmoid', 'sigmoid',0.65275,0.6318
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'sigmoid', 'sigmoid',0.959416702,0.6284
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'sigmoid', 'sigmoid',0.727916668,0.6276
+'binary_crossentropy', 'acc', 'nadam', 'tanh', 'softplus',0.919991851,0.6271
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'hard_sigmoid', 'sigmoid',0.952416701,0.6252
+'binary_crossentropy', 'acc', 'adagrad', 'hard_sigmoid', 'softplus',0.851866789,0.6232
+'kullback_leibler_divergence', 'acc', 'adamax', 'sigmoid', 'sigmoid',0.641749995,0.6128
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'sigmoid', 'sigmoid',0.69175,0.6073
+'kullback_leibler_divergence', 'binary_accuracy', 'nadam', 'hard_sigmoid', 'sigmoid',0.100000009,0.6054
+'kullback_leibler_divergence', 'binary_accuracy', 'adamax', 'hard_sigmoid', 'sigmoid',0.100000009,0.6039
+'kullback_leibler_divergence', 'binary_accuracy', 'adam', 'softmax', 'sigmoid',0.100000009,0.6013
+'kullback_leibler_divergence', 'acc', 'nadam', 'sigmoid', 'sigmoid',0.336749996,0.5946
+'kullback_leibler_divergence', 'binary_accuracy', 'adamax', 'sigmoid', 'sigmoid',0.100000009,0.5868
+'kullback_leibler_divergence', 'binary_accuracy', 'adagrad', 'sigmoid', 'sigmoid',0.100000009,0.5861
+'kullback_leibler_divergence', 'categorical_accuracy', 'adam', 'softmax', 'sigmoid',0.887166681,0.5846
+'categorical_hinge', 'categorical_accuracy', 'adagrad', 'softplus', 'softmax',0.58541666,0.5816
+'categorical_hinge', 'top_k_categorical_accuracy', 'adagrad', 'softplus', 'softmax',0.610833334,0.5815
+'poisson', 'categorical_accuracy', 'adamax', 'softmax', 'sigmoid',0.583999989,0.5792
+'binary_crossentropy', 'binary_accuracy', 'nadam', 'sigmoid', 'softplus',0.845550117,0.577
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'softmax', 'softplus',0.98641671,0.5769
+'categorical_hinge', 'categorical_accuracy', 'adagrad', 'softplus', 'softmax',0.590333323,0.575
+'kullback_leibler_divergence', 'acc', 'adamax', 'sigmoid', 'sigmoid',0.253416674,0.5745
+'binary_crossentropy', 'categorical_accuracy', 'adamax', 'softmax', 'softplus',0.587333327,0.5744
+'binary_crossentropy', 'binary_accuracy', 'adamax', 'softmax', 'softplus',0.933875153,0.5726
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'hard_sigmoid', 'sigmoid',0.922333382,0.5691
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'hard_sigmoid', 'sigmoid',0.926833369,0.5674
+'kullback_leibler_divergence', 'acc', 'adagrad', 'sigmoid', 'sigmoid',0.512916672,0.5662
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'softplus', 'softmax',0.595750007,0.5638
+'kullback_leibler_divergence', 'categorical_accuracy', 'adamax', 'hard_sigmoid', 'sigmoid',0.595416665,0.5634
+'kullback_leibler_divergence', 'categorical_accuracy', 'adamax', 'tanh', 'sigmoid',0.674583333,0.5576
+'kullback_leibler_divergence', 'categorical_accuracy', 'adamax', 'sigmoid', 'sigmoid',0.443333331,0.557
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'hard_sigmoid', 'sigmoid',0.716666666,0.5567
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'hard_sigmoid', 'sigmoid',0.954916716,0.5554
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'sigmoid', 'sigmoid',0.970666714,0.5544
+'kullback_leibler_divergence', 'categorical_accuracy', 'rmsprop', 'softmax', 'softplus',0.881416701,0.5541
+'binary_crossentropy', 'binary_accuracy', 'adamax', 'sigmoid', 'softplus',0.663658393,0.5517
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'sigmoid', 'sigmoid',0.891916682,0.5446
+'kullback_leibler_divergence', 'binary_accuracy', 'nadam', 'softsign', 'softplus',1.67E-05,0.5423
+'kullback_leibler_divergence', 'acc', 'adamax', 'hard_sigmoid', 'sigmoid',0.451583331,0.542
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'sigmoid', 'sigmoid',0.954250038,0.5394
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'softmax', 'softplus',0.985833367,0.5392
+'kullback_leibler_divergence', 'binary_accuracy', 'nadam', 'sigmoid', 'sigmoid',0.100000009,0.5331
+'kullback_leibler_divergence', 'acc', 'nadam', 'hard_sigmoid', 'sigmoid',0.408416671,0.5326
+'kullback_leibler_divergence', 'categorical_accuracy', 'nadam', 'tanh', 'softplus',0.548916666,0.5316
+'categorical_hinge', 'binary_accuracy', 'adagrad', 'hard_sigmoid', 'softmax',0.946750147,0.5305
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'softmax', 'sigmoid',0.78533334,0.5291
+'kullback_leibler_divergence', 'categorical_accuracy', 'rmsprop', 'softsign', 'softplus',0.539249999,0.5272
+'kullback_leibler_divergence', 'binary_accuracy', 'adam', 'hard_sigmoid', 'sigmoid',0.100000009,0.5252
+'kullback_leibler_divergence', 'binary_accuracy', 'nadam', 'sigmoid', 'softplus',0,0.5229
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'hard_sigmoid', 'sigmoid',0.935416698,0.5224
+'binary_crossentropy', 'categorical_accuracy', 'adam', 'sigmoid', 'softplus',0.301416673,0.5139
+'kullback_leibler_divergence', 'acc', 'adam', 'softmax', 'softplus',0.893500018,0.5138
+'kullback_leibler_divergence', 'categorical_accuracy', 'nadam', 'sigmoid', 'sigmoid',0.548666667,0.5133
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'tanh', 'softplus',0.804416679,0.5117
+'kullback_leibler_divergence', 'binary_accuracy', 'adamax', 'sigmoid', 'sigmoid',0.100000009,0.5099
+'kullback_leibler_divergence', 'binary_accuracy', 'nadam', 'sigmoid', 'sigmoid',0.100000009,0.5098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'hard_sigmoid', 'sigmoid',0.948750036,0.5081
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'tanh', 'softplus',0.918250042,0.508
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'hard_sigmoid', 'softplus',0.927083385,0.5068
+'kullback_leibler_divergence', 'acc', 'adagrad', 'softsign', 'softplus',0.537583337,0.506
+'kullback_leibler_divergence', 'binary_accuracy', 'adam', 'sigmoid', 'sigmoid',0.100000009,0.5051
+'kullback_leibler_divergence', 'acc', 'nadam', 'sigmoid', 'sigmoid',0.327166662,0.5033
+'kullback_leibler_divergence', 'binary_accuracy', 'nadam', 'tanh', 'softplus',0,0.5026
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'tanh', 'sigmoid',0.969083361,0.5025
+'kullback_leibler_divergence', 'acc', 'adam', 'sigmoid', 'sigmoid',0.548916669,0.5018
+'kullback_leibler_divergence', 'binary_accuracy', 'adagrad', 'hard_sigmoid', 'sigmoid',0.100000009,0.4998
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'hard_sigmoid', 'sigmoid',0.884833361,0.4988
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'sigmoid', 'sigmoid',0.909416695,0.4962
+'kullback_leibler_divergence', 'binary_accuracy', 'adamax', 'tanh', 'softplus',2.50E-05,0.4953
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'softmax', 'softplus',0.98633336,0.4949
+'binary_crossentropy', 'categorical_accuracy', 'adagrad', 'softplus', 'softmax',0.495249994,0.4941
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'sigmoid', 'sigmoid',0.94508336,0.494
+'kullback_leibler_divergence', 'acc', 'nadam', 'sigmoid', 'softplus',0.422666668,0.4926
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'sigmoid', 'sigmoid',0.960333365,0.4891
+'kullback_leibler_divergence', 'acc', 'adam', 'softmax', 'softplus',0.84291669,0.4866
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'softsign', 'softplus',0.864333351,0.4848
+'kullback_leibler_divergence', 'binary_accuracy', 'adamax', 'tanh', 'sigmoid',0.100000009,0.4844
+'kullback_leibler_divergence', 'binary_accuracy', 'adamax', 'softsign', 'softplus',5.00E-05,0.4835
+'kullback_leibler_divergence', 'categorical_accuracy', 'adamax', 'softmax', 'softplus',0.879916683,0.483
+'kullback_leibler_divergence', 'acc', 'adamax', 'tanh', 'softplus',0.486333333,0.4824
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'softsign', 'softplus',0.520916668,0.4823
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'softsign', 'softplus',0.894916706,0.4812
+'poisson', 'acc', 'adamax', 'softmax', 'softplus',0.529166664,0.4788
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'hard_sigmoid', 'sigmoid',0.929583361,0.4777
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'hard_sigmoid', 'sigmoid',0.947166706,0.4772
+'kullback_leibler_divergence', 'acc', 'rmsprop', 'softsign', 'softplus',0.504499995,0.4745
+'kullback_leibler_divergence', 'acc', 'nadam', 'softsign', 'softplus',0.505166671,0.4737
+'binary_crossentropy', 'binary_accuracy', 'adamax', 'sigmoid', 'softplus',0.844883454,0.472
+'kullback_leibler_divergence', 'binary_accuracy', 'adam', 'softsign', 'softplus',0,0.4702
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'softplus', 'softplus',0.827416688,0.4681
+'kullback_leibler_divergence', 'categorical_accuracy', 'rmsprop', 'softsign', 'softplus',0.501249995,0.4669
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'softsign', 'softplus',0.814083358,0.4669
+'kullback_leibler_divergence', 'categorical_accuracy', 'nadam', 'softsign', 'softplus',0.478166666,0.4654
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'tanh', 'softplus',0.773333353,0.4645
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'sigmoid', 'sigmoid',0.964916719,0.4608
+'kullback_leibler_divergence', 'categorical_accuracy', 'adam', 'sigmoid', 'sigmoid',0.654999991,0.4599
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'hard_sigmoid', 'sigmoid',0.957250041,0.459
+'kullback_leibler_divergence', 'categorical_accuracy', 'rmsprop', 'tanh', 'softplus',0.471083328,0.4539
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'softsign', 'softplus',0.889333362,0.4539
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'hard_sigmoid', 'sigmoid',0.903583368,0.4537
+'kullback_leibler_divergence', 'categorical_accuracy', 'adadelta', 'sigmoid', 'sigmoid',0.541083338,0.4524
+'kullback_leibler_divergence', 'categorical_accuracy', 'adamax', 'tanh', 'softplus',0.468333328,0.4514
+'kullback_leibler_divergence', 'acc', 'nadam', 'hard_sigmoid', 'softplus',0.143583336,0.448
+'kullback_leibler_divergence', 'acc', 'nadam', 'softsign', 'softplus',0.496000001,0.4463
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'tanh', 'softplus',0.50625,0.4463
+'kullback_leibler_divergence', 'acc', 'adamax', 'softsign', 'softplus',0.468583334,0.4451
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'rmsprop', 'softsign', 'softplus',0.924083357,0.4445
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'tanh', 'softplus',0.699500014,0.4432
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'tanh', 'sigmoid',0.962583383,0.4429
+'kullback_leibler_divergence', 'acc', 'adam', 'softsign', 'softplus',0.416333335,0.4411
+'kullback_leibler_divergence', 'binary_accuracy', 'rmsprop', 'softsign', 'softplus',0.00025,0.4389
+'kullback_leibler_divergence', 'binary_accuracy', 'rmsprop', 'sigmoid', 'softplus',0.001941667,0.4367
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'hard_sigmoid', 'softplus',0.696333341,0.4347
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'tanh', 'softplus',0.930333368,0.4329
+'kullback_leibler_divergence', 'acc', 'adagrad', 'softsign', 'softplus',0.451749999,0.4307
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'sigmoid', 'softplus',0.319750007,0.4302
+'kullback_leibler_divergence', 'acc', 'adamax', 'tanh', 'sigmoid',0.584833331,0.4292
+'kullback_leibler_divergence', 'acc', 'adagrad', 'sigmoid', 'sigmoid',0.626250001,0.4289
+'kullback_leibler_divergence', 'binary_accuracy', 'adamax', 'softmax', 'softplus',0.100000009,0.4277
+'kullback_leibler_divergence', 'binary_accuracy', 'adagrad', 'softsign', 'softplus',0,0.4236
+'kullback_leibler_divergence', 'categorical_accuracy', 'nadam', 'hard_sigmoid', 'sigmoid',0.369666671,0.4229
+'kullback_leibler_divergence', 'acc', 'adadelta', 'sigmoid', 'sigmoid',0.448166671,0.4217
+'kullback_leibler_divergence', 'binary_accuracy', 'nadam', 'softsign', 'softplus',5.83E-05,0.4215
+'kullback_leibler_divergence', 'binary_accuracy', 'adamax', 'softsign', 'softplus',4.17E-05,0.4209
+'kullback_leibler_divergence', 'binary_accuracy', 'nadam', 'sigmoid', 'softplus',0.021250001,0.4168
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'sigmoid', 'sigmoid',0.100000009,0.4149
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'rmsprop', 'tanh', 'softplus',0.855916696,0.4125
+'kullback_leibler_divergence', 'binary_accuracy', 'adagrad', 'sigmoid', 'softplus',0,0.4071
+'kullback_leibler_divergence', 'categorical_accuracy', 'adam', 'tanh', 'softplus',0.399083337,0.4044
+'kullback_leibler_divergence', 'binary_accuracy', 'adagrad', 'tanh', 'sigmoid',0.100000009,0.4041
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'tanh', 'sigmoid',0.720833326,0.4041
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'tanh', 'sigmoid',0.977000015,0.4008
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'sigmoid', 'softplus',0.760833355,0.4006
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'softsign', 'softplus',0.890333367,0.4001
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'tanh', 'softplus',0.823250016,0.399
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'sigmoid', 'sigmoid',0.958416713,0.3981
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'rmsprop', 'softmax', 'softplus',0.980333361,0.3976
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'softplus', 'softplus',0.772250021,0.3954
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'softplus', 'softplus',0.699916676,0.3949
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'softsign', 'softplus',0.939250052,0.391
+'kullback_leibler_divergence', 'categorical_accuracy', 'rmsprop', 'hard_sigmoid', 'softplus',0.342583341,0.3907
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'hard_sigmoid', 'sigmoid',0.876833349,0.3889
+'kullback_leibler_divergence', 'categorical_accuracy', 'rmsprop', 'softmax', 'softplus',0.882666695,0.3887
+'categorical_hinge', 'categorical_accuracy', 'adagrad', 'hard_sigmoid', 'softmax',0.406250001,0.3887
+'kullback_leibler_divergence', 'acc', 'adadelta', 'sigmoid', 'sigmoid',0.56133333,0.3865
+'kullback_leibler_divergence', 'binary_accuracy', 'adagrad', 'softplus', 'softplus',4.17E-05,0.3852
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'hard_sigmoid', 'softplus',0.758250018,0.3849
+'kullback_leibler_divergence', 'categorical_accuracy', 'nadam', 'softplus', 'softplus',0.420083335,0.3832
+'kullback_leibler_divergence', 'acc', 'adamax', 'softsign', 'softplus',0.389083335,0.3811
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'rmsprop', 'tanh', 'softplus',0.883583354,0.3803
+'kullback_leibler_divergence', 'binary_accuracy', 'adagrad', 'sigmoid', 'softplus',5.83E-05,0.3789
+'kullback_leibler_divergence', 'acc', 'rmsprop', 'sigmoid', 'softplus',0.298750003,0.3767
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'tanh', 'softplus',0.815833345,0.3755
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'sigmoid', 'sigmoid',0.100000009,0.3744
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'hard_sigmoid', 'sigmoid',0.946666713,0.3741
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'hard_sigmoid', 'softplus',0.686083339,0.3705
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'hard_sigmoid', 'softplus',0.716333352,0.3699
+'kullback_leibler_divergence', 'binary_accuracy', 'nadam', 'softmax', 'softplus',0.100000009,0.369
+'kullback_leibler_divergence', 'binary_accuracy', 'adagrad', 'tanh', 'softplus',0,0.3674
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'tanh', 'sigmoid',0.975166688,0.3662
+'kullback_leibler_divergence', 'binary_accuracy', 'adamax', 'sigmoid', 'softplus',0,0.364
+'categorical_hinge', 'top_k_categorical_accuracy', 'adagrad', 'hard_sigmoid', 'softmax',0.495333336,0.363
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'softmax', 'sigmoid',0.983500039,0.3624
+'kullback_leibler_divergence', 'categorical_accuracy', 'adadelta', 'hard_sigmoid', 'sigmoid',0.385916663,0.3608
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'hard_sigmoid', 'sigmoid',0.873083353,0.3608
+'kullback_leibler_divergence', 'acc', 'rmsprop', 'softsign', 'softplus',0.346000002,0.3591
+'kullback_leibler_divergence', 'categorical_accuracy', 'nadam', 'sigmoid', 'softplus',0.325,0.3587
+'kullback_leibler_divergence', 'categorical_accuracy', 'nadam', 'tanh', 'softplus',0.38441667,0.3568
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'tanh', 'sigmoid',0.976000028,0.3525
+'kullback_leibler_divergence', 'acc', 'adam', 'softsign', 'softplus',0.376583334,0.3515
+'kullback_leibler_divergence', 'categorical_accuracy', 'nadam', 'hard_sigmoid', 'sigmoid',0.494666671,0.3494
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'softmax', 'softplus',0.981833388,0.349
+'kullback_leibler_divergence', 'binary_accuracy', 'adam', 'hard_sigmoid', 'softplus',0.003833334,0.3474
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'softmax', 'softplus',0.787166677,0.3468
+'binary_crossentropy', 'binary_accuracy', 'adagrad', 'sigmoid', 'softplus',0.851408467,0.3466
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'sigmoid', 'softplus',0.60391667,0.3448
+'kullback_leibler_divergence', 'categorical_accuracy', 'rmsprop', 'softplus', 'softplus',0.235916665,0.3448
+'kullback_leibler_divergence', 'categorical_accuracy', 'adamax', 'softsign', 'softplus',0.329833339,0.3441
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'softplus', 'softplus',0.393333337,0.3436
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'tanh', 'sigmoid',0.960916705,0.34
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'softmax', 'softplus',0.646833328,0.338
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'softsign', 'softplus',0.856250023,0.3358
+'kullback_leibler_divergence', 'acc', 'adagrad', 'sigmoid', 'softplus',0.33191667,0.3348
+'kullback_leibler_divergence', 'categorical_accuracy', 'adam', 'tanh', 'sigmoid',0.655916661,0.3326
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'hard_sigmoid', 'softplus',0.813750034,0.3309
+'kullback_leibler_divergence', 'acc', 'adamax', 'softmax', 'softplus',0.800916682,0.3306
+'kullback_leibler_divergence', 'categorical_accuracy', 'rmsprop', 'sigmoid', 'softplus',0.322499998,0.3288
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'softplus', 'softplus',0.690166675,0.326
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'tanh', 'softplus',0.758916679,0.3259
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'sigmoid', 'softplus',0.877083361,0.3255
+'kullback_leibler_divergence', 'binary_accuracy', 'adamax', 'softmax', 'softplus',0.100000009,0.3248
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adagrad', 'sigmoid', 'softplus',0.989583395,0.3244
+'kullback_leibler_divergence', 'acc', 'nadam', 'tanh', 'softplus',0.319833337,0.3237
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'rmsprop', 'hard_sigmoid', 'softplus',0.659749997,0.3225
+'kullback_leibler_divergence', 'binary_accuracy', 'adam', 'tanh', 'softplus',0,0.3218
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'softsign', 'softplus',0.388583335,0.319
+'kullback_leibler_divergence', 'acc', 'adagrad', 'softmax', 'softplus',0.80641667,0.3173
+'kullback_leibler_divergence', 'binary_accuracy', 'adam', 'tanh', 'sigmoid',0.100000009,0.316
+'kullback_leibler_divergence', 'acc', 'rmsprop', 'sigmoid', 'softplus',0.273750004,0.3144
+'kullback_leibler_divergence', 'binary_accuracy', 'nadam', 'softplus', 'softplus',0.001008333,0.3144
+'kullback_leibler_divergence', 'binary_accuracy', 'nadam', 'hard_sigmoid', 'softplus',0,0.3142
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'sigmoid', 'softplus',0.566499998,0.3124
+'kullback_leibler_divergence', 'binary_accuracy', 'rmsprop', 'softmax', 'softplus',0.100000009,0.3106
+'kullback_leibler_divergence', 'acc', 'rmsprop', 'softmax', 'softplus',0.812333355,0.3099
+'kullback_leibler_divergence', 'acc', 'adagrad', 'sigmoid', 'softplus',0.195666668,0.3099
+'categorical_crossentropy', 'categorical_accuracy', 'adagrad', 'softplus', 'sigmoid',0.162666668,0.3096
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'tanh', 'sigmoid',0.100000009,0.3095
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'tanh', 'sigmoid',0.95583338,0.3081
+'kullback_leibler_divergence', 'categorical_accuracy', 'adam', 'softsign', 'softplus',0.316583332,0.3074
+'kullback_leibler_divergence', 'acc', 'adam', 'sigmoid', 'softplus',0.300666669,0.3071
+'poisson', 'top_k_categorical_accuracy', 'rmsprop', 'softmax', 'sigmoid',0.704000009,0.307
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'hard_sigmoid', 'softplus',0.824500039,0.3069
+'kullback_leibler_divergence', 'binary_accuracy', 'rmsprop', 'tanh', 'softplus',1.67E-05,0.3062
+'categorical_hinge', 'top_k_categorical_accuracy', 'adagrad', 'tanh', 'softmax',0.536666664,0.3061
+'kullback_leibler_divergence', 'acc', 'adam', 'sigmoid', 'softplus',0.318000004,0.3059
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'rmsprop', 'softplus', 'softplus',0.72708335,0.3051
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'rmsprop', 'softplus', 'softplus',0.719000012,0.3032
+'poisson', 'categorical_accuracy', 'adamax', 'softmax', 'softplus',0.429000004,0.3029
+'categorical_crossentropy', 'binary_accuracy', 'adadelta', 'softmax', 'softmax',0.900000215,0.3029
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'tanh', 'softplus',0.894000043,0.2984
+'poisson', 'categorical_accuracy', 'rmsprop', 'softmax', 'sigmoid',0.294333329,0.2978
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'sigmoid', 'softplus',0.661083341,0.2964
+'kullback_leibler_divergence', 'categorical_accuracy', 'nadam', 'hard_sigmoid', 'softplus',0.309833334,0.2961
+'kullback_leibler_divergence', 'binary_accuracy', 'rmsprop', 'hard_sigmoid', 'softplus',0.010600001,0.296
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'softmax', 'softplus',0.981583384,0.2953
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'sigmoid', 'softplus',0.30333334,0.2943
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'tanh', 'softplus',0.741833342,0.2932
+'kullback_leibler_divergence', 'categorical_accuracy', 'adadelta', 'tanh', 'sigmoid',0.560999994,0.2932
+'kullback_leibler_divergence', 'binary_accuracy', 'adagrad', 'tanh', 'softplus',0,0.2931
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'tanh', 'sigmoid',0.977833363,0.2918
+'kullback_leibler_divergence', 'acc', 'adagrad', 'softmax', 'softplus',0.827416686,0.2914
+'categorical_hinge', 'acc', 'adagrad', 'tanh', 'softmax',0.286083328,0.289
+'kullback_leibler_divergence', 'categorical_accuracy', 'rmsprop', 'sigmoid', 'softplus',0.26491667,0.2887
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'rmsprop', 'hard_sigmoid', 'softplus',0.573499995,0.2886
+'categorical_hinge', 'acc', 'adagrad', 'hard_sigmoid', 'softmax',0.284166671,0.287
+'kullback_leibler_divergence', 'categorical_accuracy', 'adadelta', 'softmax', 'softmax',0.382833328,0.2839
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'softmax', 'softplus',0.983666708,0.2829
+'categorical_hinge', 'binary_accuracy', 'adadelta', 'softmax', 'softplus',0.100000009,0.2824
+'kullback_leibler_divergence', 'categorical_accuracy', 'adam', 'softplus', 'softplus',0.283000006,0.2819
+'categorical_crossentropy', 'categorical_accuracy', 'adadelta', 'softmax', 'softmax',0.373916668,0.2817
+'kullback_leibler_divergence', 'binary_accuracy', 'adam', 'softplus', 'softplus',0.000125,0.2816
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'softmax', 'softmax',0.673416672,0.2809
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'softsign', 'softplus',0.868166702,0.2806
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'softplus', 'softplus',0.595749997,0.2787
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'hard_sigmoid', 'softplus',0.72125,0.2783
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'softplus', 'softplus',0.496166668,0.2767
+'kullback_leibler_divergence', 'binary_accuracy', 'adagrad', 'hard_sigmoid', 'softplus',0,0.2719
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'hard_sigmoid', 'softplus',0.588083324,0.2711
+'kullback_leibler_divergence', 'categorical_accuracy', 'adadelta', 'softsign', 'softplus',0.302083336,0.271
+'categorical_hinge', 'categorical_accuracy', 'adagrad', 'softplus', 'softmax',0.256166669,0.2705
+'kullback_leibler_divergence', 'binary_accuracy', 'adam', 'softmax', 'softplus',0.100000009,0.2685
+'kullback_leibler_divergence', 'categorical_accuracy', 'nadam', 'hard_sigmoid', 'softplus',0.206583337,0.2658
+'kullback_leibler_divergence', 'acc', 'adadelta', 'softsign', 'softplus',0.315833336,0.2656
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'softsign', 'softplus',0.928666716,0.2643
+'categorical_hinge', 'categorical_accuracy', 'adadelta', 'softmax', 'softplus',0.703416675,0.2638
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'softmax', 'softmax',0.908825179,0.2615
+'categorical_crossentropy', 'acc', 'adadelta', 'softmax', 'softmax',0.276583333,0.2602
+'categorical_hinge', 'categorical_accuracy', 'adadelta', 'softmax', 'softplus',0.733666683,0.2552
+'categorical_crossentropy', 'categorical_accuracy', 'adadelta', 'softmax', 'softplus',0.203416667,0.2538
+'kullback_leibler_divergence', 'acc', 'adagrad', 'softmax', 'sigmoid',0.816833352,0.2536
+'kullback_leibler_divergence', 'acc', 'adadelta', 'softsign', 'softplus',0.289166664,0.2533
+'kullback_leibler_divergence', 'categorical_accuracy', 'adadelta', 'tanh', 'softplus',0.285916672,0.2527
+'kullback_leibler_divergence', 'categorical_accuracy', 'adamax', 'hard_sigmoid', 'softplus',0.243750005,0.251
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'sigmoid', 'softplus',0.618166668,0.2509
+'kullback_leibler_divergence', 'binary_accuracy', 'adagrad', 'softmax', 'softplus',0.100000009,0.2504
+'kullback_leibler_divergence', 'acc', 'adamax', 'softmax', 'softplus',0.864000035,0.2497
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'hard_sigmoid', 'sigmoid',0.100000009,0.2471
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'hard_sigmoid', 'softplus',0.597333339,0.247
+'categorical_crossentropy', 'binary_accuracy', 'adadelta', 'softmax', 'softmax',0.900000215,0.2455
+'kullback_leibler_divergence', 'categorical_accuracy', 'adamax', 'softsign', 'sigmoid',0.716916683,0.2455
+'kullback_leibler_divergence', 'binary_accuracy', 'adam', 'softsign', 'softplus',0,0.2407
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'softsign', 'softplus',0.018625001,0.2407
+'kullback_leibler_divergence', 'categorical_accuracy', 'adadelta', 'softsign', 'softplus',0.300500007,0.2402
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'softplus', 'softplus',0.516250003,0.2402
+'kullback_leibler_divergence', 'categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softplus',0.170166668,0.24
+'kullback_leibler_divergence', 'binary_accuracy', 'adamax', 'softsign', 'sigmoid',0.100000009,0.2399
+'kullback_leibler_divergence', 'binary_accuracy', 'rmsprop', 'softplus', 'softplus',8.33E-06,0.2394
+'categorical_hinge', 'acc', 'adadelta', 'softmax', 'softplus',0.761333349,0.239
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'softsign', 'sigmoid',0.978416694,0.2363
+'categorical_hinge', 'top_k_categorical_accuracy', 'adadelta', 'softmax', 'softplus',0.971750038,0.2353
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'sigmoid', 'softplus',0.538249994,0.2346
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'tanh', 'softplus',0.876333361,0.2339
+'kullback_leibler_divergence', 'acc', 'adamax', 'softsign', 'sigmoid',0.673333334,0.2285
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'softmax', 'softmax',0.828750004,0.2283
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'softsign', 'softplus',0.023691668,0.2274
+'kullback_leibler_divergence', 'acc', 'adamax', 'hard_sigmoid', 'softplus',0.219083335,0.2268
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'softsign', 'sigmoid',0.974166714,0.2251
+'kullback_leibler_divergence', 'acc', 'adamax', 'softsign', 'sigmoid',0.700499997,0.2238
+'kullback_leibler_divergence', 'categorical_accuracy', 'adam', 'softmax', 'softplus',0.869333372,0.2208
+'kullback_leibler_divergence', 'acc', 'adamax', 'sigmoid', 'softplus',0.225500004,0.2197
+'kullback_leibler_divergence', 'binary_accuracy', 'nadam', 'tanh', 'sigmoid',0.100000009,0.2192
+'kullback_leibler_divergence', 'acc', 'adadelta', 'sigmoid', 'softplus',0.131500001,0.2186
+'kullback_leibler_divergence', 'binary_accuracy', 'adamax', 'softsign', 'sigmoid',0.100000009,0.2182
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'hard_sigmoid', 'softplus',0.258250006,0.2164
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'tanh', 'sigmoid',0.975833366,0.2149
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'tanh', 'sigmoid',0.972500039,0.2147
+'binary_crossentropy', 'top_k_categorical_accuracy', 'rmsprop', 'softmax', 'sigmoid',0.599416666,0.2145
+'binary_crossentropy', 'binary_accuracy', 'rmsprop', 'softmax', 'sigmoid',0.909675183,0.2134
+'kullback_leibler_divergence', 'acc', 'nadam', 'tanh', 'sigmoid',0.647166667,0.2134
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'tanh', 'softplus',0.010283334,0.2133
+'poisson', 'binary_accuracy', 'rmsprop', 'softmax', 'sigmoid',0.90894185,0.2133
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'softsign', 'sigmoid',0.100000009,0.2131
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'tanh', 'softplus',0.825500024,0.2128
+'binary_crossentropy', 'top_k_categorical_accuracy', 'rmsprop', 'softmax', 'sigmoid',0.595666669,0.2124
+'binary_crossentropy', 'acc', 'rmsprop', 'softmax', 'sigmoid',0.909475175,0.2123
+'kullback_leibler_divergence', 'categorical_accuracy', 'nadam', 'tanh', 'sigmoid',0.666999996,0.2121
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'softsign', 'sigmoid',0.752666672,0.2118
+'categorical_crossentropy', 'categorical_accuracy', 'adadelta', 'softmax', 'sigmoid',0.106000002,0.2117
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'tanh', 'sigmoid',0.968000034,0.2117
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'tanh', 'sigmoid',0.971500037,0.2116
+'binary_crossentropy', 'categorical_accuracy', 'rmsprop', 'softmax', 'sigmoid',0.206749999,0.2115
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adamax', 'softmax', 'softplus',0.727333332,0.2113
+'kullback_leibler_divergence', 'binary_accuracy', 'adagrad', 'softsign', 'sigmoid',0.100000009,0.2113
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'softsign', 'sigmoid',0.960666696,0.2113
+'kullback_leibler_divergence', 'categorical_accuracy', 'adadelta', 'softsign', 'sigmoid',0.608083343,0.2113
+'kullback_leibler_divergence', 'categorical_accuracy', 'adadelta', 'softsign', 'sigmoid',0.679916672,0.2111
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'softsign', 'sigmoid',0.697083332,0.2111
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'softsign', 'sigmoid',0.100000009,0.2109
+'kullback_leibler_divergence', 'acc', 'adagrad', 'softsign', 'sigmoid',0.751500013,0.2108
+'kullback_leibler_divergence', 'binary_accuracy', 'adam', 'softsign', 'sigmoid',0.100000009,0.2108
+'kullback_leibler_divergence', 'acc', 'adam', 'softsign', 'sigmoid',0.724666672,0.2104
+'kullback_leibler_divergence', 'categorical_accuracy', 'adam', 'softsign', 'sigmoid',0.686000002,0.2101
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'softsign', 'sigmoid',0.980416713,0.2101
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'softplus', 'softplus',0.540500005,0.21
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'softsign', 'sigmoid',0.977166697,0.2099
+'kullback_leibler_divergence', 'binary_accuracy', 'adam', 'softsign', 'sigmoid',0.100000009,0.2089
+'kullback_leibler_divergence', 'acc', 'adam', 'softmax', 'sigmoid',0.81575001,0.2088
+'binary_crossentropy', 'acc', 'adamax', 'softmax', 'softplus',0.922716844,0.2078
+'poisson', 'top_k_categorical_accuracy', 'rmsprop', 'softmax', 'softplus',0.588083332,0.2071
+'binary_crossentropy', 'top_k_categorical_accuracy', 'rmsprop', 'softmax', 'softplus',0.594166664,0.2071
+'kullback_leibler_divergence', 'acc', 'adadelta', 'softsign', 'sigmoid',0.672166673,0.2071
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'hard_sigmoid', 'softplus',0.599750002,0.2063
+'binary_crossentropy', 'categorical_accuracy', 'rmsprop', 'softmax', 'sigmoid',0.200499999,0.206
+'kullback_leibler_divergence', 'categorical_accuracy', 'adam', 'hard_sigmoid', 'softplus',0.159583335,0.2057
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'softsign', 'sigmoid',0.980416703,0.2053
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'softmax', 'softplus',0.975916701,0.2048
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'softmax', 'softmax',0.879583361,0.2044
+'kullback_leibler_divergence', 'acc', 'adadelta', 'softsign', 'sigmoid',0.658166672,0.2043
+'kullback_leibler_divergence', 'acc', 'adam', 'softsign', 'sigmoid',0.668000008,0.2039
+'kullback_leibler_divergence', 'acc', 'adagrad', 'softsign', 'sigmoid',0.746916677,0.2033
+'binary_crossentropy', 'binary_accuracy', 'adamax', 'softmax', 'softplus',0.908508517,0.2027
+'kullback_leibler_divergence', 'binary_accuracy', 'adam', 'sigmoid', 'softplus',0.007791667,0.2023
+'kullback_leibler_divergence', 'acc', 'adadelta', 'sigmoid', 'softplus',0.187833336,0.2011
+'kullback_leibler_divergence', 'acc', 'nadam', 'softsign', 'sigmoid',0.696833355,0.2007
+'kullback_leibler_divergence', 'binary_accuracy', 'nadam', 'softsign', 'sigmoid',0.100000009,0.1997
+'binary_crossentropy', 'categorical_accuracy', 'rmsprop', 'softmax', 'softplus',0.194166667,0.1994
+'poisson', 'binary_accuracy', 'rmsprop', 'softmax', 'softplus',0.909866852,0.1986
+'kullback_leibler_divergence', 'acc', 'rmsprop', 'softmax', 'softplus',0.755250002,0.198
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'softsign', 'sigmoid',0.97866671,0.1955
+'kullback_leibler_divergence', 'acc', 'nadam', 'softplus', 'softplus',0.21966667,0.1947
+'kullback_leibler_divergence', 'acc', 'adam', 'softmax', 'sigmoid',0.882583367,0.1932
+'categorical_crossentropy', 'categorical_accuracy', 'adadelta', 'softmax', 'softmax',0.293083336,0.1926
+'kullback_leibler_divergence', 'categorical_accuracy', 'nadam', 'softsign', 'sigmoid',0.636416661,0.1869
+'kullback_leibler_divergence', 'binary_accuracy', 'adam', 'softmax', 'softplus',0.100000009,0.1862
+'kullback_leibler_divergence', 'binary_accuracy', 'nadam', 'softmax', 'softplus',0.100000009,0.186
+'kullback_leibler_divergence', 'acc', 'adagrad', 'softmax', 'sigmoid',0.767500013,0.1855
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'softplus', 'softplus',0.721666669,0.1829
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'hard_sigmoid', 'softplus',0.633249996,0.1827
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'softplus', 'softplus',0.021475001,0.1823
+'categorical_hinge', 'categorical_accuracy', 'adadelta', 'softmax', 'sigmoid',0.620083325,0.1815
+'kullback_leibler_divergence', 'categorical_accuracy', 'adadelta', 'softplus', 'softplus',0.133583335,0.1789
+'categorical_hinge', 'top_k_categorical_accuracy', 'adadelta', 'softmax', 'sigmoid',0.931916691,0.1778
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softplus',0.651250007,0.1776
+'kullback_leibler_divergence', 'acc', 'nadam', 'softsign', 'sigmoid',0.680166677,0.1768
+'kullback_leibler_divergence', 'binary_accuracy', 'adamax', 'softplus', 'softplus',0.00035,0.1765
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'hard_sigmoid', 'softplus',0.672083351,0.1739
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'softmax', 'softplus',0.703666667,0.1718
+'kullback_leibler_divergence', 'acc', 'adamax', 'softplus', 'softplus',0.158166664,0.1693
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'hard_sigmoid', 'softplus',0.083858338,0.1661
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'rmsprop', 'sigmoid', 'softplus',0.732000021,0.1656
+'kullback_leibler_divergence', 'binary_accuracy', 'adam', 'sigmoid', 'softplus',0.010600001,0.1651
+'categorical_hinge', 'binary_accuracy', 'adadelta', 'softmax', 'sigmoid',0.129991674,0.1648
+'kullback_leibler_divergence', 'categorical_accuracy', 'adadelta', 'sigmoid', 'softplus',0.164333335,0.1588
+'kullback_leibler_divergence', 'categorical_accuracy', 'adamax', 'softplus', 'softplus',0.140916669,0.1586
+'kullback_leibler_divergence', 'acc', 'nadam', 'softmax', 'softplus',0.692333346,0.1585
+'kullback_leibler_divergence', 'categorical_accuracy', 'adamax', 'sigmoid', 'softplus',0.160000001,0.158
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'sigmoid', 'softplus',0.075908336,0.1578
+'kullback_leibler_divergence', 'categorical_accuracy', 'adam', 'sigmoid', 'softplus',0.148333332,0.1552
+'kullback_leibler_divergence', 'acc', 'nadam', 'softmax', 'softplus',0.739333349,0.1501
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'sigmoid', 'softplus',0.05769167,0.1479
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'softsign', 'sigmoid',0.973916702,0.1441
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'softplus', 'softplus',0.784916682,0.1422
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softplus',0.655083328,0.142
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'softplus', 'softplus',0.712583323,0.1415
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'sigmoid', 'softplus',0.604666663,0.1397
+'categorical_hinge', 'acc', 'adadelta', 'softmax', 'sigmoid',0.561750007,0.139
+'categorical_hinge', 'categorical_accuracy', 'adadelta', 'softmax', 'sigmoid',0.581499993,0.138
+'poisson', 'top_k_categorical_accuracy', 'adadelta', 'softmax', 'softmax',0.517666669,0.1353
+'binary_crossentropy', 'binary_accuracy', 'adadelta', 'softmax', 'softmax',0.900000215,0.1306
+'poisson', 'categorical_accuracy', 'adadelta', 'softmax', 'softmax',0.106000001,0.1276
+'kullback_leibler_divergence', 'acc', 'adamax', 'sigmoid', 'softplus',0.111666669,0.1255
+'kullback_leibler_divergence', 'binary_accuracy', 'nadam', 'softsign', 'sigmoid',0.100000009,0.1216
+'poisson', 'top_k_categorical_accuracy', 'adadelta', 'softmax', 'sigmoid',0.551833332,0.1165
+'poisson', 'categorical_accuracy', 'adadelta', 'softmax', 'sigmoid',0.100166668,0.1163
+'poisson', 'acc', 'adadelta', 'softmax', 'softplus',0.151916664,0.1135
+'poisson', 'acc', 'nadam', 'softmax', 'softplus',0.105999999,0.1135
+'poisson', 'binary_accuracy', 'adadelta', 'softmax', 'softplus',0.900000215,0.1135
+'poisson', 'binary_accuracy', 'adam', 'softmax', 'softplus',0.900000215,0.1135
+'poisson', 'binary_accuracy', 'nadam', 'softmax', 'softplus',0.900000215,0.1135
+'poisson', 'categorical_accuracy', 'rmsprop', 'softmax', 'softplus',0.106000002,0.1135
+'poisson', 'categorical_accuracy', 'adadelta', 'softmax', 'softplus',0.129500002,0.1135
+'poisson', 'categorical_accuracy', 'nadam', 'softmax', 'softplus',0.106000002,0.1135
+'binary_crossentropy', 'acc', 'rmsprop', 'softmax', 'softplus',0.900000215,0.1135
+'binary_crossentropy', 'acc', 'adadelta', 'softmax', 'softplus',0.900000215,0.1135
+'binary_crossentropy', 'binary_accuracy', 'adadelta', 'softmax', 'softplus',0.900000215,0.1135
+'binary_crossentropy', 'binary_accuracy', 'nadam', 'softmax', 'softplus',0.900000215,0.1135
+'binary_crossentropy', 'categorical_accuracy', 'adadelta', 'softmax', 'softplus',0.109499999,0.1135
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'softmax', 'softplus',0.561333333,0.1135
+'kullback_leibler_divergence', 'acc', 'adadelta', 'softmax', 'softplus',0.143000001,0.1135
+'binary_crossentropy', 'binary_accuracy', 'adam', 'softmax', 'softplus',0.900000215,0.1135
+'binary_crossentropy', 'binary_accuracy', 'nadam', 'softmax', 'softplus',0.900000215,0.1135
+'binary_crossentropy', 'categorical_accuracy', 'adadelta', 'softmax', 'softplus',0.106000002,0.1135
+'binary_crossentropy', 'categorical_accuracy', 'nadam', 'softmax', 'softplus',0.106000001,0.1135
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adagrad', 'softmax', 'softplus',0.498583338,0.1135
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'softmax', 'softplus',0.67324999,0.1135
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adam', 'softmax', 'softplus',0.646416667,0.1135
+'binary_crossentropy', 'top_k_categorical_accuracy', 'nadam', 'softmax', 'softplus',0.498416672,0.1135
+'kullback_leibler_divergence', 'acc', 'adadelta', 'softmax', 'softplus',0.218749997,0.1135
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'softmax', 'softplus',0.100000009,0.1135
+'kullback_leibler_divergence', 'categorical_accuracy', 'adadelta', 'softmax', 'softplus',0.123666667,0.1135
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'softmax', 'softplus',0.521000005,0.1135
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'softmax', 'softplus',0.100000009,0.1135
+'kullback_leibler_divergence', 'categorical_accuracy', 'adadelta', 'softmax', 'softplus',0.166166668,0.1135
+'poisson', 'acc', 'rmsprop', 'softmax', 'sigmoid',0.106000001,0.1135
+'poisson', 'acc', 'nadam', 'softmax', 'sigmoid',0.106,0.1135
+'poisson', 'binary_accuracy', 'nadam', 'softmax', 'sigmoid',0.900000215,0.1135
+'poisson', 'categorical_accuracy', 'adam', 'softmax', 'sigmoid',0.189166668,0.1135
+'poisson', 'categorical_accuracy', 'nadam', 'softmax', 'sigmoid',0.106000002,0.1135
+'poisson', 'top_k_categorical_accuracy', 'adam', 'softmax', 'sigmoid',0.508083319,0.1135
+'binary_crossentropy', 'acc', 'nadam', 'softmax', 'sigmoid',0.900000215,0.1135
+'binary_crossentropy', 'binary_accuracy', 'nadam', 'softmax', 'sigmoid',0.900000215,0.1135
+'binary_crossentropy', 'categorical_accuracy', 'nadam', 'softmax', 'sigmoid',0.106000002,0.1135
+'binary_crossentropy', 'top_k_categorical_accuracy', 'nadam', 'softmax', 'sigmoid',0.504416667,0.1135
+'binary_crossentropy', 'binary_accuracy', 'nadam', 'softmax', 'sigmoid',0.900000215,0.1135
+'binary_crossentropy', 'categorical_accuracy', 'adadelta', 'softmax', 'sigmoid',0.192416667,0.1135
+'binary_crossentropy', 'categorical_accuracy', 'nadam', 'softmax', 'sigmoid',0.106000002,0.1135
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adam', 'softmax', 'sigmoid',0.507416664,0.1135
+'binary_crossentropy', 'top_k_categorical_accuracy', 'nadam', 'softmax', 'sigmoid',0.507916665,0.1135
+'kullback_leibler_divergence', 'acc', 'nadam', 'softmax', 'sigmoid',0.700166677,0.1135
+'kullback_leibler_divergence', 'binary_accuracy', 'nadam', 'softmax', 'sigmoid',0.100000009,0.1135
+'kullback_leibler_divergence', 'categorical_accuracy', 'nadam', 'softmax', 'sigmoid',0.638166661,0.1135
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'softmax', 'sigmoid',0.975250038,0.1135
+'kullback_leibler_divergence', 'binary_accuracy', 'nadam', 'softmax', 'sigmoid',0.100000009,0.1135
+'binary_crossentropy', 'acc', 'adam', 'hard_sigmoid', 'softplus',0.850141786,0.1134
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'hard_sigmoid', 'softplus',0.767333341,0.1124
+'binary_crossentropy', 'acc', 'adadelta', 'softmax', 'softmax',0.900000215,0.1097
+'poisson', 'acc', 'adadelta', 'softmax', 'sigmoid',0.119416667,0.1097
+'kullback_leibler_divergence', 'categorical_accuracy', 'nadam', 'softmax', 'softplus',0.798666676,0.1094
+'poisson', 'binary_accuracy', 'adadelta', 'softmax', 'softmax',0.900000215,0.1062
+'kullback_leibler_divergence', 'binary_accuracy', 'adamax', 'sigmoid', 'softplus',0.010791667,0.1047
+'poisson', 'binary_accuracy', 'adagrad', 'softmax', 'softplus',0.900000215,0.1032
+'binary_crossentropy', 'binary_accuracy', 'rmsprop', 'softmax', 'softplus',0.900000215,0.1032
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adam', 'softmax', 'softplus',0.630749996,0.1032
+'poisson', 'top_k_categorical_accuracy', 'adagrad', 'softmax', 'sigmoid',0.499499992,0.1032
+'binary_crossentropy', 'binary_accuracy', 'adagrad', 'softmax', 'sigmoid',0.900000215,0.1032
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'softmax', 'sigmoid',0.604,0.1032
+'categorical_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'softmax', 'sigmoid',0.68325001,0.103
+'poisson', 'acc', 'rmsprop', 'softmax', 'softplus',0.11,0.1028
+'poisson', 'categorical_accuracy', 'adagrad', 'softmax', 'softplus',0.108083335,0.1028
+'binary_crossentropy', 'binary_accuracy', 'adam', 'softmax', 'softplus',0.900000215,0.1028
+'binary_crossentropy', 'categorical_accuracy', 'rmsprop', 'softmax', 'softplus',0.109833334,0.1028
+'binary_crossentropy', 'categorical_accuracy', 'adam', 'softmax', 'softplus',0.162416667,0.1028
+'kullback_leibler_divergence', 'acc', 'nadam', 'softmax', 'sigmoid',0.738083338,0.1028
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'softplus', 'softplus',0.604916669,0.1023
+'binary_crossentropy', 'top_k_categorical_accuracy', 'nadam', 'softmax', 'softplus',0.512083328,0.101
+'binary_crossentropy', 'categorical_accuracy', 'adam', 'softmax', 'softplus',0.114583332,0.101
+'binary_crossentropy', 'binary_accuracy', 'adadelta', 'softmax', 'sigmoid',0.900000215,0.101
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adagrad', 'softmax', 'sigmoid',0.495000006,0.101
+'binary_crossentropy', 'acc', 'adagrad', 'softmax', 'softplus',0.900000215,0.1009
+'binary_crossentropy', 'categorical_accuracy', 'nadam', 'softmax', 'softplus',0.095750001,0.1009
+'categorical_hinge', 'acc', 'adagrad', 'softplus', 'softmax',0.095583334,0.1009
+'poisson', 'acc', 'adagrad', 'softmax', 'sigmoid',0.096,0.1009
+'poisson', 'binary_accuracy', 'adam', 'softmax', 'sigmoid',0.900000215,0.1009
+'binary_crossentropy', 'acc', 'adagrad', 'softmax', 'sigmoid',0.900000215,0.1009
+'binary_crossentropy', 'categorical_accuracy', 'adagrad', 'softmax', 'sigmoid',0.095583335,0.1009
+'poisson', 'acc', 'adam', 'softmax', 'softplus',0.150083335,0.0982
+'poisson', 'categorical_accuracy', 'adagrad', 'softmax', 'sigmoid',0.098916668,0.0982
+'binary_crossentropy', 'categorical_accuracy', 'adagrad', 'softmax', 'sigmoid',0.098916668,0.0982
+'binary_crossentropy', 'categorical_accuracy', 'adam', 'softmax', 'sigmoid',0.10725,0.0982
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'softmax', 'sigmoid',0.982000041,0.0982
+'poisson', 'acc', 'adagrad', 'softmax', 'softplus',0.099500001,0.098
+'poisson', 'top_k_categorical_accuracy', 'adadelta', 'softmax', 'softplus',0.554666658,0.098
+'binary_crossentropy', 'binary_accuracy', 'adagrad', 'softmax', 'softplus',0.900000215,0.098
+'binary_crossentropy', 'top_k_categorical_accuracy', 'rmsprop', 'softmax', 'softplus',0.50808333,0.098
+'categorical_hinge', 'top_k_categorical_accuracy', 'adagrad', 'softplus', 'softmax',0.551999994,0.098
+'binary_crossentropy', 'acc', 'adadelta', 'softmax', 'sigmoid',0.900000215,0.098
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adadelta', 'softmax', 'sigmoid',0.565999995,0.098
+'kullback_leibler_divergence', 'acc', 'rmsprop', 'softsign', 'sigmoid',0.534416654,0.098
+'kullback_leibler_divergence', 'acc', 'rmsprop', 'sigmoid', 'sigmoid',0.365583337,0.098
+'binary_crossentropy', 'binary_accuracy', 'adam', 'softmax', 'sigmoid',0.900000215,0.098
+'kullback_leibler_divergence', 'acc', 'rmsprop', 'softsign', 'sigmoid',0.560333334,0.098
+'kullback_leibler_divergence', 'acc', 'rmsprop', 'sigmoid', 'sigmoid',0.363916665,0.098
+'kullback_leibler_divergence', 'acc', 'adadelta', 'softmax', 'sigmoid',0.099500001,0.098
+'kullback_leibler_divergence', 'binary_accuracy', 'rmsprop', 'softsign', 'sigmoid',0.100000009,0.098
+'kullback_leibler_divergence', 'binary_accuracy', 'rmsprop', 'sigmoid', 'sigmoid',0.100000009,0.098
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'softmax', 'sigmoid',0.100000009,0.098
+'kullback_leibler_divergence', 'categorical_accuracy', 'rmsprop', 'softsign', 'sigmoid',0.557249991,0.098
+'kullback_leibler_divergence', 'categorical_accuracy', 'rmsprop', 'sigmoid', 'sigmoid',0.212749997,0.098
+'kullback_leibler_divergence', 'categorical_accuracy', 'adadelta', 'softmax', 'sigmoid',0.099666667,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'rmsprop', 'softsign', 'sigmoid',0.999416781,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'rmsprop', 'sigmoid', 'sigmoid',0.999916787,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'softmax', 'sigmoid',0.617166658,0.098
+'kullback_leibler_divergence', 'acc', 'nadam', 'softplus', 'sigmoid',0.441749996,0.098
+'kullback_leibler_divergence', 'binary_accuracy', 'rmsprop', 'softplus', 'sigmoid',0.100000009,0.098
+'kullback_leibler_divergence', 'binary_accuracy', 'rmsprop', 'tanh', 'sigmoid',0.100000009,0.098
+'kullback_leibler_divergence', 'binary_accuracy', 'rmsprop', 'hard_sigmoid', 'sigmoid',0.100000009,0.098
+'kullback_leibler_divergence', 'binary_accuracy', 'adagrad', 'softplus', 'sigmoid',0.100000009,0.098
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'softplus', 'sigmoid',0.100000009,0.098
+'kullback_leibler_divergence', 'binary_accuracy', 'adam', 'softplus', 'sigmoid',0.100000009,0.098
+'kullback_leibler_divergence', 'binary_accuracy', 'adamax', 'softplus', 'sigmoid',0.100000009,0.098
+'kullback_leibler_divergence', 'binary_accuracy', 'adadelta', 'softmax', 'sigmoid',0.100000009,0.098
+'kullback_leibler_divergence', 'categorical_accuracy', 'rmsprop', 'softsign', 'sigmoid',0.574333332,0.098
+'kullback_leibler_divergence', 'categorical_accuracy', 'rmsprop', 'sigmoid', 'sigmoid',0.318666664,0.098
+'kullback_leibler_divergence', 'categorical_accuracy', 'adadelta', 'softmax', 'sigmoid',0.103500001,0.098
+'kullback_leibler_divergence', 'binary_accuracy', 'nadam', 'softplus', 'sigmoid',0.100000009,0.098
+'kullback_leibler_divergence', 'categorical_accuracy', 'rmsprop', 'softplus', 'sigmoid',0.426249998,0.098
+'kullback_leibler_divergence', 'categorical_accuracy', 'rmsprop', 'tanh', 'sigmoid',0.439166663,0.098
+'kullback_leibler_divergence', 'categorical_accuracy', 'rmsprop', 'hard_sigmoid', 'sigmoid',0.335916668,0.098
+'kullback_leibler_divergence', 'categorical_accuracy', 'adagrad', 'softplus', 'sigmoid',0.352666666,0.098
+'kullback_leibler_divergence', 'categorical_accuracy', 'adadelta', 'softplus', 'sigmoid',0.410416659,0.098
+'kullback_leibler_divergence', 'categorical_accuracy', 'adam', 'softplus', 'sigmoid',0.340166663,0.098
+'kullback_leibler_divergence', 'categorical_accuracy', 'adamax', 'softplus', 'sigmoid',0.460500003,0.098
+'kullback_leibler_divergence', 'categorical_accuracy', 'nadam', 'softplus', 'sigmoid',0.577249991,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'rmsprop', 'softplus', 'sigmoid',1.000000119,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'rmsprop', 'tanh', 'sigmoid',0.99983345,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'rmsprop', 'hard_sigmoid', 'sigmoid',0.999833455,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'softplus', 'sigmoid',0.823166686,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'softplus', 'sigmoid',0.878250015,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'softplus', 'sigmoid',0.958916691,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'softplus', 'sigmoid',0.924500031,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'softplus', 'sigmoid',0.953833376,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'rmsprop', 'softplus', 'sigmoid',1.000000119,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'rmsprop', 'tanh', 'sigmoid',0.999833445,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'rmsprop', 'hard_sigmoid', 'sigmoid',0.999916787,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adagrad', 'softplus', 'sigmoid',0.944750046,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adadelta', 'softplus', 'sigmoid',0.88158335,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'softplus', 'sigmoid',0.959333368,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adamax', 'softplus', 'sigmoid',0.934750025,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'softplus', 'sigmoid',0.956250039,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'adam', 'softplus', 'sigmoid',0.944416702,0.098
+'kullback_leibler_divergence', 'top_k_categorical_accuracy', 'nadam', 'softplus', 'sigmoid',0.937750046,0.098
+'binary_crossentropy', 'acc', 'nadam', 'softmax', 'softplus',0.900000215,0.0974
+'binary_crossentropy', 'categorical_accuracy', 'adagrad', 'softmax', 'softplus',0.099833334,0.0974
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adagrad', 'softmax', 'softplus',0.500333323,0.0974
+'binary_crossentropy', 'categorical_accuracy', 'adamax', 'softmax', 'softplus',0.196666667,0.0974
+'categorical_hinge', 'binary_accuracy', 'adagrad', 'softplus', 'softmax',0.821200122,0.0974
+'binary_crossentropy', 'acc', 'adam', 'softmax', 'sigmoid',0.900000215,0.0974
+'binary_crossentropy', 'binary_accuracy', 'adam', 'softmax', 'sigmoid',0.900000215,0.0974
+'binary_crossentropy', 'categorical_accuracy', 'adadelta', 'softmax', 'sigmoid',0.107416666,0.0974
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adam', 'softmax', 'sigmoid',0.553416664,0.0974
+'kullback_leibler_divergence', 'acc', 'adadelta', 'softmax', 'sigmoid',0.179833335,0.0974
+'binary_crossentropy', 'top_k_categorical_accuracy', 'adagrad', 'softmax', 'sigmoid',0.489916656,0.0974
+'poisson', 'categorical_accuracy', 'adam', 'softmax', 'softplus',0.099249999,0.0958
+'poisson', 'top_k_categorical_accuracy', 'adagrad', 'softmax', 'softplus',0.506500007,0.0958
+'binary_crossentropy', 'acc', 'adam', 'softmax', 'softplus',0.900000215,0.0958
+'poisson', 'binary_accuracy', 'adagrad', 'softmax', 'sigmoid',0.900000215,0.0958
+'binary_crossentropy', 'categorical_accuracy', 'adam', 'softmax', 'sigmoid',0.223583331,0.0958
+'binary_crossentropy', 'categorical_accuracy', 'adagrad', 'softmax', 'softplus',0.091416667,0.0892
+'poisson', 'acc', 'adam', 'softmax', 'sigmoid',0.108083335,0.0892
+'poisson', 'binary_accuracy', 'adadelta', 'softmax', 'sigmoid',0.900000215,0.0856

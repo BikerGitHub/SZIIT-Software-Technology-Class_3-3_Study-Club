@@ -1,0 +1,62 @@
+.animation
+{
+    text-align:left;
+    position:relative;
+    animation:move 10s infinite alternate;
+    -moz-animation:move 10s infinite alternate; /* Firefox */
+    -webkit-animation:move 10s infinite alternate; /* Safari and Chrome */
+    -o-animation:move 10s infinite alternate; /* Opera */
+}
+
+@keyframes move
+{
+    0%  {top:0px;left:0px;color:red;}
+    12.5% {top:150px;left:80%;color:green;}
+    25% {top:0px;left:80%;color:blue;}
+    37.5% {top:150px;left:0px;color:red;}
+    50% {top:0px;left:0px;color:green;}
+    62.5% {top:0px;left:80%;color:blue;}
+    75% {top:150px;left:0px;color:red;}
+    87.5% {top:150px;left:80%;color:green;}
+    100% {top:0px;left:0px;color:blue;}
+}
+
+@-moz-keyframes move /* Firefox */
+{
+    0%  {top:0px;left:0px;color:red;}
+    12.5% {top:150px;left:80%;color:green;}
+    25% {top:0px;left:80%;color:blue;}
+    37.5% {top:150px;left:0px;color:red;}
+    50% {top:0px;left:0px;color:green;}
+    62.5% {top:0px;left:80%;color:blue;}
+    75% {top:150px;left:0px;color:red;}
+    87.5% {top:150px;left:80%;color:green;}
+    100% {top:0px;left:0px;color:blue;}
+}
+
+@-webkit-keyframes move /* Safari and Chrome */
+{
+    0%  {top:0px;left:0px;color:red;}
+    12.5% {top:150px;left:80%;color:green;}
+    25% {top:0px;left:80%;color:blue;}
+    37.5% {top:150px;left:0px;color:red;}
+    50% {top:0px;left:0px;color:green;}
+    62.5% {top:0px;left:80%;color:blue;}
+    75% {top:150px;left:0px;color:red;}
+    87.5% {top:150px;left:80%;color:green;}
+    100% {top:0px;left:0px;color:blue;}
+}
+
+@-o-keyframes move /* Opera */
+{
+    0%  {top:0px;left:0px;color:red;}
+    12.5% {top:150px;left:80%;color:green;}
+    25% {top:0px;left:80%;color:blue;}
+    37.5% {top:150px;left:0px;color:red;}
+    50% {top:0px;left:0px;color:green;}
+    62.5% {top:0px;left:80%;color:blue;}
+    75% {top:150px;left:0px;color:red;}
+    87.5% {top:150px;left:80%;color:green;}
+    100% {top:0px;left:0px;color:blue;}
+}
+

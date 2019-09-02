@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <img src="images/biker.jpg" title="默认显示模式" usemap="#1"><!--使用usemap="#名称"来定义-->
+    <map name="1"><!--使用名称为"1"的组件-->
+        <area shape="circle" coords="600,160,20" href="images/biker_white.jpg" alt="白"><!--圆形可点击区域,大概在头部-->
+    </map>
+
+    <!--对图片大小的各种定义尝试-->
+    <img src="images/biker_white.jpg" width="64" border="3" alt="宽度64,边框宽度3,居中对齐" usemap="#2">
+    <img src="images/biker.jpg" width="64" height="128" alt="宽度64,高度128" usemap="#3">
+</body>
+</html>

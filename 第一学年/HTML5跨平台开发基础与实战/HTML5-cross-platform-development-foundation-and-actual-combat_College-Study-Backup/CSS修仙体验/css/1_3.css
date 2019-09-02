@@ -1,0 +1,252 @@
+.border
+{
+    animation:borderchange 10s infinite alternate;
+    -moz-animation:borderchange 10s infinite alternate; /* Firefox */
+    -webkit-animation:borderchange 10s infinite alternate; /* Safari and Chrome */
+    -o-animation:borderchange 10s infinite alternate; /* Opera */
+}
+
+@keyframes borderchange
+{
+    0%
+    {
+        color:red;
+        border:green outset 8px;
+        outline: blue dotted 8px;
+        box-shadow: 8px 8px 4px red inset;
+    }
+    12.5%
+    {
+        color:green;
+        border:red inset 8px;
+        outline: red dashed 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    25%
+    {
+        color:blue;
+        border:blue ridge 8px;
+        outline: green solid 8px;
+        box-shadow: 8px 8px 4px blue outset;
+    }
+    37.5%
+    {
+        color:red;
+        border:green groove 8px;
+        outline: blue double 8px;
+        box-shadow: 8px 8px 4px red outset;
+    }
+    50%
+    {
+        color:green;
+        border:red double 8px;
+        outline: red groove 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    62.5%
+    {
+        color:blue;
+        border:blue solid 8px;
+        outline: green ridge 8px;
+        box-shadow: 8px 8px 4px blue outset;
+    }
+    75%
+    {
+        color:red;
+        border:green dashed 8px;
+        outline: blue inset 8px;
+        box-shadow: 8px 8px 4px red outset;
+    }
+    87.5%
+    {
+        color:green;
+        border:red dotted 8px;
+        outline: red outset 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    100%{}
+}
+
+@-moz-keyframes borderchange /* Firefox */
+{
+    0%
+    {
+        color:red;
+        border:green outset 8px;
+        outline: blue dotted 8px;
+        box-shadow: 8px 8px 4px red inset;
+    }
+    12.5%
+    {
+        color:green;
+        border:red inset 8px;
+        outline: red dashed 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    25%
+    {
+        color:blue;
+        border:blue ridge 8px;
+        outline: green solid 8px;
+        box-shadow: 8px 8px 4px blue outset;
+    }
+    37.5%
+    {
+        color:red;
+        border:green groove 8px;
+        outline: blue double 8px;
+        box-shadow: 8px 8px 4px red outset;
+    }
+    50%
+    {
+        color:green;
+        border:red double 8px;
+        outline: red groove 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    62.5%
+    {
+        color:blue;
+        border:blue solid 8px;
+        outline: green ridge 8px;
+        box-shadow: 8px 8px 4px blue outset;
+    }
+    75%
+    {
+        color:red;
+        border:green dashed 8px;
+        outline: blue inset 8px;
+        box-shadow: 8px 8px 4px red outset;
+    }
+    87.5%
+    {
+        color:green;
+        border:red dotted 8px;
+        outline: red outset 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    100%{}
+}
+
+@-webkit-keyframes borderchange /* Safari and Chrome */
+{
+    0%
+    {
+        color:red;
+        border:green outset 8px;
+        outline: blue dotted 8px;
+        box-shadow: 8px 8px 4px red inset;
+    }
+    12.5%
+    {
+        color:green;
+        border:red inset 8px;
+        outline: red dashed 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    25%
+    {
+        color:blue;
+        border:blue ridge 8px;
+        outline: green solid 8px;
+        box-shadow: 8px 8px 4px blue outset;
+    }
+    37.5%
+    {
+        color:red;
+        border:green groove 8px;
+        outline: blue double 8px;
+        box-shadow: 8px 8px 4px red outset;
+    }
+    50%
+    {
+        color:green;
+        border:red double 8px;
+        outline: red groove 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    62.5%
+    {
+        color:blue;
+        border:blue solid 8px;
+        outline: green ridge 8px;
+        box-shadow: 8px 8px 4px blue outset;
+    }
+    75%
+    {
+        color:red;
+        border:green dashed 8px;
+        outline: blue inset 8px;
+        box-shadow: 8px 8px 4px red outset;
+    }
+    87.5%
+    {
+        color:green;
+        border:red dotted 8px;
+        outline: red outset 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    100%{}
+}
+
+@-o-keyframes borderchange /* Opera */
+{
+    0%
+    {
+        color:red;
+        border:green outset 8px;
+        outline: blue dotted 8px;
+        box-shadow: 8px 8px 4px red inset;
+    }
+    12.5%
+    {
+        color:green;
+        border:red inset 8px;
+        outline: red dashed 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    25%
+    {
+        color:blue;
+        border:blue ridge 8px;
+        outline: green solid 8px;
+        box-shadow: 8px 8px 4px blue outset;
+    }
+    37.5%
+    {
+        color:red;
+        border:green groove 8px;
+        outline: blue double 8px;
+        box-shadow: 8px 8px 4px red outset;
+    }
+    50%
+    {
+        color:green;
+        border:red double 8px;
+        outline: red groove 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    62.5%
+    {
+        color:blue;
+        border:blue solid 8px;
+        outline: green ridge 8px;
+        box-shadow: 8px 8px 4px blue outset;
+    }
+    75%
+    {
+        color:red;
+        border:green dashed 8px;
+        outline: blue inset 8px;
+        box-shadow: 8px 8px 4px red outset;
+    }
+    87.5%
+    {
+        color:green;
+        border:red dotted 8px;
+        outline: red outset 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    100%{}
+}
+

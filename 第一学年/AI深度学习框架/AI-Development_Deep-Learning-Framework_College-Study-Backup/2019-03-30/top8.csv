@@ -1,0 +1,8 @@
+poisson,categorical_accuracy,rmsprop,tanh,softmax
+categorical_crossentropy,binary_accuracy,rmsprop,tanh,softmax
+poisson,binary_accuracy,rmsprop,tanh,softmax
+categorical_crossentropy,categorical_accuracy,rmsprop,tanh,softmax
+categorical_hinge,binary_accuracy,rmsprop,tanh,softmax
+poisson,categorical_accuracy,rmsprop,sigmoid,softmax
+poisson,binary_accuracy,rmsprop,sigmoid,softmax
+categorical_crossentropy,binary_accuracy,rmsprop,sigmoid,softmax

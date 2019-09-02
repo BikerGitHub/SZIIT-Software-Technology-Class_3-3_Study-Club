@@ -1,0 +1,31 @@
+.margin
+{
+    animation:marginchange 5s infinite alternate;
+    -moz-animation:marginchange 5s infinite alternate; /* Firefox */
+    -webkit-animation:marginchange 5s infinite alternate; /* Safari and Chrome */
+    -o-animation:marginchange 5s infinite alternate; /* Opera */
+}
+
+@keyframes marginchange
+{
+    0%{margin:0px auto;}
+    100%{margin:75px auto;}
+}
+
+@-moz-keyframes marginchange /* Firefox */
+{
+    0%{margin:0px auto;}
+    100%{margin:75px auto;}
+}
+
+@-webkit-keyframes marginchange /* Safari and Chrome */
+{
+    0%{margin:0px auto;}
+    100%{margin:75px auto;}
+}
+
+@-o-keyframes marginchange /* Opera */
+{
+    0%{margin:0px auto;}
+    100%{margin:75px auto;}
+}

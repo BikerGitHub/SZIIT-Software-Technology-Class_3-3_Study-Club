@@ -1,0 +1,67 @@
+.color
+{
+    animation:showhide 5s infinite alternate;
+    -moz-animation:showhide 5s infinite alternate; /* Firefox */
+    -webkit-animation:showhide 5s infinite alternate; /* Safari and Chrome */
+    -o-animation:showhide 5s infinite alternate; /* Opera */
+}
+
+@keyframes showhide
+{
+    0%  {opacity:1;}
+    100%{opacity:0;}
+}
+
+@-moz-keyframes showhide /* Firefox */
+{
+    0%  {opacity:1;}
+    100%{opacity:0;}
+}
+
+@-webkit-keyframes showhide /* Safari and Chrome */
+{
+    0%  {opacity:1;}
+    100%{opacity:0;}
+}
+
+@-o-keyframes showhide /* Opera */
+{
+    0%  {opacity:1;}
+    100%{opacity:0;}
+}
+
+.textcolor
+{
+    animation:h2color 5s infinite alternate;
+    -moz-animation:h2color 5s infinite alternate; /* Firefox */
+    -webkit-animation:h2color 5s infinite alternate; /* Safari and Chrome */
+    -o-animation:h2color 5s infinite alternate; /* Opera */
+}
+
+@keyframes h2color
+{
+    0%  {color: red}
+    50% {color: green}
+    100%{color: blue}
+}
+
+@-moz-keyframes h2color /* Firefox */
+{
+    0%  {color: red}
+    50% {color: green}
+    100%{color: blue}
+}
+
+@-webkit-keyframes h2color /* Safari and Chrome */
+{
+    0%  {color: red}
+    50% {color: green}
+    100%{color: blue}
+}
+
+@-o-keyframes h2color /* Opera */
+{
+    0%  {color: red}
+    50% {color: green}
+    100%{color: blue}
+}

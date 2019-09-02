@@ -1,0 +1,813 @@
+h1,h2
+{
+    text-align: center;
+}
+img
+{
+    display: block;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+div
+{
+    text-align: center;
+}
+a
+{
+    color: #fff;
+    background-color: #26a69a;
+    display: inline-block;
+    text-decoration: none;
+    padding: 16px 64px;
+    box-shadow: 0 4px 4px 0 rgba(0,0,0,0.14),0 2px 10px 0 rgba(0,0,0,0.12),0 6px 2px -4px rgba(0,0,0,0.2);
+}
+
+.animation
+{
+    text-align:left;
+    position:relative;
+    animation:move 10s infinite alternate;
+    -moz-animation:move 10s infinite alternate; /* Firefox */
+    -webkit-animation:move 10s infinite alternate; /* Safari and Chrome */
+    -o-animation:move 10s infinite alternate; /* Opera */
+}
+
+@keyframes move
+{
+    0%  {top:0px;left:0px;color:red;}
+    12.5% {top:150px;left:80%;color:green;}
+    25% {top:0px;left:80%;color:blue;}
+    37.5% {top:150px;left:0px;color:red;}
+    50% {top:0px;left:0px;color:green;}
+    62.5% {top:0px;left:80%;color:blue;}
+    75% {top:150px;left:0px;color:red;}
+    87.5% {top:150px;left:80%;color:green;}
+    100% {top:0px;left:0px;color:blue;}
+}
+
+@-moz-keyframes move /* Firefox */
+{
+    0%  {top:0px;left:0px;color:red;}
+    12.5% {top:150px;left:80%;color:green;}
+    25% {top:0px;left:80%;color:blue;}
+    37.5% {top:150px;left:0px;color:red;}
+    50% {top:0px;left:0px;color:green;}
+    62.5% {top:0px;left:80%;color:blue;}
+    75% {top:150px;left:0px;color:red;}
+    87.5% {top:150px;left:80%;color:green;}
+    100% {top:0px;left:0px;color:blue;}
+}
+
+@-webkit-keyframes move /* Safari and Chrome */
+{
+    0%  {top:0px;left:0px;color:red;}
+    12.5% {top:150px;left:80%;color:green;}
+    25% {top:0px;left:80%;color:blue;}
+    37.5% {top:150px;left:0px;color:red;}
+    50% {top:0px;left:0px;color:green;}
+    62.5% {top:0px;left:80%;color:blue;}
+    75% {top:150px;left:0px;color:red;}
+    87.5% {top:150px;left:80%;color:green;}
+    100% {top:0px;left:0px;color:blue;}
+}
+
+@-o-keyframes move /* Opera */
+{
+    0%  {top:0px;left:0px;color:red;}
+    12.5% {top:150px;left:80%;color:green;}
+    25% {top:0px;left:80%;color:blue;}
+    37.5% {top:150px;left:0px;color:red;}
+    50% {top:0px;left:0px;color:green;}
+    62.5% {top:0px;left:80%;color:blue;}
+    75% {top:150px;left:0px;color:red;}
+    87.5% {top:150px;left:80%;color:green;}
+    100% {top:0px;left:0px;color:blue;}
+}
+
+.background
+{
+    animation:bgmove 5s infinite alternate;
+    -moz-animation:bgmove 5s infinite alternate; /* Firefox */
+    -webkit-animation:bgmove 5s infinite alternate; /* Safari and Chrome */
+    -o-animation:bgmove 5s infinite alternate; /* Opera */
+}
+
+@keyframes bgmove
+{
+    0%
+    {
+        color:red;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 0px 0px;
+    }
+    50%
+    {
+        color:green;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 1600px 900px;
+    }
+    100%
+    {
+        color:blue;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 0px 0px;
+    }
+}
+
+@-moz-keyframes bgmove /* Firefox */
+{
+    0%
+    {
+        color:red;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 0px 0px;
+    }
+    50%
+    {
+        color:green;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 1600px 900px;
+    }
+    100%
+    {
+        color:blue;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 0px 0px;
+    }
+}
+
+@-webkit-keyframes bgmove /* Safari and Chrome */
+{
+    0%
+    {
+        color:red;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 0px 0px;
+    }
+    50%
+    {
+        color:green;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 1600px 900px;
+    }
+    100%
+    {
+        color:blue;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 0px 0px;
+    }
+}
+
+@-o-keyframes bgmove /* Opera */
+{
+    0%
+    {
+        color:red;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 0px 0px;
+    }
+    50%
+    {
+        color:green;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 1600px 900px;
+    }
+    100%
+    {
+        color:blue;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 0px 0px;
+    }
+}
+
+.border
+{
+    animation:borderchange 10s infinite alternate;
+    -moz-animation:borderchange 10s infinite alternate; /* Firefox */
+    -webkit-animation:borderchange 10s infinite alternate; /* Safari and Chrome */
+    -o-animation:borderchange 10s infinite alternate; /* Opera */
+}
+
+@keyframes borderchange
+{
+    0%
+    {
+        color:red;
+        border:green outset 8px;
+        outline: blue dotted 8px;
+        box-shadow: 8px 8px 4px red inset;
+    }
+    12.5%
+    {
+        color:green;
+        border:red inset 8px;
+        outline: red dashed 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    25%
+    {
+        color:blue;
+        border:blue ridge 8px;
+        outline: green solid 8px;
+        box-shadow: 8px 8px 4px blue outset;
+    }
+    37.5%
+    {
+        color:red;
+        border:green groove 8px;
+        outline: blue double 8px;
+        box-shadow: 8px 8px 4px red outset;
+    }
+    50%
+    {
+        color:green;
+        border:red double 8px;
+        outline: red groove 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    62.5%
+    {
+        color:blue;
+        border:blue solid 8px;
+        outline: green ridge 8px;
+        box-shadow: 8px 8px 4px blue outset;
+    }
+    75%
+    {
+        color:red;
+        border:green dashed 8px;
+        outline: blue inset 8px;
+        box-shadow: 8px 8px 4px red outset;
+    }
+    87.5%
+    {
+        color:green;
+        border:red dotted 8px;
+        outline: red outset 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    100%{}
+}
+
+@-moz-keyframes borderchange /* Firefox */
+{
+    0%
+    {
+        color:red;
+        border:green outset 8px;
+        outline: blue dotted 8px;
+        box-shadow: 8px 8px 4px red inset;
+    }
+    12.5%
+    {
+        color:green;
+        border:red inset 8px;
+        outline: red dashed 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    25%
+    {
+        color:blue;
+        border:blue ridge 8px;
+        outline: green solid 8px;
+        box-shadow: 8px 8px 4px blue outset;
+    }
+    37.5%
+    {
+        color:red;
+        border:green groove 8px;
+        outline: blue double 8px;
+        box-shadow: 8px 8px 4px red outset;
+    }
+    50%
+    {
+        color:green;
+        border:red double 8px;
+        outline: red groove 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    62.5%
+    {
+        color:blue;
+        border:blue solid 8px;
+        outline: green ridge 8px;
+        box-shadow: 8px 8px 4px blue outset;
+    }
+    75%
+    {
+        color:red;
+        border:green dashed 8px;
+        outline: blue inset 8px;
+        box-shadow: 8px 8px 4px red outset;
+    }
+    87.5%
+    {
+        color:green;
+        border:red dotted 8px;
+        outline: red outset 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    100%{}
+}
+
+@-webkit-keyframes borderchange /* Safari and Chrome */
+{
+    0%
+    {
+        color:red;
+        border:green outset 8px;
+        outline: blue dotted 8px;
+        box-shadow: 8px 8px 4px red inset;
+    }
+    12.5%
+    {
+        color:green;
+        border:red inset 8px;
+        outline: red dashed 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    25%
+    {
+        color:blue;
+        border:blue ridge 8px;
+        outline: green solid 8px;
+        box-shadow: 8px 8px 4px blue outset;
+    }
+    37.5%
+    {
+        color:red;
+        border:green groove 8px;
+        outline: blue double 8px;
+        box-shadow: 8px 8px 4px red outset;
+    }
+    50%
+    {
+        color:green;
+        border:red double 8px;
+        outline: red groove 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    62.5%
+    {
+        color:blue;
+        border:blue solid 8px;
+        outline: green ridge 8px;
+        box-shadow: 8px 8px 4px blue outset;
+    }
+    75%
+    {
+        color:red;
+        border:green dashed 8px;
+        outline: blue inset 8px;
+        box-shadow: 8px 8px 4px red outset;
+    }
+    87.5%
+    {
+        color:green;
+        border:red dotted 8px;
+        outline: red outset 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    100%{}
+}
+
+@-o-keyframes borderchange /* Opera */
+{
+    0%
+    {
+        color:red;
+        border:green outset 8px;
+        outline: blue dotted 8px;
+        box-shadow: 8px 8px 4px red inset;
+    }
+    12.5%
+    {
+        color:green;
+        border:red inset 8px;
+        outline: red dashed 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    25%
+    {
+        color:blue;
+        border:blue ridge 8px;
+        outline: green solid 8px;
+        box-shadow: 8px 8px 4px blue outset;
+    }
+    37.5%
+    {
+        color:red;
+        border:green groove 8px;
+        outline: blue double 8px;
+        box-shadow: 8px 8px 4px red outset;
+    }
+    50%
+    {
+        color:green;
+        border:red double 8px;
+        outline: red groove 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    62.5%
+    {
+        color:blue;
+        border:blue solid 8px;
+        outline: green ridge 8px;
+        box-shadow: 8px 8px 4px blue outset;
+    }
+    75%
+    {
+        color:red;
+        border:green dashed 8px;
+        outline: blue inset 8px;
+        box-shadow: 8px 8px 4px red outset;
+    }
+    87.5%
+    {
+        color:green;
+        border:red dotted 8px;
+        outline: red outset 8px;
+        box-shadow: 8px 8px 4px green outset;
+    }
+    100%{}
+}
+
+.box > img
+{
+    width:875px;
+    height:1240px;
+}
+.box
+{
+    margin: auto;
+    width:800px;
+    height:600px;
+    border:thin solid black;
+    overflow-x:auto;
+    overflow-y:auto;
+}
+.color
+{
+    animation:showhide 5s infinite alternate;
+    -moz-animation:showhide 5s infinite alternate; /* Firefox */
+    -webkit-animation:showhide 5s infinite alternate; /* Safari and Chrome */
+    -o-animation:showhide 5s infinite alternate; /* Opera */
+}
+
+@keyframes showhide
+{
+    0%  {opacity:1;}
+    100%{opacity:0;}
+}
+
+@-moz-keyframes showhide /* Firefox */
+{
+    0%  {opacity:1;}
+    100%{opacity:0;}
+}
+
+@-webkit-keyframes showhide /* Safari and Chrome */
+{
+    0%  {opacity:1;}
+    100%{opacity:0;}
+}
+
+@-o-keyframes showhide /* Opera */
+{
+    0%  {opacity:1;}
+    100%{opacity:0;}
+}
+
+.textcolor
+{
+    animation:h2color 5s infinite alternate;
+    -moz-animation:h2color 5s infinite alternate; /* Firefox */
+    -webkit-animation:h2color 5s infinite alternate; /* Safari and Chrome */
+    -o-animation:h2color 5s infinite alternate; /* Opera */
+}
+
+@keyframes h2color
+{
+    0%  {color: red}
+    50% {color: green}
+    100%{color: blue}
+}
+
+@-moz-keyframes h2color /* Firefox */
+{
+    0%  {color: red}
+    50% {color: green}
+    100%{color: blue}
+}
+
+@-webkit-keyframes h2color /* Safari and Chrome */
+{
+    0%  {color: red}
+    50% {color: green}
+    100%{color: blue}
+}
+
+@-o-keyframes h2color /* Opera */
+{
+    0%  {color: red}
+    50% {color: green}
+    100%{color: blue}
+}
+
+.dimension
+{
+    animation:bigsmall 5s infinite alternate;
+    -moz-animation:bigsmall 5s infinite alternate; /* Firefox */
+    -webkit-animation:bigsmall 5s infinite alternate; /* Safari and Chrome */
+    -o-animation:bigsmall 5s infinite alternate; /* Opera */
+}
+
+@keyframes bigsmall
+{
+    0%{width:5%;}
+    100%{width:20%;}
+}
+
+@-moz-keyframes bigsmall /* Firefox */
+{
+    0%{width:5%;}
+    100%{width:20%;}
+}
+
+@-webkit-keyframes bigsmall /* Safari and Chrome */
+{
+    0%{width:5%;}
+    100%{width:20%;}
+}
+
+@-o-keyframes bigsmall /* Opera */
+{
+    0%{width:5%;}
+    100%{width:20%;}
+}
+.font
+{
+    animation:fontchange 10s infinite alternate;
+    -moz-animation:fontchange 10s infinite alternate; /* Firefox */
+    -webkit-animation:fontchange 10s infinite alternate; /* Safari and Chrome */
+    -o-animation:fontchange 10s infinite alternate; /* Opera */
+}
+
+@keyframes fontchange
+{
+    0%
+    {
+        font-size:100%;
+        font-style:normal;
+        font-variant:normal;
+        font-weight:lighter;
+    }
+    50%
+    {
+        font-size:200%;
+        font-style:italic;
+        font-variant:small-caps;
+        font-weight:bold;
+    }
+    100%
+    {
+        font-size:50%;
+        font-style:oblique;
+        font-variant:normal;
+        font-weight:bolder;
+    }
+}
+
+@-moz-keyframes fontchange /* Firefox */
+{
+    0%
+    {
+        font-size:100%;
+        font-style:normal;
+        font-variant:normal;
+        font-weight:lighter;
+    }
+    50%
+    {
+        font-size:200%;
+        font-style:italic;
+        font-variant:small-caps;
+        font-weight:bold;
+    }
+    100%
+    {
+        font-size:50%;
+        font-style:oblique;
+        font-variant:normal;
+        font-weight:bolder;
+    }
+}
+
+@-webkit-keyframes fontchange /* Safari and Chrome */
+{
+    0%
+    {
+        font-size:100%;
+        font-style:normal;
+        font-variant:normal;
+        font-weight:lighter;
+    }
+    50%
+    {
+        font-size:200%;
+        font-style:italic;
+        font-variant:small-caps;
+        font-weight:bold;
+    }
+    100%
+    {
+        font-size:50%;
+        font-style:oblique;
+        font-variant:normal;
+        font-weight:bolder;
+    }
+}
+
+@-o-keyframes fontchange /* Opera */
+{
+    0%
+    {
+        font-size:100%;
+        font-style:normal;
+        font-variant:normal;
+        font-weight:lighter;
+    }
+    50%
+    {
+        font-size:200%;
+        font-style:italic;
+        font-variant:small-caps;
+        font-weight:bold;
+    }
+    100%
+    {
+        font-size:50%;
+        font-style:oblique;
+        font-variant:normal;
+        font-weight:bolder;
+    }
+}
+
+.margin
+{
+    animation:marginchange 5s infinite alternate;
+    -moz-animation:marginchange 5s infinite alternate; /* Firefox */
+    -webkit-animation:marginchange 5s infinite alternate; /* Safari and Chrome */
+    -o-animation:marginchange 5s infinite alternate; /* Opera */
+}
+
+@keyframes marginchange
+{
+    0%{margin:0px auto;}
+    100%{margin:75px auto;}
+}
+
+@-moz-keyframes marginchange /* Firefox */
+{
+    0%{margin:0px auto;}
+    100%{margin:75px auto;}
+}
+
+@-webkit-keyframes marginchange /* Safari and Chrome */
+{
+    0%{margin:0px auto;}
+    100%{margin:75px auto;}
+}
+
+@-o-keyframes marginchange /* Opera */
+{
+    0%{margin:0px auto;}
+    100%{margin:75px auto;}
+}
+
+.padding
+{
+    border:black solid 2px;
+    animation:paddingchange 5s infinite alternate;
+    -moz-animation:paddingchange 5s infinite alternate; /* Firefox */
+    -webkit-animation:paddingchange 5s infinite alternate; /* Safari and Chrome */
+    -o-animation:paddingchange 5s infinite alternate; /* Opera */
+}
+
+@keyframes paddingchange
+{
+    0%{padding:0px;}
+    100%{padding:50px;}
+}
+
+@-moz-keyframes paddingchange /* Firefox */
+{
+    0%{padding:0px;}
+    100%{padding:50px;}
+}
+
+@-webkit-keyframes paddingchange /* Safari and Chrome */
+{
+    0%{padding:0px;}
+    100%{padding:50px;}
+}
+
+@-o-keyframes paddingchange /* Opera */
+{
+    0%{padding:0px;}
+    100%{padding:50px;}
+}
+
+.text
+{
+    animation:textchange 10s infinite alternate;
+    -moz-animation:textchange 10s infinite alternate; /* Firefox */
+    -webkit-animation:textchange 10s infinite alternate; /* Safari and Chrome */
+    -o-animation:textchange 10s infinite alternate; /* Opera */
+}
+
+@keyframes textchange
+{
+    0%
+    {
+        letter-spacing:2px;
+        text-decoration: overline;
+        text-shadow: 5px 5px 5px red;
+    }
+    50%
+    {
+        letter-spacing:0px;
+        text-decoration: line-through;
+        text-shadow: 5px 5px 5px green;
+    }
+    100%
+    {
+        letter-spacing:-2px;
+        text-decoration: underline;
+        text-shadow: 5px 5px 5px blue;
+    }
+}
+
+@-moz-keyframes textchange /* Firefox */
+{
+    0%
+    {
+        letter-spacing:2px;
+        text-decoration: overline;
+        text-shadow: 5px 5px 5px red;
+    }
+    50%
+    {
+        letter-spacing:0px;
+        text-decoration: line-through;
+        text-shadow: 5px 5px 5px green;
+    }
+    100%
+    {
+        letter-spacing:-2px;
+        text-decoration: underline;
+        text-shadow: 5px 5px 5px blue;
+    }
+}
+
+@-webkit-keyframes textchange /* Safari and Chrome */
+{
+    0%
+    {
+        letter-spacing:2px;
+        text-decoration: overline;
+        text-shadow: 5px 5px 5px red;
+    }
+    50%
+    {
+        letter-spacing:0px;
+        text-decoration: line-through;
+        text-shadow: 5px 5px 5px green;
+    }
+    100%
+    {
+        letter-spacing:-2px;
+        text-decoration: underline;
+        text-shadow: 5px 5px 5px blue;
+    }
+}
+
+@-o-keyframes textchange /* Opera */
+{
+    0%
+    {
+        letter-spacing:2px;
+        text-decoration: overline;
+        text-shadow: 5px 5px 5px red;
+    }
+    50%
+    {
+        letter-spacing:0px;
+        text-decoration: line-through;
+        text-shadow: 5px 5px 5px green;
+    }
+    100%
+    {
+        letter-spacing:-2px;
+        text-decoration: underline;
+        text-shadow: 5px 5px 5px blue;
+    }
+}
+
+.transition
+{
+    transition:padding 2s;
+}
+.transition:hover
+{
+    padding:32px 128px;
+}

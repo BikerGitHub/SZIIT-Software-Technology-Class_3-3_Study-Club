@@ -1,0 +1,95 @@
+.text
+{
+    animation:textchange 10s infinite alternate;
+    -moz-animation:textchange 10s infinite alternate; /* Firefox */
+    -webkit-animation:textchange 10s infinite alternate; /* Safari and Chrome */
+    -o-animation:textchange 10s infinite alternate; /* Opera */
+}
+
+@keyframes textchange
+{
+    0%
+    {
+        letter-spacing:2px;
+        text-decoration: overline;
+        text-shadow: 5px 5px 5px red;
+    }
+    50%
+    {
+        letter-spacing:0px;
+        text-decoration: line-through;
+        text-shadow: 5px 5px 5px green;
+    }
+    100%
+    {
+        letter-spacing:-2px;
+        text-decoration: underline;
+        text-shadow: 5px 5px 5px blue;
+    }
+}
+
+@-moz-keyframes textchange /* Firefox */
+{
+    0%
+    {
+        letter-spacing:2px;
+        text-decoration: overline;
+        text-shadow: 5px 5px 5px red;
+    }
+    50%
+    {
+        letter-spacing:0px;
+        text-decoration: line-through;
+        text-shadow: 5px 5px 5px green;
+    }
+    100%
+    {
+        letter-spacing:-2px;
+        text-decoration: underline;
+        text-shadow: 5px 5px 5px blue;
+    }
+}
+
+@-webkit-keyframes textchange /* Safari and Chrome */
+{
+    0%
+    {
+        letter-spacing:2px;
+        text-decoration: overline;
+        text-shadow: 5px 5px 5px red;
+    }
+    50%
+    {
+        letter-spacing:0px;
+        text-decoration: line-through;
+        text-shadow: 5px 5px 5px green;
+    }
+    100%
+    {
+        letter-spacing:-2px;
+        text-decoration: underline;
+        text-shadow: 5px 5px 5px blue;
+    }
+}
+
+@-o-keyframes textchange /* Opera */
+{
+    0%
+    {
+        letter-spacing:2px;
+        text-decoration: overline;
+        text-shadow: 5px 5px 5px red;
+    }
+    50%
+    {
+        letter-spacing:0px;
+        text-decoration: line-through;
+        text-shadow: 5px 5px 5px green;
+    }
+    100%
+    {
+        letter-spacing:-2px;
+        text-decoration: underline;
+        text-shadow: 5px 5px 5px blue;
+    }
+}

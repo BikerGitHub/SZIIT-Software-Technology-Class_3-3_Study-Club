@@ -1,0 +1,84 @@
+.background
+{
+    animation:bgmove 5s infinite alternate;
+    -moz-animation:bgmove 5s infinite alternate; /* Firefox */
+    -webkit-animation:bgmove 5s infinite alternate; /* Safari and Chrome */
+    -o-animation:bgmove 5s infinite alternate; /* Opera */
+}
+
+@keyframes bgmove
+{
+    0%
+    {
+        color:red;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 0px 0px;
+    }
+    50%
+    {
+        color:green;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 1600px 900px;
+    }
+    100%
+    {
+        color:blue;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 0px 0px;
+    }
+}
+
+@-moz-keyframes bgmove /* Firefox */
+{
+    0%
+    {
+        color:red;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 0px 0px;
+    }
+    50%
+    {
+        color:green;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 1600px 900px;
+    }
+    100%
+    {
+        color:blue;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 0px 0px;
+    }
+}
+
+@-webkit-keyframes bgmove /* Safari and Chrome */
+{
+    0%
+    {
+        color:red;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 0px 0px;
+    }
+    50%
+    {
+        color:green;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 1600px 900px;
+    }
+    100%
+    {
+        color:blue;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 0px 0px;
+    }
+}
+
+@-o-keyframes bgmove /* Opera */
+{
+    0%
+    {
+        color:red;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 0px 0px;
+    }
+    50%
+    {
+        color:green;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 1600px 900px;
+    }
+    100%
+    {
+        color:blue;
+        background: url(../img/kickass-desktop-wallpapers-1.jpg) 0px 0px;
+    }
+}
+
